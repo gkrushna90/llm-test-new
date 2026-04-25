@@ -1,0 +1,90 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="INFORMATION" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="pandas" />
+          <option value="fiona" />
+          <option value="geopandas" />
+          <option value="pygeos" />
+          <option value="rtree" />
+          <option value="Shapely" />
+          <option value="pymongo" />
+          <option value="requests" />
+          <option value="sentinelhub" />
+          <option value="sentinelsat" />
+          <option value="statsd" />
+          <option value="marshmallow" />
+          <option value="rio-cogeo" />
+          <option value="click" />
+          <option value="rasterio" />
+          <option value="numpy" />
+          <option value="morecantile" />
+          <option value="pydantic" />
+          <option value="opencv-python" />
+          <option value="psycopg2-binary" />
+          <option value="matplotlib" />
+          <option value="python-dotenv" />
+          <option value="kafka-python" />
+          <option value="pandas-schema" />
+          <option value="s2cloudless" />
+          <option value="timezonefinder" />
+          <option value="s2" />
+          <option value="Authlib" />
+          <option value="pystac_client" />
+          <option value="datadog-api-client" />
+          <option value="torch" />
+          <option value="jsondiff" />
+          <option value="seaborn" />
+          <option value="earthengine-api" />
+          <option value="plotly" />
+          <option value="modis-tools" />
+          <option value="meteomatics" />
+          <option value="xarray" />
+          <option value="rioxarray" />
+          <option value="pycountry" />
+          <option value="pytest" />
+          <option value="pytest-cov" />
+          <option value="pytest-mypy" />
+          <option value="pytest-benchmark" />
+          <option value="codecov" />
+          <option value="colorlog" />
+          <option value="crick" />
+          <option value="moto" />
+          <option value="pymysql" />
+          <option value="psycopg2" />
+          <option value="sphinx" />
+          <option value="sphinx_autodoc_typehints" />
+          <option value="sphinx-click" />
+          <option value="apispec" />
+          <option value="apispec-webframeworks" />
+          <option value="boto3" />
+          <option value="cachetools" />
+          <option value="click-spinner" />
+          <option value="flask" />
+          <option value="flask_cors" />
+          <option value="mercantile" />
+          <option value="pillow" />
+          <option value="pyyaml" />
+          <option value="shapely" />
+          <option value="sqlalchemy" />
+          <option value="toml" />
+          <option value="tqdm" />
+          <option value="geog" />
+          <option value="setuptools_scm" />
+          <option value="setuptools_scm_git_archive" />
+          <option value="attrs" />
+          <option value="aws-xray-sdk" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="airflow.providers.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

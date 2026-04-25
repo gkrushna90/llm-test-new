@@ -1,0 +1,2871 @@
+Q: What is 1+1?
+A: 1+1=2.
+Q: What is 2+2?
+A: 2+2=4.
+Q: What is 3+3?
+A: 3+3=6.
+Q: What is 4+4?
+A: 4+4=8.
+Q: What is 5+5?
+A: 5+5=10.
+Q: What is 6+6?
+A: 6+6=12.
+Q: What is 7+7?
+A: 7+7=14.
+Q: What is 8+8?
+A: 8+8=16.
+Q: What is 9+9?
+A: 9+9=18.
+Q: What is 10+10?
+A: 10+10=20.
+Q: What is 2+3?
+A: 2+3=5.
+Q: What is 3+4?
+A: 3+4=7.
+Q: What is 4+5?
+A: 4+5=9.
+Q: What is 5+6?
+A: 5+6=11.
+Q: What is 6+7?
+A: 6+7=13.
+Q: What is 7+8?
+A: 7+8=15.
+Q: What is 8+9?
+A: 8+9=17.
+Q: What is 9+10?
+A: 9+10=19.
+Q: What is 10+5?
+A: 10+5=15.
+Q: What is 12+8?
+A: 12+8=20.
+Q: What is 15+5?
+A: 15+5=20.
+Q: What is 20+10?
+A: 20+10=30.
+Q: What is 25+25?
+A: 25+25=50.
+Q: What is 30+20?
+A: 30+20=50.
+Q: What is 50+50?
+A: 50+50=100.
+Q: What is 2*2?
+A: 2*2=4.
+Q: What is 3*3?
+A: 3*3=9.
+Q: What is 4*4?
+A: 4*4=16.
+Q: What is 5*5?
+A: 5*5=25.
+Q: What is 6*6?
+A: 6*6=36.
+Q: What is 7*7?
+A: 7*7=49.
+Q: What is 8*8?
+A: 8*8=64.
+Q: What is 9*9?
+A: 9*9=81.
+Q: What is 10*10?
+A: 10*10=100.
+Q: What is 2*3?
+A: 2*3=6.
+Q: What is 3*4?
+A: 3*4=12.
+Q: What is 4*5?
+A: 4*5=20.
+Q: What is 5*6?
+A: 5*6=30.
+Q: What is 6*7?
+A: 6*7=42.
+Q: What is 7*8?
+A: 7*8=56.
+Q: What is 8*9?
+A: 8*9=72.
+Q: What is 10-3?
+A: 10-3=7.
+Q: What is 20-5?
+A: 20-5=15.
+Q: What is 50-25?
+A: 50-25=25.
+Q: What is 100-50?
+A: 100-50=50.
+Q: What is 10/2?
+A: 10/2=5.
+Q: What is 20/4?
+A: 20/4=5.
+Q: What is 100/10?
+A: 100/10=10.
+Q: What is the capital of India?
+A: The capital of India is New Delhi.
+Q: What is the capital of France?
+A: The capital of France is Paris.
+Q: What is the capital of Japan?
+A: The capital of Japan is Tokyo.
+Q: What is the capital of Germany?
+A: The capital of Germany is Berlin.
+Q: What is the capital of Italy?
+A: The capital of Italy is Rome.
+Q: What is the capital of China?
+A: The capital of China is Beijing.
+Q: What is the capital of Russia?
+A: The capital of Russia is Moscow.
+Q: What is the capital of Brazil?
+A: The capital of Brazil is Brasilia.
+Q: What is the capital of Australia?
+A: The capital of Australia is Canberra.
+Q: What is the capital of Canada?
+A: The capital of Canada is Ottawa.
+Q: What is the capital of the United States?
+A: The capital of the United States is Washington D.C.
+Q: What is the capital of the United Kingdom?
+A: The capital of the United Kingdom is London.
+Q: What is the capital of Spain?
+A: The capital of Spain is Madrid.
+Q: What is the capital of Egypt?
+A: The capital of Egypt is Cairo.
+Q: What is the capital of Mexico?
+A: The capital of Mexico is Mexico City.
+Q: What is the capital of South Korea?
+A: The capital of South Korea is Seoul.
+Q: What is the capital of Turkey?
+A: The capital of Turkey is Ankara.
+Q: What is the capital of Argentina?
+A: The capital of Argentina is Buenos Aires.
+Q: What is the capital of South Africa?
+A: The capital of South Africa is Pretoria.
+Q: What is the capital of Indonesia?
+A: The capital of Indonesia is Jakarta.
+Q: Who discovered America?
+A: Christopher Columbus discovered America in 1492.
+Q: Who was the first President of the United States?
+A: George Washington was the first President of the United States.
+Q: When did World War I begin?
+A: World War I began in 1914.
+Q: When did World War I end?
+A: World War I ended in 1918.
+Q: When did World War II begin?
+A: World War II began in 1939.
+Q: When did World War II end?
+A: World War II ended in 1945.
+Q: Who built the pyramids?
+A: The ancient Egyptians built the pyramids.
+Q: Who invented the telephone?
+A: Alexander Graham Bell invented the telephone in 1876.
+Q: Who invented the light bulb?
+A: Thomas Edison invented the light bulb in 1879.
+Q: Who invented electricity?
+A: Benjamin Franklin studied electricity. Michael Faraday invented the electric motor.
+Q: Who painted the Mona Lisa?
+A: Leonardo da Vinci painted the Mona Lisa.
+Q: Who wrote Romeo and Juliet?
+A: William Shakespeare wrote Romeo and Juliet.
+Q: Who discovered gravity?
+A: Isaac Newton discovered gravity.
+Q: What is the theory of relativity?
+A: Albert Einstein created the theory of relativity in 1905.
+Q: Who was Mahatma Gandhi?
+A: Mahatma Gandhi was the leader of Indian independence. He was born in 1869.
+Q: When did India gain independence?
+A: India gained independence on August 15, 1947.
+Q: Who was the first man on the moon?
+A: Neil Armstrong was the first man on the moon in 1969.
+Q: Who was Alexander the Great?
+A: Alexander the Great was a king of Macedonia who conquered a vast empire.
+Q: Who was Julius Caesar?
+A: Julius Caesar was a Roman leader who was assassinated in 44 BC.
+Q: Who was Napoleon?
+A: Napoleon Bonaparte was the Emperor of France from 1804 to 1814.
+Q: What was the French Revolution?
+A: The French Revolution began in 1789. It overthrew the monarchy in France.
+Q: What was the Industrial Revolution?
+A: The Industrial Revolution began in the 1760s in Britain. It changed manufacturing.
+Q: Who discovered penicillin?
+A: Alexander Fleming discovered penicillin in 1928.
+Q: Who was Abraham Lincoln?
+A: Abraham Lincoln was the 16th President of the United States. He ended slavery.
+Q: What is the Great Wall of China?
+A: The Great Wall of China is a wall built to protect China. It is over 13000 miles long.
+Q: What is the Taj Mahal?
+A: The Taj Mahal is a monument in Agra, India. It was built by Shah Jahan in 1632.
+Q: What is the Colosseum?
+A: The Colosseum is an ancient arena in Rome, Italy. It was built in 80 AD.
+Q: What is the largest ocean?
+A: The Pacific Ocean is the largest ocean in the world.
+Q: What is the longest river?
+A: The Nile River is the longest river in the world at 6650 km.
+Q: What is the largest country?
+A: Russia is the largest country in the world by area.
+Q: What is the smallest country?
+A: Vatican City is the smallest country in the world.
+Q: What is the largest planet?
+A: Jupiter is the largest planet in the solar system.
+Q: What is the smallest planet?
+A: Mercury is the smallest planet in the solar system.
+Q: How many planets are in the solar system?
+A: There are 8 planets in the solar system.
+Q: What are the planets in order?
+A: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune.
+Q: What is the sun?
+A: The sun is a star at the center of our solar system.
+Q: What is the moon?
+A: The moon is Earth's natural satellite.
+Q: What is the speed of light?
+A: The speed of light is 300000 km per second.
+Q: What is the boiling point of water?
+A: The boiling point of water is 100 degrees Celsius.
+Q: What is the freezing point of water?
+A: The freezing point of water is 0 degrees Celsius.
+Q: What is photosynthesis?
+A: Photosynthesis is the process by which plants convert sunlight into energy.
+Q: What is DNA?
+A: DNA is the molecule that carries genetic instructions in living organisms.
+Q: What is the largest animal?
+A: The blue whale is the largest animal on Earth.
+Q: What is the fastest animal?
+A: The cheetah is the fastest land animal at 120 km per hour.
+Q: How many continents are there?
+A: There are 7 continents: Asia, Africa, North America, South America, Antarctica, Europe, Australia.
+Q: What is democracy?
+A: Democracy is a system of government where the people choose their leaders by voting.
+Q: What is the United Nations?
+A: The United Nations was founded in 1945. It promotes peace and cooperation between countries.
+Q: Who invented the computer?
+A: Charles Babbage designed the first computer in the 1830s.
+Q: Who invented the internet?
+A: The internet was developed by ARPANET in the 1960s. Tim Berners-Lee created the World Wide Web in 1989.
+Q: What is pi?
+A: Pi is approximately 3.14159. It is the ratio of a circle's circumference to its diameter.
+Q: What is a prime number?
+A: A prime number is a number greater than 1 that is only divisible by 1 and itself.
+Q: What are the first 10 prime numbers?
+A: The first 10 prime numbers are 2, 3, 5, 7, 11, 13, 17, 19, 23, 29.
+Q: What is the square root of 144?
+A: The square root of 144 is 12.
+Q: What is the square root of 81?
+A: The square root of 81 is 9.
+Q: What is the square root of 64?
+A: The square root of 64 is 8.
+Q: What is the square root of 25?
+A: The square root of 25 is 5.
+Q: What is 2 to the power of 10?
+A: 2 to the power of 10 is 1024.
+Q: What is the Pythagorean theorem?
+A: The Pythagorean theorem states that a squared plus b squared equals c squared.
+Q: What is the area of a circle?
+A: The area of a circle is pi times radius squared.
+Q: What is the area of a triangle?
+A: The area of a triangle is half times base times height.
+Q: What is gravity?
+A: Gravity is a force that attracts objects toward each other. On Earth it is 9.8 m/s squared.
+Q: What is an atom?
+A: An atom is the smallest unit of matter. It has protons, neutrons, and electrons.
+Q: What is the periodic table?
+A: The periodic table organizes all known chemical elements by atomic number.
+Q: What is H2O?
+A: H2O is the chemical formula for water. It has 2 hydrogen atoms and 1 oxygen atom.
+Q: What is oxygen?
+A: Oxygen is a chemical element. Humans need oxygen to breathe.
+Q: What is carbon dioxide?
+A: Carbon dioxide is CO2. Plants absorb it during photosynthesis.
+Q: Who was Cleopatra?
+A: Cleopatra was the last pharaoh of ancient Egypt. She ruled from 51 BC to 30 BC.
+Q: Who was Genghis Khan?
+A: Genghis Khan founded the Mongol Empire in 1206. It became the largest land empire.
+Q: What was the Renaissance?
+A: The Renaissance was a period of art and learning in Europe from the 14th to 17th century.
+Q: What was the Cold War?
+A: The Cold War was a rivalry between the USA and USSR from 1947 to 1991.
+Q: When did the Berlin Wall fall?
+A: The Berlin Wall fell on November 9, 1989.
+Q: Who was Martin Luther King Jr?
+A: Martin Luther King Jr was a civil rights leader. He gave the I Have a Dream speech in 1963.
+Q: Who was Nelson Mandela?
+A: Nelson Mandela was the first black President of South Africa in 1994.
+Q: What is the Magna Carta?
+A: The Magna Carta was signed in 1215. It limited the power of the English king.
+Q: What is the Declaration of Independence?
+A: The Declaration of Independence was signed on July 4, 1776. It declared American freedom from Britain.
+Q: What is the Constitution?
+A: The Constitution is the supreme law of the United States. It was written in 1787.Q: What is 1+1?
+A: 1+1=2.
+Q: What is 2+2?
+A: 2+2=4.
+Q: What is 3+3?
+A: 3+3=6.
+Q: What is 4+4?
+A: 4+4=8.
+Q: What is 5+5?
+A: 5+5=10.
+Q: What is 6+6?
+A: 6+6=12.
+Q: What is 7+7?
+A: 7+7=14.
+Q: What is 8+8?
+A: 8+8=16.
+Q: What is 9+9?
+A: 9+9=18.
+Q: What is 10+10?
+A: 10+10=20.
+Q: What is 2+3?
+A: 2+3=5.
+Q: What is 3+4?
+A: 3+4=7.
+Q: What is 4+5?
+A: 4+5=9.
+Q: What is 5+6?
+A: 5+6=11.
+Q: What is 6+7?
+A: 6+7=13.
+Q: What is 7+8?
+A: 7+8=15.
+Q: What is 8+9?
+A: 8+9=17.
+Q: What is 9+10?
+A: 9+10=19.
+Q: What is 10+5?
+A: 10+5=15.
+Q: What is 12+8?
+A: 12+8=20.
+Q: What is 15+5?
+A: 15+5=20.
+Q: What is 20+10?
+A: 20+10=30.
+Q: What is 25+25?
+A: 25+25=50.
+Q: What is 30+20?
+A: 30+20=50.
+Q: What is 50+50?
+A: 50+50=100.
+Q: What is 2*2?
+A: 2*2=4.
+Q: What is 3*3?
+A: 3*3=9.
+Q: What is 4*4?
+A: 4*4=16.
+Q: What is 5*5?
+A: 5*5=25.
+Q: What is 6*6?
+A: 6*6=36.
+Q: What is 7*7?
+A: 7*7=49.
+Q: What is 8*8?
+A: 8*8=64.
+Q: What is 9*9?
+A: 9*9=81.
+Q: What is 10*10?
+A: 10*10=100.
+Q: What is 2*3?
+A: 2*3=6.
+Q: What is 3*4?
+A: 3*4=12.
+Q: What is 4*5?
+A: 4*5=20.
+Q: What is 5*6?
+A: 5*6=30.
+Q: What is 6*7?
+A: 6*7=42.
+Q: What is 7*8?
+A: 7*8=56.
+Q: What is 8*9?
+A: 8*9=72.
+Q: What is 10-3?
+A: 10-3=7.
+Q: What is 20-5?
+A: 20-5=15.
+Q: What is 50-25?
+A: 50-25=25.
+Q: What is 100-50?
+A: 100-50=50.
+Q: What is 10/2?
+A: 10/2=5.
+Q: What is 20/4?
+A: 20/4=5.
+Q: What is 100/10?
+A: 100/10=10.
+Q: What is the capital of India?
+A: The capital of India is New Delhi.
+Q: What is the capital of France?
+A: The capital of France is Paris.
+Q: What is the capital of Japan?
+A: The capital of Japan is Tokyo.
+Q: What is the capital of Germany?
+A: The capital of Germany is Berlin.
+Q: What is the capital of Italy?
+A: The capital of Italy is Rome.
+Q: What is the capital of China?
+A: The capital of China is Beijing.
+Q: What is the capital of Russia?
+A: The capital of Russia is Moscow.
+Q: What is the capital of Brazil?
+A: The capital of Brazil is Brasilia.
+Q: What is the capital of Australia?
+A: The capital of Australia is Canberra.
+Q: What is the capital of Canada?
+A: The capital of Canada is Ottawa.
+Q: What is the capital of the United States?
+A: The capital of the United States is Washington D.C.
+Q: What is the capital of the United Kingdom?
+A: The capital of the United Kingdom is London.
+Q: What is the capital of Spain?
+A: The capital of Spain is Madrid.
+Q: What is the capital of Egypt?
+A: The capital of Egypt is Cairo.
+Q: What is the capital of Mexico?
+A: The capital of Mexico is Mexico City.
+Q: What is the capital of South Korea?
+A: The capital of South Korea is Seoul.
+Q: What is the capital of Turkey?
+A: The capital of Turkey is Ankara.
+Q: What is the capital of Argentina?
+A: The capital of Argentina is Buenos Aires.
+Q: What is the capital of South Africa?
+A: The capital of South Africa is Pretoria.
+Q: What is the capital of Indonesia?
+A: The capital of Indonesia is Jakarta.
+Q: Who discovered America?
+A: Christopher Columbus discovered America in 1492.
+Q: Who was the first President of the United States?
+A: George Washington was the first President of the United States.
+Q: When did World War I begin?
+A: World War I began in 1914.
+Q: When did World War I end?
+A: World War I ended in 1918.
+Q: When did World War II begin?
+A: World War II began in 1939.
+Q: When did World War II end?
+A: World War II ended in 1945.
+Q: Who built the pyramids?
+A: The ancient Egyptians built the pyramids.
+Q: Who invented the telephone?
+A: Alexander Graham Bell invented the telephone in 1876.
+Q: Who invented the light bulb?
+A: Thomas Edison invented the light bulb in 1879.
+Q: Who invented electricity?
+A: Benjamin Franklin studied electricity. Michael Faraday invented the electric motor.
+Q: Who painted the Mona Lisa?
+A: Leonardo da Vinci painted the Mona Lisa.
+Q: Who wrote Romeo and Juliet?
+A: William Shakespeare wrote Romeo and Juliet.
+Q: Who discovered gravity?
+A: Isaac Newton discovered gravity.
+Q: What is the theory of relativity?
+A: Albert Einstein created the theory of relativity in 1905.
+Q: Who was Mahatma Gandhi?
+A: Mahatma Gandhi was the leader of Indian independence. He was born in 1869.
+Q: When did India gain independence?
+A: India gained independence on August 15, 1947.
+Q: Who was the first man on the moon?
+A: Neil Armstrong was the first man on the moon in 1969.
+Q: Who was Alexander the Great?
+A: Alexander the Great was a king of Macedonia who conquered a vast empire.
+Q: Who was Julius Caesar?
+A: Julius Caesar was a Roman leader who was assassinated in 44 BC.
+Q: Who was Napoleon?
+A: Napoleon Bonaparte was the Emperor of France from 1804 to 1814.
+Q: What was the French Revolution?
+A: The French Revolution began in 1789. It overthrew the monarchy in France.
+Q: What was the Industrial Revolution?
+A: The Industrial Revolution began in the 1760s in Britain. It changed manufacturing.
+Q: Who discovered penicillin?
+A: Alexander Fleming discovered penicillin in 1928.
+Q: Who was Abraham Lincoln?
+A: Abraham Lincoln was the 16th President of the United States. He ended slavery.
+Q: What is the Great Wall of China?
+A: The Great Wall of China is a wall built to protect China. It is over 13000 miles long.
+Q: What is the Taj Mahal?
+A: The Taj Mahal is a monument in Agra, India. It was built by Shah Jahan in 1632.
+Q: What is the Colosseum?
+A: The Colosseum is an ancient arena in Rome, Italy. It was built in 80 AD.
+Q: What is the largest ocean?
+A: The Pacific Ocean is the largest ocean in the world.
+Q: What is the longest river?
+A: The Nile River is the longest river in the world at 6650 km.
+Q: What is the largest country?
+A: Russia is the largest country in the world by area.
+Q: What is the smallest country?
+A: Vatican City is the smallest country in the world.
+Q: What is the largest planet?
+A: Jupiter is the largest planet in the solar system.
+Q: What is the smallest planet?
+A: Mercury is the smallest planet in the solar system.
+Q: How many planets are in the solar system?
+A: There are 8 planets in the solar system.
+Q: What are the planets in order?
+A: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune.
+Q: What is the sun?
+A: The sun is a star at the center of our solar system.
+Q: What is the moon?
+A: The moon is Earth's natural satellite.
+Q: What is the speed of light?
+A: The speed of light is 300000 km per second.
+Q: What is the boiling point of water?
+A: The boiling point of water is 100 degrees Celsius.
+Q: What is the freezing point of water?
+A: The freezing point of water is 0 degrees Celsius.
+Q: What is photosynthesis?
+A: Photosynthesis is the process by which plants convert sunlight into energy.
+Q: What is DNA?
+A: DNA is the molecule that carries genetic instructions in living organisms.
+Q: What is the largest animal?
+A: The blue whale is the largest animal on Earth.
+Q: What is the fastest animal?
+A: The cheetah is the fastest land animal at 120 km per hour.
+Q: How many continents are there?
+A: There are 7 continents: Asia, Africa, North America, South America, Antarctica, Europe, Australia.
+Q: What is democracy?
+A: Democracy is a system of government where the people choose their leaders by voting.
+Q: What is the United Nations?
+A: The United Nations was founded in 1945. It promotes peace and cooperation between countries.
+Q: Who invented the computer?
+A: Charles Babbage designed the first computer in the 1830s.
+Q: Who invented the internet?
+A: The internet was developed by ARPANET in the 1960s. Tim Berners-Lee created the World Wide Web in 1989.
+Q: What is pi?
+A: Pi is approximately 3.14159. It is the ratio of a circle's circumference to its diameter.
+Q: What is a prime number?
+A: A prime number is a number greater than 1 that is only divisible by 1 and itself.
+Q: What are the first 10 prime numbers?
+A: The first 10 prime numbers are 2, 3, 5, 7, 11, 13, 17, 19, 23, 29.
+Q: What is the square root of 144?
+A: The square root of 144 is 12.
+Q: What is the square root of 81?
+A: The square root of 81 is 9.
+Q: What is the square root of 64?
+A: The square root of 64 is 8.
+Q: What is the square root of 25?
+A: The square root of 25 is 5.
+Q: What is 2 to the power of 10?
+A: 2 to the power of 10 is 1024.
+Q: What is the Pythagorean theorem?
+A: The Pythagorean theorem states that a squared plus b squared equals c squared.
+Q: What is the area of a circle?
+A: The area of a circle is pi times radius squared.
+Q: What is the area of a triangle?
+A: The area of a triangle is half times base times height.
+Q: What is gravity?
+A: Gravity is a force that attracts objects toward each other. On Earth it is 9.8 m/s squared.
+Q: What is an atom?
+A: An atom is the smallest unit of matter. It has protons, neutrons, and electrons.
+Q: What is the periodic table?
+A: The periodic table organizes all known chemical elements by atomic number.
+Q: What is H2O?
+A: H2O is the chemical formula for water. It has 2 hydrogen atoms and 1 oxygen atom.
+Q: What is oxygen?
+A: Oxygen is a chemical element. Humans need oxygen to breathe.
+Q: What is carbon dioxide?
+A: Carbon dioxide is CO2. Plants absorb it during photosynthesis.
+Q: Who was Cleopatra?
+A: Cleopatra was the last pharaoh of ancient Egypt. She ruled from 51 BC to 30 BC.
+Q: Who was Genghis Khan?
+A: Genghis Khan founded the Mongol Empire in 1206. It became the largest land empire.
+Q: What was the Renaissance?
+A: The Renaissance was a period of art and learning in Europe from the 14th to 17th century.
+Q: What was the Cold War?
+A: The Cold War was a rivalry between the USA and USSR from 1947 to 1991.
+Q: When did the Berlin Wall fall?
+A: The Berlin Wall fell on November 9, 1989.
+Q: Who was Martin Luther King Jr?
+A: Martin Luther King Jr was a civil rights leader. He gave the I Have a Dream speech in 1963.
+Q: Who was Nelson Mandela?
+A: Nelson Mandela was the first black President of South Africa in 1994.
+Q: What is the Magna Carta?
+A: The Magna Carta was signed in 1215. It limited the power of the English king.
+Q: What is the Declaration of Independence?
+A: The Declaration of Independence was signed on July 4, 1776. It declared American freedom from Britain.
+Q: What is the Constitution?
+A: The Constitution is the supreme law of the United States. It was written in 1787.Q: What is 1+1?
+A: 1+1=2.
+Q: What is 2+2?
+A: 2+2=4.
+Q: What is 3+3?
+A: 3+3=6.
+Q: What is 4+4?
+A: 4+4=8.
+Q: What is 5+5?
+A: 5+5=10.
+Q: What is 6+6?
+A: 6+6=12.
+Q: What is 7+7?
+A: 7+7=14.
+Q: What is 8+8?
+A: 8+8=16.
+Q: What is 9+9?
+A: 9+9=18.
+Q: What is 10+10?
+A: 10+10=20.
+Q: What is 2+3?
+A: 2+3=5.
+Q: What is 3+4?
+A: 3+4=7.
+Q: What is 4+5?
+A: 4+5=9.
+Q: What is 5+6?
+A: 5+6=11.
+Q: What is 6+7?
+A: 6+7=13.
+Q: What is 7+8?
+A: 7+8=15.
+Q: What is 8+9?
+A: 8+9=17.
+Q: What is 9+10?
+A: 9+10=19.
+Q: What is 10+5?
+A: 10+5=15.
+Q: What is 12+8?
+A: 12+8=20.
+Q: What is 15+5?
+A: 15+5=20.
+Q: What is 20+10?
+A: 20+10=30.
+Q: What is 25+25?
+A: 25+25=50.
+Q: What is 30+20?
+A: 30+20=50.
+Q: What is 50+50?
+A: 50+50=100.
+Q: What is 2*2?
+A: 2*2=4.
+Q: What is 3*3?
+A: 3*3=9.
+Q: What is 4*4?
+A: 4*4=16.
+Q: What is 5*5?
+A: 5*5=25.
+Q: What is 6*6?
+A: 6*6=36.
+Q: What is 7*7?
+A: 7*7=49.
+Q: What is 8*8?
+A: 8*8=64.
+Q: What is 9*9?
+A: 9*9=81.
+Q: What is 10*10?
+A: 10*10=100.
+Q: What is 2*3?
+A: 2*3=6.
+Q: What is 3*4?
+A: 3*4=12.
+Q: What is 4*5?
+A: 4*5=20.
+Q: What is 5*6?
+A: 5*6=30.
+Q: What is 6*7?
+A: 6*7=42.
+Q: What is 7*8?
+A: 7*8=56.
+Q: What is 8*9?
+A: 8*9=72.
+Q: What is 10-3?
+A: 10-3=7.
+Q: What is 20-5?
+A: 20-5=15.
+Q: What is 50-25?
+A: 50-25=25.
+Q: What is 100-50?
+A: 100-50=50.
+Q: What is 10/2?
+A: 10/2=5.
+Q: What is 20/4?
+A: 20/4=5.
+Q: What is 100/10?
+A: 100/10=10.
+Q: What is the capital of India?
+A: The capital of India is New Delhi.
+Q: What is the capital of France?
+A: The capital of France is Paris.
+Q: What is the capital of Japan?
+A: The capital of Japan is Tokyo.
+Q: What is the capital of Germany?
+A: The capital of Germany is Berlin.
+Q: What is the capital of Italy?
+A: The capital of Italy is Rome.
+Q: What is the capital of China?
+A: The capital of China is Beijing.
+Q: What is the capital of Russia?
+A: The capital of Russia is Moscow.
+Q: What is the capital of Brazil?
+A: The capital of Brazil is Brasilia.
+Q: What is the capital of Australia?
+A: The capital of Australia is Canberra.
+Q: What is the capital of Canada?
+A: The capital of Canada is Ottawa.
+Q: What is the capital of the United States?
+A: The capital of the United States is Washington D.C.
+Q: What is the capital of the United Kingdom?
+A: The capital of the United Kingdom is London.
+Q: What is the capital of Spain?
+A: The capital of Spain is Madrid.
+Q: What is the capital of Egypt?
+A: The capital of Egypt is Cairo.
+Q: What is the capital of Mexico?
+A: The capital of Mexico is Mexico City.
+Q: What is the capital of South Korea?
+A: The capital of South Korea is Seoul.
+Q: What is the capital of Turkey?
+A: The capital of Turkey is Ankara.
+Q: What is the capital of Argentina?
+A: The capital of Argentina is Buenos Aires.
+Q: What is the capital of South Africa?
+A: The capital of South Africa is Pretoria.
+Q: What is the capital of Indonesia?
+A: The capital of Indonesia is Jakarta.
+Q: Who discovered America?
+A: Christopher Columbus discovered America in 1492.
+Q: Who was the first President of the United States?
+A: George Washington was the first President of the United States.
+Q: When did World War I begin?
+A: World War I began in 1914.
+Q: When did World War I end?
+A: World War I ended in 1918.
+Q: When did World War II begin?
+A: World War II began in 1939.
+Q: When did World War II end?
+A: World War II ended in 1945.
+Q: Who built the pyramids?
+A: The ancient Egyptians built the pyramids.
+Q: Who invented the telephone?
+A: Alexander Graham Bell invented the telephone in 1876.
+Q: Who invented the light bulb?
+A: Thomas Edison invented the light bulb in 1879.
+Q: Who invented electricity?
+A: Benjamin Franklin studied electricity. Michael Faraday invented the electric motor.
+Q: Who painted the Mona Lisa?
+A: Leonardo da Vinci painted the Mona Lisa.
+Q: Who wrote Romeo and Juliet?
+A: William Shakespeare wrote Romeo and Juliet.
+Q: Who discovered gravity?
+A: Isaac Newton discovered gravity.
+Q: What is the theory of relativity?
+A: Albert Einstein created the theory of relativity in 1905.
+Q: Who was Mahatma Gandhi?
+A: Mahatma Gandhi was the leader of Indian independence. He was born in 1869.
+Q: When did India gain independence?
+A: India gained independence on August 15, 1947.
+Q: Who was the first man on the moon?
+A: Neil Armstrong was the first man on the moon in 1969.
+Q: Who was Alexander the Great?
+A: Alexander the Great was a king of Macedonia who conquered a vast empire.
+Q: Who was Julius Caesar?
+A: Julius Caesar was a Roman leader who was assassinated in 44 BC.
+Q: Who was Napoleon?
+A: Napoleon Bonaparte was the Emperor of France from 1804 to 1814.
+Q: What was the French Revolution?
+A: The French Revolution began in 1789. It overthrew the monarchy in France.
+Q: What was the Industrial Revolution?
+A: The Industrial Revolution began in the 1760s in Britain. It changed manufacturing.
+Q: Who discovered penicillin?
+A: Alexander Fleming discovered penicillin in 1928.
+Q: Who was Abraham Lincoln?
+A: Abraham Lincoln was the 16th President of the United States. He ended slavery.
+Q: What is the Great Wall of China?
+A: The Great Wall of China is a wall built to protect China. It is over 13000 miles long.
+Q: What is the Taj Mahal?
+A: The Taj Mahal is a monument in Agra, India. It was built by Shah Jahan in 1632.
+Q: What is the Colosseum?
+A: The Colosseum is an ancient arena in Rome, Italy. It was built in 80 AD.
+Q: What is the largest ocean?
+A: The Pacific Ocean is the largest ocean in the world.
+Q: What is the longest river?
+A: The Nile River is the longest river in the world at 6650 km.
+Q: What is the largest country?
+A: Russia is the largest country in the world by area.
+Q: What is the smallest country?
+A: Vatican City is the smallest country in the world.
+Q: What is the largest planet?
+A: Jupiter is the largest planet in the solar system.
+Q: What is the smallest planet?
+A: Mercury is the smallest planet in the solar system.
+Q: How many planets are in the solar system?
+A: There are 8 planets in the solar system.
+Q: What are the planets in order?
+A: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune.
+Q: What is the sun?
+A: The sun is a star at the center of our solar system.
+Q: What is the moon?
+A: The moon is Earth's natural satellite.
+Q: What is the speed of light?
+A: The speed of light is 300000 km per second.
+Q: What is the boiling point of water?
+A: The boiling point of water is 100 degrees Celsius.
+Q: What is the freezing point of water?
+A: The freezing point of water is 0 degrees Celsius.
+Q: What is photosynthesis?
+A: Photosynthesis is the process by which plants convert sunlight into energy.
+Q: What is DNA?
+A: DNA is the molecule that carries genetic instructions in living organisms.
+Q: What is the largest animal?
+A: The blue whale is the largest animal on Earth.
+Q: What is the fastest animal?
+A: The cheetah is the fastest land animal at 120 km per hour.
+Q: How many continents are there?
+A: There are 7 continents: Asia, Africa, North America, South America, Antarctica, Europe, Australia.
+Q: What is democracy?
+A: Democracy is a system of government where the people choose their leaders by voting.
+Q: What is the United Nations?
+A: The United Nations was founded in 1945. It promotes peace and cooperation between countries.
+Q: Who invented the computer?
+A: Charles Babbage designed the first computer in the 1830s.
+Q: Who invented the internet?
+A: The internet was developed by ARPANET in the 1960s. Tim Berners-Lee created the World Wide Web in 1989.
+Q: What is pi?
+A: Pi is approximately 3.14159. It is the ratio of a circle's circumference to its diameter.
+Q: What is a prime number?
+A: A prime number is a number greater than 1 that is only divisible by 1 and itself.
+Q: What are the first 10 prime numbers?
+A: The first 10 prime numbers are 2, 3, 5, 7, 11, 13, 17, 19, 23, 29.
+Q: What is the square root of 144?
+A: The square root of 144 is 12.
+Q: What is the square root of 81?
+A: The square root of 81 is 9.
+Q: What is the square root of 64?
+A: The square root of 64 is 8.
+Q: What is the square root of 25?
+A: The square root of 25 is 5.
+Q: What is 2 to the power of 10?
+A: 2 to the power of 10 is 1024.
+Q: What is the Pythagorean theorem?
+A: The Pythagorean theorem states that a squared plus b squared equals c squared.
+Q: What is the area of a circle?
+A: The area of a circle is pi times radius squared.
+Q: What is the area of a triangle?
+A: The area of a triangle is half times base times height.
+Q: What is gravity?
+A: Gravity is a force that attracts objects toward each other. On Earth it is 9.8 m/s squared.
+Q: What is an atom?
+A: An atom is the smallest unit of matter. It has protons, neutrons, and electrons.
+Q: What is the periodic table?
+A: The periodic table organizes all known chemical elements by atomic number.
+Q: What is H2O?
+A: H2O is the chemical formula for water. It has 2 hydrogen atoms and 1 oxygen atom.
+Q: What is oxygen?
+A: Oxygen is a chemical element. Humans need oxygen to breathe.
+Q: What is carbon dioxide?
+A: Carbon dioxide is CO2. Plants absorb it during photosynthesis.
+Q: Who was Cleopatra?
+A: Cleopatra was the last pharaoh of ancient Egypt. She ruled from 51 BC to 30 BC.
+Q: Who was Genghis Khan?
+A: Genghis Khan founded the Mongol Empire in 1206. It became the largest land empire.
+Q: What was the Renaissance?
+A: The Renaissance was a period of art and learning in Europe from the 14th to 17th century.
+Q: What was the Cold War?
+A: The Cold War was a rivalry between the USA and USSR from 1947 to 1991.
+Q: When did the Berlin Wall fall?
+A: The Berlin Wall fell on November 9, 1989.
+Q: Who was Martin Luther King Jr?
+A: Martin Luther King Jr was a civil rights leader. He gave the I Have a Dream speech in 1963.
+Q: Who was Nelson Mandela?
+A: Nelson Mandela was the first black President of South Africa in 1994.
+Q: What is the Magna Carta?
+A: The Magna Carta was signed in 1215. It limited the power of the English king.
+Q: What is the Declaration of Independence?
+A: The Declaration of Independence was signed on July 4, 1776. It declared American freedom from Britain.
+Q: What is the Constitution?
+A: The Constitution is the supreme law of the United States. It was written in 1787.Q: What is 1+1?
+A: 1+1=2.
+Q: What is 2+2?
+A: 2+2=4.
+Q: What is 3+3?
+A: 3+3=6.
+Q: What is 4+4?
+A: 4+4=8.
+Q: What is 5+5?
+A: 5+5=10.
+Q: What is 6+6?
+A: 6+6=12.
+Q: What is 7+7?
+A: 7+7=14.
+Q: What is 8+8?
+A: 8+8=16.
+Q: What is 9+9?
+A: 9+9=18.
+Q: What is 10+10?
+A: 10+10=20.
+Q: What is 2+3?
+A: 2+3=5.
+Q: What is 3+4?
+A: 3+4=7.
+Q: What is 4+5?
+A: 4+5=9.
+Q: What is 5+6?
+A: 5+6=11.
+Q: What is 6+7?
+A: 6+7=13.
+Q: What is 7+8?
+A: 7+8=15.
+Q: What is 8+9?
+A: 8+9=17.
+Q: What is 9+10?
+A: 9+10=19.
+Q: What is 10+5?
+A: 10+5=15.
+Q: What is 12+8?
+A: 12+8=20.
+Q: What is 15+5?
+A: 15+5=20.
+Q: What is 20+10?
+A: 20+10=30.
+Q: What is 25+25?
+A: 25+25=50.
+Q: What is 30+20?
+A: 30+20=50.
+Q: What is 50+50?
+A: 50+50=100.
+Q: What is 2*2?
+A: 2*2=4.
+Q: What is 3*3?
+A: 3*3=9.
+Q: What is 4*4?
+A: 4*4=16.
+Q: What is 5*5?
+A: 5*5=25.
+Q: What is 6*6?
+A: 6*6=36.
+Q: What is 7*7?
+A: 7*7=49.
+Q: What is 8*8?
+A: 8*8=64.
+Q: What is 9*9?
+A: 9*9=81.
+Q: What is 10*10?
+A: 10*10=100.
+Q: What is 2*3?
+A: 2*3=6.
+Q: What is 3*4?
+A: 3*4=12.
+Q: What is 4*5?
+A: 4*5=20.
+Q: What is 5*6?
+A: 5*6=30.
+Q: What is 6*7?
+A: 6*7=42.
+Q: What is 7*8?
+A: 7*8=56.
+Q: What is 8*9?
+A: 8*9=72.
+Q: What is 10-3?
+A: 10-3=7.
+Q: What is 20-5?
+A: 20-5=15.
+Q: What is 50-25?
+A: 50-25=25.
+Q: What is 100-50?
+A: 100-50=50.
+Q: What is 10/2?
+A: 10/2=5.
+Q: What is 20/4?
+A: 20/4=5.
+Q: What is 100/10?
+A: 100/10=10.
+Q: What is the capital of India?
+A: The capital of India is New Delhi.
+Q: What is the capital of France?
+A: The capital of France is Paris.
+Q: What is the capital of Japan?
+A: The capital of Japan is Tokyo.
+Q: What is the capital of Germany?
+A: The capital of Germany is Berlin.
+Q: What is the capital of Italy?
+A: The capital of Italy is Rome.
+Q: What is the capital of China?
+A: The capital of China is Beijing.
+Q: What is the capital of Russia?
+A: The capital of Russia is Moscow.
+Q: What is the capital of Brazil?
+A: The capital of Brazil is Brasilia.
+Q: What is the capital of Australia?
+A: The capital of Australia is Canberra.
+Q: What is the capital of Canada?
+A: The capital of Canada is Ottawa.
+Q: What is the capital of the United States?
+A: The capital of the United States is Washington D.C.
+Q: What is the capital of the United Kingdom?
+A: The capital of the United Kingdom is London.
+Q: What is the capital of Spain?
+A: The capital of Spain is Madrid.
+Q: What is the capital of Egypt?
+A: The capital of Egypt is Cairo.
+Q: What is the capital of Mexico?
+A: The capital of Mexico is Mexico City.
+Q: What is the capital of South Korea?
+A: The capital of South Korea is Seoul.
+Q: What is the capital of Turkey?
+A: The capital of Turkey is Ankara.
+Q: What is the capital of Argentina?
+A: The capital of Argentina is Buenos Aires.
+Q: What is the capital of South Africa?
+A: The capital of South Africa is Pretoria.
+Q: What is the capital of Indonesia?
+A: The capital of Indonesia is Jakarta.
+Q: Who discovered America?
+A: Christopher Columbus discovered America in 1492.
+Q: Who was the first President of the United States?
+A: George Washington was the first President of the United States.
+Q: When did World War I begin?
+A: World War I began in 1914.
+Q: When did World War I end?
+A: World War I ended in 1918.
+Q: When did World War II begin?
+A: World War II began in 1939.
+Q: When did World War II end?
+A: World War II ended in 1945.
+Q: Who built the pyramids?
+A: The ancient Egyptians built the pyramids.
+Q: Who invented the telephone?
+A: Alexander Graham Bell invented the telephone in 1876.
+Q: Who invented the light bulb?
+A: Thomas Edison invented the light bulb in 1879.
+Q: Who invented electricity?
+A: Benjamin Franklin studied electricity. Michael Faraday invented the electric motor.
+Q: Who painted the Mona Lisa?
+A: Leonardo da Vinci painted the Mona Lisa.
+Q: Who wrote Romeo and Juliet?
+A: William Shakespeare wrote Romeo and Juliet.
+Q: Who discovered gravity?
+A: Isaac Newton discovered gravity.
+Q: What is the theory of relativity?
+A: Albert Einstein created the theory of relativity in 1905.
+Q: Who was Mahatma Gandhi?
+A: Mahatma Gandhi was the leader of Indian independence. He was born in 1869.
+Q: When did India gain independence?
+A: India gained independence on August 15, 1947.
+Q: Who was the first man on the moon?
+A: Neil Armstrong was the first man on the moon in 1969.
+Q: Who was Alexander the Great?
+A: Alexander the Great was a king of Macedonia who conquered a vast empire.
+Q: Who was Julius Caesar?
+A: Julius Caesar was a Roman leader who was assassinated in 44 BC.
+Q: Who was Napoleon?
+A: Napoleon Bonaparte was the Emperor of France from 1804 to 1814.
+Q: What was the French Revolution?
+A: The French Revolution began in 1789. It overthrew the monarchy in France.
+Q: What was the Industrial Revolution?
+A: The Industrial Revolution began in the 1760s in Britain. It changed manufacturing.
+Q: Who discovered penicillin?
+A: Alexander Fleming discovered penicillin in 1928.
+Q: Who was Abraham Lincoln?
+A: Abraham Lincoln was the 16th President of the United States. He ended slavery.
+Q: What is the Great Wall of China?
+A: The Great Wall of China is a wall built to protect China. It is over 13000 miles long.
+Q: What is the Taj Mahal?
+A: The Taj Mahal is a monument in Agra, India. It was built by Shah Jahan in 1632.
+Q: What is the Colosseum?
+A: The Colosseum is an ancient arena in Rome, Italy. It was built in 80 AD.
+Q: What is the largest ocean?
+A: The Pacific Ocean is the largest ocean in the world.
+Q: What is the longest river?
+A: The Nile River is the longest river in the world at 6650 km.
+Q: What is the largest country?
+A: Russia is the largest country in the world by area.
+Q: What is the smallest country?
+A: Vatican City is the smallest country in the world.
+Q: What is the largest planet?
+A: Jupiter is the largest planet in the solar system.
+Q: What is the smallest planet?
+A: Mercury is the smallest planet in the solar system.
+Q: How many planets are in the solar system?
+A: There are 8 planets in the solar system.
+Q: What are the planets in order?
+A: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune.
+Q: What is the sun?
+A: The sun is a star at the center of our solar system.
+Q: What is the moon?
+A: The moon is Earth's natural satellite.
+Q: What is the speed of light?
+A: The speed of light is 300000 km per second.
+Q: What is the boiling point of water?
+A: The boiling point of water is 100 degrees Celsius.
+Q: What is the freezing point of water?
+A: The freezing point of water is 0 degrees Celsius.
+Q: What is photosynthesis?
+A: Photosynthesis is the process by which plants convert sunlight into energy.
+Q: What is DNA?
+A: DNA is the molecule that carries genetic instructions in living organisms.
+Q: What is the largest animal?
+A: The blue whale is the largest animal on Earth.
+Q: What is the fastest animal?
+A: The cheetah is the fastest land animal at 120 km per hour.
+Q: How many continents are there?
+A: There are 7 continents: Asia, Africa, North America, South America, Antarctica, Europe, Australia.
+Q: What is democracy?
+A: Democracy is a system of government where the people choose their leaders by voting.
+Q: What is the United Nations?
+A: The United Nations was founded in 1945. It promotes peace and cooperation between countries.
+Q: Who invented the computer?
+A: Charles Babbage designed the first computer in the 1830s.
+Q: Who invented the internet?
+A: The internet was developed by ARPANET in the 1960s. Tim Berners-Lee created the World Wide Web in 1989.
+Q: What is pi?
+A: Pi is approximately 3.14159. It is the ratio of a circle's circumference to its diameter.
+Q: What is a prime number?
+A: A prime number is a number greater than 1 that is only divisible by 1 and itself.
+Q: What are the first 10 prime numbers?
+A: The first 10 prime numbers are 2, 3, 5, 7, 11, 13, 17, 19, 23, 29.
+Q: What is the square root of 144?
+A: The square root of 144 is 12.
+Q: What is the square root of 81?
+A: The square root of 81 is 9.
+Q: What is the square root of 64?
+A: The square root of 64 is 8.
+Q: What is the square root of 25?
+A: The square root of 25 is 5.
+Q: What is 2 to the power of 10?
+A: 2 to the power of 10 is 1024.
+Q: What is the Pythagorean theorem?
+A: The Pythagorean theorem states that a squared plus b squared equals c squared.
+Q: What is the area of a circle?
+A: The area of a circle is pi times radius squared.
+Q: What is the area of a triangle?
+A: The area of a triangle is half times base times height.
+Q: What is gravity?
+A: Gravity is a force that attracts objects toward each other. On Earth it is 9.8 m/s squared.
+Q: What is an atom?
+A: An atom is the smallest unit of matter. It has protons, neutrons, and electrons.
+Q: What is the periodic table?
+A: The periodic table organizes all known chemical elements by atomic number.
+Q: What is H2O?
+A: H2O is the chemical formula for water. It has 2 hydrogen atoms and 1 oxygen atom.
+Q: What is oxygen?
+A: Oxygen is a chemical element. Humans need oxygen to breathe.
+Q: What is carbon dioxide?
+A: Carbon dioxide is CO2. Plants absorb it during photosynthesis.
+Q: Who was Cleopatra?
+A: Cleopatra was the last pharaoh of ancient Egypt. She ruled from 51 BC to 30 BC.
+Q: Who was Genghis Khan?
+A: Genghis Khan founded the Mongol Empire in 1206. It became the largest land empire.
+Q: What was the Renaissance?
+A: The Renaissance was a period of art and learning in Europe from the 14th to 17th century.
+Q: What was the Cold War?
+A: The Cold War was a rivalry between the USA and USSR from 1947 to 1991.
+Q: When did the Berlin Wall fall?
+A: The Berlin Wall fell on November 9, 1989.
+Q: Who was Martin Luther King Jr?
+A: Martin Luther King Jr was a civil rights leader. He gave the I Have a Dream speech in 1963.
+Q: Who was Nelson Mandela?
+A: Nelson Mandela was the first black President of South Africa in 1994.
+Q: What is the Magna Carta?
+A: The Magna Carta was signed in 1215. It limited the power of the English king.
+Q: What is the Declaration of Independence?
+A: The Declaration of Independence was signed on July 4, 1776. It declared American freedom from Britain.
+Q: What is the Constitution?
+A: The Constitution is the supreme law of the United States. It was written in 1787.Q: What is 1+1?
+A: 1+1=2.
+Q: What is 2+2?
+A: 2+2=4.
+Q: What is 3+3?
+A: 3+3=6.
+Q: What is 4+4?
+A: 4+4=8.
+Q: What is 5+5?
+A: 5+5=10.
+Q: What is 6+6?
+A: 6+6=12.
+Q: What is 7+7?
+A: 7+7=14.
+Q: What is 8+8?
+A: 8+8=16.
+Q: What is 9+9?
+A: 9+9=18.
+Q: What is 10+10?
+A: 10+10=20.
+Q: What is 2+3?
+A: 2+3=5.
+Q: What is 3+4?
+A: 3+4=7.
+Q: What is 4+5?
+A: 4+5=9.
+Q: What is 5+6?
+A: 5+6=11.
+Q: What is 6+7?
+A: 6+7=13.
+Q: What is 7+8?
+A: 7+8=15.
+Q: What is 8+9?
+A: 8+9=17.
+Q: What is 9+10?
+A: 9+10=19.
+Q: What is 10+5?
+A: 10+5=15.
+Q: What is 12+8?
+A: 12+8=20.
+Q: What is 15+5?
+A: 15+5=20.
+Q: What is 20+10?
+A: 20+10=30.
+Q: What is 25+25?
+A: 25+25=50.
+Q: What is 30+20?
+A: 30+20=50.
+Q: What is 50+50?
+A: 50+50=100.
+Q: What is 2*2?
+A: 2*2=4.
+Q: What is 3*3?
+A: 3*3=9.
+Q: What is 4*4?
+A: 4*4=16.
+Q: What is 5*5?
+A: 5*5=25.
+Q: What is 6*6?
+A: 6*6=36.
+Q: What is 7*7?
+A: 7*7=49.
+Q: What is 8*8?
+A: 8*8=64.
+Q: What is 9*9?
+A: 9*9=81.
+Q: What is 10*10?
+A: 10*10=100.
+Q: What is 2*3?
+A: 2*3=6.
+Q: What is 3*4?
+A: 3*4=12.
+Q: What is 4*5?
+A: 4*5=20.
+Q: What is 5*6?
+A: 5*6=30.
+Q: What is 6*7?
+A: 6*7=42.
+Q: What is 7*8?
+A: 7*8=56.
+Q: What is 8*9?
+A: 8*9=72.
+Q: What is 10-3?
+A: 10-3=7.
+Q: What is 20-5?
+A: 20-5=15.
+Q: What is 50-25?
+A: 50-25=25.
+Q: What is 100-50?
+A: 100-50=50.
+Q: What is 10/2?
+A: 10/2=5.
+Q: What is 20/4?
+A: 20/4=5.
+Q: What is 100/10?
+A: 100/10=10.
+Q: What is the capital of India?
+A: The capital of India is New Delhi.
+Q: What is the capital of France?
+A: The capital of France is Paris.
+Q: What is the capital of Japan?
+A: The capital of Japan is Tokyo.
+Q: What is the capital of Germany?
+A: The capital of Germany is Berlin.
+Q: What is the capital of Italy?
+A: The capital of Italy is Rome.
+Q: What is the capital of China?
+A: The capital of China is Beijing.
+Q: What is the capital of Russia?
+A: The capital of Russia is Moscow.
+Q: What is the capital of Brazil?
+A: The capital of Brazil is Brasilia.
+Q: What is the capital of Australia?
+A: The capital of Australia is Canberra.
+Q: What is the capital of Canada?
+A: The capital of Canada is Ottawa.
+Q: What is the capital of the United States?
+A: The capital of the United States is Washington D.C.
+Q: What is the capital of the United Kingdom?
+A: The capital of the United Kingdom is London.
+Q: What is the capital of Spain?
+A: The capital of Spain is Madrid.
+Q: What is the capital of Egypt?
+A: The capital of Egypt is Cairo.
+Q: What is the capital of Mexico?
+A: The capital of Mexico is Mexico City.
+Q: What is the capital of South Korea?
+A: The capital of South Korea is Seoul.
+Q: What is the capital of Turkey?
+A: The capital of Turkey is Ankara.
+Q: What is the capital of Argentina?
+A: The capital of Argentina is Buenos Aires.
+Q: What is the capital of South Africa?
+A: The capital of South Africa is Pretoria.
+Q: What is the capital of Indonesia?
+A: The capital of Indonesia is Jakarta.
+Q: Who discovered America?
+A: Christopher Columbus discovered America in 1492.
+Q: Who was the first President of the United States?
+A: George Washington was the first President of the United States.
+Q: When did World War I begin?
+A: World War I began in 1914.
+Q: When did World War I end?
+A: World War I ended in 1918.
+Q: When did World War II begin?
+A: World War II began in 1939.
+Q: When did World War II end?
+A: World War II ended in 1945.
+Q: Who built the pyramids?
+A: The ancient Egyptians built the pyramids.
+Q: Who invented the telephone?
+A: Alexander Graham Bell invented the telephone in 1876.
+Q: Who invented the light bulb?
+A: Thomas Edison invented the light bulb in 1879.
+Q: Who invented electricity?
+A: Benjamin Franklin studied electricity. Michael Faraday invented the electric motor.
+Q: Who painted the Mona Lisa?
+A: Leonardo da Vinci painted the Mona Lisa.
+Q: Who wrote Romeo and Juliet?
+A: William Shakespeare wrote Romeo and Juliet.
+Q: Who discovered gravity?
+A: Isaac Newton discovered gravity.
+Q: What is the theory of relativity?
+A: Albert Einstein created the theory of relativity in 1905.
+Q: Who was Mahatma Gandhi?
+A: Mahatma Gandhi was the leader of Indian independence. He was born in 1869.
+Q: When did India gain independence?
+A: India gained independence on August 15, 1947.
+Q: Who was the first man on the moon?
+A: Neil Armstrong was the first man on the moon in 1969.
+Q: Who was Alexander the Great?
+A: Alexander the Great was a king of Macedonia who conquered a vast empire.
+Q: Who was Julius Caesar?
+A: Julius Caesar was a Roman leader who was assassinated in 44 BC.
+Q: Who was Napoleon?
+A: Napoleon Bonaparte was the Emperor of France from 1804 to 1814.
+Q: What was the French Revolution?
+A: The French Revolution began in 1789. It overthrew the monarchy in France.
+Q: What was the Industrial Revolution?
+A: The Industrial Revolution began in the 1760s in Britain. It changed manufacturing.
+Q: Who discovered penicillin?
+A: Alexander Fleming discovered penicillin in 1928.
+Q: Who was Abraham Lincoln?
+A: Abraham Lincoln was the 16th President of the United States. He ended slavery.
+Q: What is the Great Wall of China?
+A: The Great Wall of China is a wall built to protect China. It is over 13000 miles long.
+Q: What is the Taj Mahal?
+A: The Taj Mahal is a monument in Agra, India. It was built by Shah Jahan in 1632.
+Q: What is the Colosseum?
+A: The Colosseum is an ancient arena in Rome, Italy. It was built in 80 AD.
+Q: What is the largest ocean?
+A: The Pacific Ocean is the largest ocean in the world.
+Q: What is the longest river?
+A: The Nile River is the longest river in the world at 6650 km.
+Q: What is the largest country?
+A: Russia is the largest country in the world by area.
+Q: What is the smallest country?
+A: Vatican City is the smallest country in the world.
+Q: What is the largest planet?
+A: Jupiter is the largest planet in the solar system.
+Q: What is the smallest planet?
+A: Mercury is the smallest planet in the solar system.
+Q: How many planets are in the solar system?
+A: There are 8 planets in the solar system.
+Q: What are the planets in order?
+A: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune.
+Q: What is the sun?
+A: The sun is a star at the center of our solar system.
+Q: What is the moon?
+A: The moon is Earth's natural satellite.
+Q: What is the speed of light?
+A: The speed of light is 300000 km per second.
+Q: What is the boiling point of water?
+A: The boiling point of water is 100 degrees Celsius.
+Q: What is the freezing point of water?
+A: The freezing point of water is 0 degrees Celsius.
+Q: What is photosynthesis?
+A: Photosynthesis is the process by which plants convert sunlight into energy.
+Q: What is DNA?
+A: DNA is the molecule that carries genetic instructions in living organisms.
+Q: What is the largest animal?
+A: The blue whale is the largest animal on Earth.
+Q: What is the fastest animal?
+A: The cheetah is the fastest land animal at 120 km per hour.
+Q: How many continents are there?
+A: There are 7 continents: Asia, Africa, North America, South America, Antarctica, Europe, Australia.
+Q: What is democracy?
+A: Democracy is a system of government where the people choose their leaders by voting.
+Q: What is the United Nations?
+A: The United Nations was founded in 1945. It promotes peace and cooperation between countries.
+Q: Who invented the computer?
+A: Charles Babbage designed the first computer in the 1830s.
+Q: Who invented the internet?
+A: The internet was developed by ARPANET in the 1960s. Tim Berners-Lee created the World Wide Web in 1989.
+Q: What is pi?
+A: Pi is approximately 3.14159. It is the ratio of a circle's circumference to its diameter.
+Q: What is a prime number?
+A: A prime number is a number greater than 1 that is only divisible by 1 and itself.
+Q: What are the first 10 prime numbers?
+A: The first 10 prime numbers are 2, 3, 5, 7, 11, 13, 17, 19, 23, 29.
+Q: What is the square root of 144?
+A: The square root of 144 is 12.
+Q: What is the square root of 81?
+A: The square root of 81 is 9.
+Q: What is the square root of 64?
+A: The square root of 64 is 8.
+Q: What is the square root of 25?
+A: The square root of 25 is 5.
+Q: What is 2 to the power of 10?
+A: 2 to the power of 10 is 1024.
+Q: What is the Pythagorean theorem?
+A: The Pythagorean theorem states that a squared plus b squared equals c squared.
+Q: What is the area of a circle?
+A: The area of a circle is pi times radius squared.
+Q: What is the area of a triangle?
+A: The area of a triangle is half times base times height.
+Q: What is gravity?
+A: Gravity is a force that attracts objects toward each other. On Earth it is 9.8 m/s squared.
+Q: What is an atom?
+A: An atom is the smallest unit of matter. It has protons, neutrons, and electrons.
+Q: What is the periodic table?
+A: The periodic table organizes all known chemical elements by atomic number.
+Q: What is H2O?
+A: H2O is the chemical formula for water. It has 2 hydrogen atoms and 1 oxygen atom.
+Q: What is oxygen?
+A: Oxygen is a chemical element. Humans need oxygen to breathe.
+Q: What is carbon dioxide?
+A: Carbon dioxide is CO2. Plants absorb it during photosynthesis.
+Q: Who was Cleopatra?
+A: Cleopatra was the last pharaoh of ancient Egypt. She ruled from 51 BC to 30 BC.
+Q: Who was Genghis Khan?
+A: Genghis Khan founded the Mongol Empire in 1206. It became the largest land empire.
+Q: What was the Renaissance?
+A: The Renaissance was a period of art and learning in Europe from the 14th to 17th century.
+Q: What was the Cold War?
+A: The Cold War was a rivalry between the USA and USSR from 1947 to 1991.
+Q: When did the Berlin Wall fall?
+A: The Berlin Wall fell on November 9, 1989.
+Q: Who was Martin Luther King Jr?
+A: Martin Luther King Jr was a civil rights leader. He gave the I Have a Dream speech in 1963.
+Q: Who was Nelson Mandela?
+A: Nelson Mandela was the first black President of South Africa in 1994.
+Q: What is the Magna Carta?
+A: The Magna Carta was signed in 1215. It limited the power of the English king.
+Q: What is the Declaration of Independence?
+A: The Declaration of Independence was signed on July 4, 1776. It declared American freedom from Britain.
+Q: What is the Constitution?
+A: The Constitution is the supreme law of the United States. It was written in 1787.Q: What is 1+1?
+A: 1+1=2.
+Q: What is 2+2?
+A: 2+2=4.
+Q: What is 3+3?
+A: 3+3=6.
+Q: What is 4+4?
+A: 4+4=8.
+Q: What is 5+5?
+A: 5+5=10.
+Q: What is 6+6?
+A: 6+6=12.
+Q: What is 7+7?
+A: 7+7=14.
+Q: What is 8+8?
+A: 8+8=16.
+Q: What is 9+9?
+A: 9+9=18.
+Q: What is 10+10?
+A: 10+10=20.
+Q: What is 2+3?
+A: 2+3=5.
+Q: What is 3+4?
+A: 3+4=7.
+Q: What is 4+5?
+A: 4+5=9.
+Q: What is 5+6?
+A: 5+6=11.
+Q: What is 6+7?
+A: 6+7=13.
+Q: What is 7+8?
+A: 7+8=15.
+Q: What is 8+9?
+A: 8+9=17.
+Q: What is 9+10?
+A: 9+10=19.
+Q: What is 10+5?
+A: 10+5=15.
+Q: What is 12+8?
+A: 12+8=20.
+Q: What is 15+5?
+A: 15+5=20.
+Q: What is 20+10?
+A: 20+10=30.
+Q: What is 25+25?
+A: 25+25=50.
+Q: What is 30+20?
+A: 30+20=50.
+Q: What is 50+50?
+A: 50+50=100.
+Q: What is 2*2?
+A: 2*2=4.
+Q: What is 3*3?
+A: 3*3=9.
+Q: What is 4*4?
+A: 4*4=16.
+Q: What is 5*5?
+A: 5*5=25.
+Q: What is 6*6?
+A: 6*6=36.
+Q: What is 7*7?
+A: 7*7=49.
+Q: What is 8*8?
+A: 8*8=64.
+Q: What is 9*9?
+A: 9*9=81.
+Q: What is 10*10?
+A: 10*10=100.
+Q: What is 2*3?
+A: 2*3=6.
+Q: What is 3*4?
+A: 3*4=12.
+Q: What is 4*5?
+A: 4*5=20.
+Q: What is 5*6?
+A: 5*6=30.
+Q: What is 6*7?
+A: 6*7=42.
+Q: What is 7*8?
+A: 7*8=56.
+Q: What is 8*9?
+A: 8*9=72.
+Q: What is 10-3?
+A: 10-3=7.
+Q: What is 20-5?
+A: 20-5=15.
+Q: What is 50-25?
+A: 50-25=25.
+Q: What is 100-50?
+A: 100-50=50.
+Q: What is 10/2?
+A: 10/2=5.
+Q: What is 20/4?
+A: 20/4=5.
+Q: What is 100/10?
+A: 100/10=10.
+Q: What is the capital of India?
+A: The capital of India is New Delhi.
+Q: What is the capital of France?
+A: The capital of France is Paris.
+Q: What is the capital of Japan?
+A: The capital of Japan is Tokyo.
+Q: What is the capital of Germany?
+A: The capital of Germany is Berlin.
+Q: What is the capital of Italy?
+A: The capital of Italy is Rome.
+Q: What is the capital of China?
+A: The capital of China is Beijing.
+Q: What is the capital of Russia?
+A: The capital of Russia is Moscow.
+Q: What is the capital of Brazil?
+A: The capital of Brazil is Brasilia.
+Q: What is the capital of Australia?
+A: The capital of Australia is Canberra.
+Q: What is the capital of Canada?
+A: The capital of Canada is Ottawa.
+Q: What is the capital of the United States?
+A: The capital of the United States is Washington D.C.
+Q: What is the capital of the United Kingdom?
+A: The capital of the United Kingdom is London.
+Q: What is the capital of Spain?
+A: The capital of Spain is Madrid.
+Q: What is the capital of Egypt?
+A: The capital of Egypt is Cairo.
+Q: What is the capital of Mexico?
+A: The capital of Mexico is Mexico City.
+Q: What is the capital of South Korea?
+A: The capital of South Korea is Seoul.
+Q: What is the capital of Turkey?
+A: The capital of Turkey is Ankara.
+Q: What is the capital of Argentina?
+A: The capital of Argentina is Buenos Aires.
+Q: What is the capital of South Africa?
+A: The capital of South Africa is Pretoria.
+Q: What is the capital of Indonesia?
+A: The capital of Indonesia is Jakarta.
+Q: Who discovered America?
+A: Christopher Columbus discovered America in 1492.
+Q: Who was the first President of the United States?
+A: George Washington was the first President of the United States.
+Q: When did World War I begin?
+A: World War I began in 1914.
+Q: When did World War I end?
+A: World War I ended in 1918.
+Q: When did World War II begin?
+A: World War II began in 1939.
+Q: When did World War II end?
+A: World War II ended in 1945.
+Q: Who built the pyramids?
+A: The ancient Egyptians built the pyramids.
+Q: Who invented the telephone?
+A: Alexander Graham Bell invented the telephone in 1876.
+Q: Who invented the light bulb?
+A: Thomas Edison invented the light bulb in 1879.
+Q: Who invented electricity?
+A: Benjamin Franklin studied electricity. Michael Faraday invented the electric motor.
+Q: Who painted the Mona Lisa?
+A: Leonardo da Vinci painted the Mona Lisa.
+Q: Who wrote Romeo and Juliet?
+A: William Shakespeare wrote Romeo and Juliet.
+Q: Who discovered gravity?
+A: Isaac Newton discovered gravity.
+Q: What is the theory of relativity?
+A: Albert Einstein created the theory of relativity in 1905.
+Q: Who was Mahatma Gandhi?
+A: Mahatma Gandhi was the leader of Indian independence. He was born in 1869.
+Q: When did India gain independence?
+A: India gained independence on August 15, 1947.
+Q: Who was the first man on the moon?
+A: Neil Armstrong was the first man on the moon in 1969.
+Q: Who was Alexander the Great?
+A: Alexander the Great was a king of Macedonia who conquered a vast empire.
+Q: Who was Julius Caesar?
+A: Julius Caesar was a Roman leader who was assassinated in 44 BC.
+Q: Who was Napoleon?
+A: Napoleon Bonaparte was the Emperor of France from 1804 to 1814.
+Q: What was the French Revolution?
+A: The French Revolution began in 1789. It overthrew the monarchy in France.
+Q: What was the Industrial Revolution?
+A: The Industrial Revolution began in the 1760s in Britain. It changed manufacturing.
+Q: Who discovered penicillin?
+A: Alexander Fleming discovered penicillin in 1928.
+Q: Who was Abraham Lincoln?
+A: Abraham Lincoln was the 16th President of the United States. He ended slavery.
+Q: What is the Great Wall of China?
+A: The Great Wall of China is a wall built to protect China. It is over 13000 miles long.
+Q: What is the Taj Mahal?
+A: The Taj Mahal is a monument in Agra, India. It was built by Shah Jahan in 1632.
+Q: What is the Colosseum?
+A: The Colosseum is an ancient arena in Rome, Italy. It was built in 80 AD.
+Q: What is the largest ocean?
+A: The Pacific Ocean is the largest ocean in the world.
+Q: What is the longest river?
+A: The Nile River is the longest river in the world at 6650 km.
+Q: What is the largest country?
+A: Russia is the largest country in the world by area.
+Q: What is the smallest country?
+A: Vatican City is the smallest country in the world.
+Q: What is the largest planet?
+A: Jupiter is the largest planet in the solar system.
+Q: What is the smallest planet?
+A: Mercury is the smallest planet in the solar system.
+Q: How many planets are in the solar system?
+A: There are 8 planets in the solar system.
+Q: What are the planets in order?
+A: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune.
+Q: What is the sun?
+A: The sun is a star at the center of our solar system.
+Q: What is the moon?
+A: The moon is Earth's natural satellite.
+Q: What is the speed of light?
+A: The speed of light is 300000 km per second.
+Q: What is the boiling point of water?
+A: The boiling point of water is 100 degrees Celsius.
+Q: What is the freezing point of water?
+A: The freezing point of water is 0 degrees Celsius.
+Q: What is photosynthesis?
+A: Photosynthesis is the process by which plants convert sunlight into energy.
+Q: What is DNA?
+A: DNA is the molecule that carries genetic instructions in living organisms.
+Q: What is the largest animal?
+A: The blue whale is the largest animal on Earth.
+Q: What is the fastest animal?
+A: The cheetah is the fastest land animal at 120 km per hour.
+Q: How many continents are there?
+A: There are 7 continents: Asia, Africa, North America, South America, Antarctica, Europe, Australia.
+Q: What is democracy?
+A: Democracy is a system of government where the people choose their leaders by voting.
+Q: What is the United Nations?
+A: The United Nations was founded in 1945. It promotes peace and cooperation between countries.
+Q: Who invented the computer?
+A: Charles Babbage designed the first computer in the 1830s.
+Q: Who invented the internet?
+A: The internet was developed by ARPANET in the 1960s. Tim Berners-Lee created the World Wide Web in 1989.
+Q: What is pi?
+A: Pi is approximately 3.14159. It is the ratio of a circle's circumference to its diameter.
+Q: What is a prime number?
+A: A prime number is a number greater than 1 that is only divisible by 1 and itself.
+Q: What are the first 10 prime numbers?
+A: The first 10 prime numbers are 2, 3, 5, 7, 11, 13, 17, 19, 23, 29.
+Q: What is the square root of 144?
+A: The square root of 144 is 12.
+Q: What is the square root of 81?
+A: The square root of 81 is 9.
+Q: What is the square root of 64?
+A: The square root of 64 is 8.
+Q: What is the square root of 25?
+A: The square root of 25 is 5.
+Q: What is 2 to the power of 10?
+A: 2 to the power of 10 is 1024.
+Q: What is the Pythagorean theorem?
+A: The Pythagorean theorem states that a squared plus b squared equals c squared.
+Q: What is the area of a circle?
+A: The area of a circle is pi times radius squared.
+Q: What is the area of a triangle?
+A: The area of a triangle is half times base times height.
+Q: What is gravity?
+A: Gravity is a force that attracts objects toward each other. On Earth it is 9.8 m/s squared.
+Q: What is an atom?
+A: An atom is the smallest unit of matter. It has protons, neutrons, and electrons.
+Q: What is the periodic table?
+A: The periodic table organizes all known chemical elements by atomic number.
+Q: What is H2O?
+A: H2O is the chemical formula for water. It has 2 hydrogen atoms and 1 oxygen atom.
+Q: What is oxygen?
+A: Oxygen is a chemical element. Humans need oxygen to breathe.
+Q: What is carbon dioxide?
+A: Carbon dioxide is CO2. Plants absorb it during photosynthesis.
+Q: Who was Cleopatra?
+A: Cleopatra was the last pharaoh of ancient Egypt. She ruled from 51 BC to 30 BC.
+Q: Who was Genghis Khan?
+A: Genghis Khan founded the Mongol Empire in 1206. It became the largest land empire.
+Q: What was the Renaissance?
+A: The Renaissance was a period of art and learning in Europe from the 14th to 17th century.
+Q: What was the Cold War?
+A: The Cold War was a rivalry between the USA and USSR from 1947 to 1991.
+Q: When did the Berlin Wall fall?
+A: The Berlin Wall fell on November 9, 1989.
+Q: Who was Martin Luther King Jr?
+A: Martin Luther King Jr was a civil rights leader. He gave the I Have a Dream speech in 1963.
+Q: Who was Nelson Mandela?
+A: Nelson Mandela was the first black President of South Africa in 1994.
+Q: What is the Magna Carta?
+A: The Magna Carta was signed in 1215. It limited the power of the English king.
+Q: What is the Declaration of Independence?
+A: The Declaration of Independence was signed on July 4, 1776. It declared American freedom from Britain.
+Q: What is the Constitution?
+A: The Constitution is the supreme law of the United States. It was written in 1787.Q: What is 1+1?
+A: 1+1=2.
+Q: What is 2+2?
+A: 2+2=4.
+Q: What is 3+3?
+A: 3+3=6.
+Q: What is 4+4?
+A: 4+4=8.
+Q: What is 5+5?
+A: 5+5=10.
+Q: What is 6+6?
+A: 6+6=12.
+Q: What is 7+7?
+A: 7+7=14.
+Q: What is 8+8?
+A: 8+8=16.
+Q: What is 9+9?
+A: 9+9=18.
+Q: What is 10+10?
+A: 10+10=20.
+Q: What is 2+3?
+A: 2+3=5.
+Q: What is 3+4?
+A: 3+4=7.
+Q: What is 4+5?
+A: 4+5=9.
+Q: What is 5+6?
+A: 5+6=11.
+Q: What is 6+7?
+A: 6+7=13.
+Q: What is 7+8?
+A: 7+8=15.
+Q: What is 8+9?
+A: 8+9=17.
+Q: What is 9+10?
+A: 9+10=19.
+Q: What is 10+5?
+A: 10+5=15.
+Q: What is 12+8?
+A: 12+8=20.
+Q: What is 15+5?
+A: 15+5=20.
+Q: What is 20+10?
+A: 20+10=30.
+Q: What is 25+25?
+A: 25+25=50.
+Q: What is 30+20?
+A: 30+20=50.
+Q: What is 50+50?
+A: 50+50=100.
+Q: What is 2*2?
+A: 2*2=4.
+Q: What is 3*3?
+A: 3*3=9.
+Q: What is 4*4?
+A: 4*4=16.
+Q: What is 5*5?
+A: 5*5=25.
+Q: What is 6*6?
+A: 6*6=36.
+Q: What is 7*7?
+A: 7*7=49.
+Q: What is 8*8?
+A: 8*8=64.
+Q: What is 9*9?
+A: 9*9=81.
+Q: What is 10*10?
+A: 10*10=100.
+Q: What is 2*3?
+A: 2*3=6.
+Q: What is 3*4?
+A: 3*4=12.
+Q: What is 4*5?
+A: 4*5=20.
+Q: What is 5*6?
+A: 5*6=30.
+Q: What is 6*7?
+A: 6*7=42.
+Q: What is 7*8?
+A: 7*8=56.
+Q: What is 8*9?
+A: 8*9=72.
+Q: What is 10-3?
+A: 10-3=7.
+Q: What is 20-5?
+A: 20-5=15.
+Q: What is 50-25?
+A: 50-25=25.
+Q: What is 100-50?
+A: 100-50=50.
+Q: What is 10/2?
+A: 10/2=5.
+Q: What is 20/4?
+A: 20/4=5.
+Q: What is 100/10?
+A: 100/10=10.
+Q: What is the capital of India?
+A: The capital of India is New Delhi.
+Q: What is the capital of France?
+A: The capital of France is Paris.
+Q: What is the capital of Japan?
+A: The capital of Japan is Tokyo.
+Q: What is the capital of Germany?
+A: The capital of Germany is Berlin.
+Q: What is the capital of Italy?
+A: The capital of Italy is Rome.
+Q: What is the capital of China?
+A: The capital of China is Beijing.
+Q: What is the capital of Russia?
+A: The capital of Russia is Moscow.
+Q: What is the capital of Brazil?
+A: The capital of Brazil is Brasilia.
+Q: What is the capital of Australia?
+A: The capital of Australia is Canberra.
+Q: What is the capital of Canada?
+A: The capital of Canada is Ottawa.
+Q: What is the capital of the United States?
+A: The capital of the United States is Washington D.C.
+Q: What is the capital of the United Kingdom?
+A: The capital of the United Kingdom is London.
+Q: What is the capital of Spain?
+A: The capital of Spain is Madrid.
+Q: What is the capital of Egypt?
+A: The capital of Egypt is Cairo.
+Q: What is the capital of Mexico?
+A: The capital of Mexico is Mexico City.
+Q: What is the capital of South Korea?
+A: The capital of South Korea is Seoul.
+Q: What is the capital of Turkey?
+A: The capital of Turkey is Ankara.
+Q: What is the capital of Argentina?
+A: The capital of Argentina is Buenos Aires.
+Q: What is the capital of South Africa?
+A: The capital of South Africa is Pretoria.
+Q: What is the capital of Indonesia?
+A: The capital of Indonesia is Jakarta.
+Q: Who discovered America?
+A: Christopher Columbus discovered America in 1492.
+Q: Who was the first President of the United States?
+A: George Washington was the first President of the United States.
+Q: When did World War I begin?
+A: World War I began in 1914.
+Q: When did World War I end?
+A: World War I ended in 1918.
+Q: When did World War II begin?
+A: World War II began in 1939.
+Q: When did World War II end?
+A: World War II ended in 1945.
+Q: Who built the pyramids?
+A: The ancient Egyptians built the pyramids.
+Q: Who invented the telephone?
+A: Alexander Graham Bell invented the telephone in 1876.
+Q: Who invented the light bulb?
+A: Thomas Edison invented the light bulb in 1879.
+Q: Who invented electricity?
+A: Benjamin Franklin studied electricity. Michael Faraday invented the electric motor.
+Q: Who painted the Mona Lisa?
+A: Leonardo da Vinci painted the Mona Lisa.
+Q: Who wrote Romeo and Juliet?
+A: William Shakespeare wrote Romeo and Juliet.
+Q: Who discovered gravity?
+A: Isaac Newton discovered gravity.
+Q: What is the theory of relativity?
+A: Albert Einstein created the theory of relativity in 1905.
+Q: Who was Mahatma Gandhi?
+A: Mahatma Gandhi was the leader of Indian independence. He was born in 1869.
+Q: When did India gain independence?
+A: India gained independence on August 15, 1947.
+Q: Who was the first man on the moon?
+A: Neil Armstrong was the first man on the moon in 1969.
+Q: Who was Alexander the Great?
+A: Alexander the Great was a king of Macedonia who conquered a vast empire.
+Q: Who was Julius Caesar?
+A: Julius Caesar was a Roman leader who was assassinated in 44 BC.
+Q: Who was Napoleon?
+A: Napoleon Bonaparte was the Emperor of France from 1804 to 1814.
+Q: What was the French Revolution?
+A: The French Revolution began in 1789. It overthrew the monarchy in France.
+Q: What was the Industrial Revolution?
+A: The Industrial Revolution began in the 1760s in Britain. It changed manufacturing.
+Q: Who discovered penicillin?
+A: Alexander Fleming discovered penicillin in 1928.
+Q: Who was Abraham Lincoln?
+A: Abraham Lincoln was the 16th President of the United States. He ended slavery.
+Q: What is the Great Wall of China?
+A: The Great Wall of China is a wall built to protect China. It is over 13000 miles long.
+Q: What is the Taj Mahal?
+A: The Taj Mahal is a monument in Agra, India. It was built by Shah Jahan in 1632.
+Q: What is the Colosseum?
+A: The Colosseum is an ancient arena in Rome, Italy. It was built in 80 AD.
+Q: What is the largest ocean?
+A: The Pacific Ocean is the largest ocean in the world.
+Q: What is the longest river?
+A: The Nile River is the longest river in the world at 6650 km.
+Q: What is the largest country?
+A: Russia is the largest country in the world by area.
+Q: What is the smallest country?
+A: Vatican City is the smallest country in the world.
+Q: What is the largest planet?
+A: Jupiter is the largest planet in the solar system.
+Q: What is the smallest planet?
+A: Mercury is the smallest planet in the solar system.
+Q: How many planets are in the solar system?
+A: There are 8 planets in the solar system.
+Q: What are the planets in order?
+A: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune.
+Q: What is the sun?
+A: The sun is a star at the center of our solar system.
+Q: What is the moon?
+A: The moon is Earth's natural satellite.
+Q: What is the speed of light?
+A: The speed of light is 300000 km per second.
+Q: What is the boiling point of water?
+A: The boiling point of water is 100 degrees Celsius.
+Q: What is the freezing point of water?
+A: The freezing point of water is 0 degrees Celsius.
+Q: What is photosynthesis?
+A: Photosynthesis is the process by which plants convert sunlight into energy.
+Q: What is DNA?
+A: DNA is the molecule that carries genetic instructions in living organisms.
+Q: What is the largest animal?
+A: The blue whale is the largest animal on Earth.
+Q: What is the fastest animal?
+A: The cheetah is the fastest land animal at 120 km per hour.
+Q: How many continents are there?
+A: There are 7 continents: Asia, Africa, North America, South America, Antarctica, Europe, Australia.
+Q: What is democracy?
+A: Democracy is a system of government where the people choose their leaders by voting.
+Q: What is the United Nations?
+A: The United Nations was founded in 1945. It promotes peace and cooperation between countries.
+Q: Who invented the computer?
+A: Charles Babbage designed the first computer in the 1830s.
+Q: Who invented the internet?
+A: The internet was developed by ARPANET in the 1960s. Tim Berners-Lee created the World Wide Web in 1989.
+Q: What is pi?
+A: Pi is approximately 3.14159. It is the ratio of a circle's circumference to its diameter.
+Q: What is a prime number?
+A: A prime number is a number greater than 1 that is only divisible by 1 and itself.
+Q: What are the first 10 prime numbers?
+A: The first 10 prime numbers are 2, 3, 5, 7, 11, 13, 17, 19, 23, 29.
+Q: What is the square root of 144?
+A: The square root of 144 is 12.
+Q: What is the square root of 81?
+A: The square root of 81 is 9.
+Q: What is the square root of 64?
+A: The square root of 64 is 8.
+Q: What is the square root of 25?
+A: The square root of 25 is 5.
+Q: What is 2 to the power of 10?
+A: 2 to the power of 10 is 1024.
+Q: What is the Pythagorean theorem?
+A: The Pythagorean theorem states that a squared plus b squared equals c squared.
+Q: What is the area of a circle?
+A: The area of a circle is pi times radius squared.
+Q: What is the area of a triangle?
+A: The area of a triangle is half times base times height.
+Q: What is gravity?
+A: Gravity is a force that attracts objects toward each other. On Earth it is 9.8 m/s squared.
+Q: What is an atom?
+A: An atom is the smallest unit of matter. It has protons, neutrons, and electrons.
+Q: What is the periodic table?
+A: The periodic table organizes all known chemical elements by atomic number.
+Q: What is H2O?
+A: H2O is the chemical formula for water. It has 2 hydrogen atoms and 1 oxygen atom.
+Q: What is oxygen?
+A: Oxygen is a chemical element. Humans need oxygen to breathe.
+Q: What is carbon dioxide?
+A: Carbon dioxide is CO2. Plants absorb it during photosynthesis.
+Q: Who was Cleopatra?
+A: Cleopatra was the last pharaoh of ancient Egypt. She ruled from 51 BC to 30 BC.
+Q: Who was Genghis Khan?
+A: Genghis Khan founded the Mongol Empire in 1206. It became the largest land empire.
+Q: What was the Renaissance?
+A: The Renaissance was a period of art and learning in Europe from the 14th to 17th century.
+Q: What was the Cold War?
+A: The Cold War was a rivalry between the USA and USSR from 1947 to 1991.
+Q: When did the Berlin Wall fall?
+A: The Berlin Wall fell on November 9, 1989.
+Q: Who was Martin Luther King Jr?
+A: Martin Luther King Jr was a civil rights leader. He gave the I Have a Dream speech in 1963.
+Q: Who was Nelson Mandela?
+A: Nelson Mandela was the first black President of South Africa in 1994.
+Q: What is the Magna Carta?
+A: The Magna Carta was signed in 1215. It limited the power of the English king.
+Q: What is the Declaration of Independence?
+A: The Declaration of Independence was signed on July 4, 1776. It declared American freedom from Britain.
+Q: What is the Constitution?
+A: The Constitution is the supreme law of the United States. It was written in 1787.Q: What is 1+1?
+A: 1+1=2.
+Q: What is 2+2?
+A: 2+2=4.
+Q: What is 3+3?
+A: 3+3=6.
+Q: What is 4+4?
+A: 4+4=8.
+Q: What is 5+5?
+A: 5+5=10.
+Q: What is 6+6?
+A: 6+6=12.
+Q: What is 7+7?
+A: 7+7=14.
+Q: What is 8+8?
+A: 8+8=16.
+Q: What is 9+9?
+A: 9+9=18.
+Q: What is 10+10?
+A: 10+10=20.
+Q: What is 2+3?
+A: 2+3=5.
+Q: What is 3+4?
+A: 3+4=7.
+Q: What is 4+5?
+A: 4+5=9.
+Q: What is 5+6?
+A: 5+6=11.
+Q: What is 6+7?
+A: 6+7=13.
+Q: What is 7+8?
+A: 7+8=15.
+Q: What is 8+9?
+A: 8+9=17.
+Q: What is 9+10?
+A: 9+10=19.
+Q: What is 10+5?
+A: 10+5=15.
+Q: What is 12+8?
+A: 12+8=20.
+Q: What is 15+5?
+A: 15+5=20.
+Q: What is 20+10?
+A: 20+10=30.
+Q: What is 25+25?
+A: 25+25=50.
+Q: What is 30+20?
+A: 30+20=50.
+Q: What is 50+50?
+A: 50+50=100.
+Q: What is 2*2?
+A: 2*2=4.
+Q: What is 3*3?
+A: 3*3=9.
+Q: What is 4*4?
+A: 4*4=16.
+Q: What is 5*5?
+A: 5*5=25.
+Q: What is 6*6?
+A: 6*6=36.
+Q: What is 7*7?
+A: 7*7=49.
+Q: What is 8*8?
+A: 8*8=64.
+Q: What is 9*9?
+A: 9*9=81.
+Q: What is 10*10?
+A: 10*10=100.
+Q: What is 2*3?
+A: 2*3=6.
+Q: What is 3*4?
+A: 3*4=12.
+Q: What is 4*5?
+A: 4*5=20.
+Q: What is 5*6?
+A: 5*6=30.
+Q: What is 6*7?
+A: 6*7=42.
+Q: What is 7*8?
+A: 7*8=56.
+Q: What is 8*9?
+A: 8*9=72.
+Q: What is 10-3?
+A: 10-3=7.
+Q: What is 20-5?
+A: 20-5=15.
+Q: What is 50-25?
+A: 50-25=25.
+Q: What is 100-50?
+A: 100-50=50.
+Q: What is 10/2?
+A: 10/2=5.
+Q: What is 20/4?
+A: 20/4=5.
+Q: What is 100/10?
+A: 100/10=10.
+Q: What is the capital of India?
+A: The capital of India is New Delhi.
+Q: What is the capital of France?
+A: The capital of France is Paris.
+Q: What is the capital of Japan?
+A: The capital of Japan is Tokyo.
+Q: What is the capital of Germany?
+A: The capital of Germany is Berlin.
+Q: What is the capital of Italy?
+A: The capital of Italy is Rome.
+Q: What is the capital of China?
+A: The capital of China is Beijing.
+Q: What is the capital of Russia?
+A: The capital of Russia is Moscow.
+Q: What is the capital of Brazil?
+A: The capital of Brazil is Brasilia.
+Q: What is the capital of Australia?
+A: The capital of Australia is Canberra.
+Q: What is the capital of Canada?
+A: The capital of Canada is Ottawa.
+Q: What is the capital of the United States?
+A: The capital of the United States is Washington D.C.
+Q: What is the capital of the United Kingdom?
+A: The capital of the United Kingdom is London.
+Q: What is the capital of Spain?
+A: The capital of Spain is Madrid.
+Q: What is the capital of Egypt?
+A: The capital of Egypt is Cairo.
+Q: What is the capital of Mexico?
+A: The capital of Mexico is Mexico City.
+Q: What is the capital of South Korea?
+A: The capital of South Korea is Seoul.
+Q: What is the capital of Turkey?
+A: The capital of Turkey is Ankara.
+Q: What is the capital of Argentina?
+A: The capital of Argentina is Buenos Aires.
+Q: What is the capital of South Africa?
+A: The capital of South Africa is Pretoria.
+Q: What is the capital of Indonesia?
+A: The capital of Indonesia is Jakarta.
+Q: Who discovered America?
+A: Christopher Columbus discovered America in 1492.
+Q: Who was the first President of the United States?
+A: George Washington was the first President of the United States.
+Q: When did World War I begin?
+A: World War I began in 1914.
+Q: When did World War I end?
+A: World War I ended in 1918.
+Q: When did World War II begin?
+A: World War II began in 1939.
+Q: When did World War II end?
+A: World War II ended in 1945.
+Q: Who built the pyramids?
+A: The ancient Egyptians built the pyramids.
+Q: Who invented the telephone?
+A: Alexander Graham Bell invented the telephone in 1876.
+Q: Who invented the light bulb?
+A: Thomas Edison invented the light bulb in 1879.
+Q: Who invented electricity?
+A: Benjamin Franklin studied electricity. Michael Faraday invented the electric motor.
+Q: Who painted the Mona Lisa?
+A: Leonardo da Vinci painted the Mona Lisa.
+Q: Who wrote Romeo and Juliet?
+A: William Shakespeare wrote Romeo and Juliet.
+Q: Who discovered gravity?
+A: Isaac Newton discovered gravity.
+Q: What is the theory of relativity?
+A: Albert Einstein created the theory of relativity in 1905.
+Q: Who was Mahatma Gandhi?
+A: Mahatma Gandhi was the leader of Indian independence. He was born in 1869.
+Q: When did India gain independence?
+A: India gained independence on August 15, 1947.
+Q: Who was the first man on the moon?
+A: Neil Armstrong was the first man on the moon in 1969.
+Q: Who was Alexander the Great?
+A: Alexander the Great was a king of Macedonia who conquered a vast empire.
+Q: Who was Julius Caesar?
+A: Julius Caesar was a Roman leader who was assassinated in 44 BC.
+Q: Who was Napoleon?
+A: Napoleon Bonaparte was the Emperor of France from 1804 to 1814.
+Q: What was the French Revolution?
+A: The French Revolution began in 1789. It overthrew the monarchy in France.
+Q: What was the Industrial Revolution?
+A: The Industrial Revolution began in the 1760s in Britain. It changed manufacturing.
+Q: Who discovered penicillin?
+A: Alexander Fleming discovered penicillin in 1928.
+Q: Who was Abraham Lincoln?
+A: Abraham Lincoln was the 16th President of the United States. He ended slavery.
+Q: What is the Great Wall of China?
+A: The Great Wall of China is a wall built to protect China. It is over 13000 miles long.
+Q: What is the Taj Mahal?
+A: The Taj Mahal is a monument in Agra, India. It was built by Shah Jahan in 1632.
+Q: What is the Colosseum?
+A: The Colosseum is an ancient arena in Rome, Italy. It was built in 80 AD.
+Q: What is the largest ocean?
+A: The Pacific Ocean is the largest ocean in the world.
+Q: What is the longest river?
+A: The Nile River is the longest river in the world at 6650 km.
+Q: What is the largest country?
+A: Russia is the largest country in the world by area.
+Q: What is the smallest country?
+A: Vatican City is the smallest country in the world.
+Q: What is the largest planet?
+A: Jupiter is the largest planet in the solar system.
+Q: What is the smallest planet?
+A: Mercury is the smallest planet in the solar system.
+Q: How many planets are in the solar system?
+A: There are 8 planets in the solar system.
+Q: What are the planets in order?
+A: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune.
+Q: What is the sun?
+A: The sun is a star at the center of our solar system.
+Q: What is the moon?
+A: The moon is Earth's natural satellite.
+Q: What is the speed of light?
+A: The speed of light is 300000 km per second.
+Q: What is the boiling point of water?
+A: The boiling point of water is 100 degrees Celsius.
+Q: What is the freezing point of water?
+A: The freezing point of water is 0 degrees Celsius.
+Q: What is photosynthesis?
+A: Photosynthesis is the process by which plants convert sunlight into energy.
+Q: What is DNA?
+A: DNA is the molecule that carries genetic instructions in living organisms.
+Q: What is the largest animal?
+A: The blue whale is the largest animal on Earth.
+Q: What is the fastest animal?
+A: The cheetah is the fastest land animal at 120 km per hour.
+Q: How many continents are there?
+A: There are 7 continents: Asia, Africa, North America, South America, Antarctica, Europe, Australia.
+Q: What is democracy?
+A: Democracy is a system of government where the people choose their leaders by voting.
+Q: What is the United Nations?
+A: The United Nations was founded in 1945. It promotes peace and cooperation between countries.
+Q: Who invented the computer?
+A: Charles Babbage designed the first computer in the 1830s.
+Q: Who invented the internet?
+A: The internet was developed by ARPANET in the 1960s. Tim Berners-Lee created the World Wide Web in 1989.
+Q: What is pi?
+A: Pi is approximately 3.14159. It is the ratio of a circle's circumference to its diameter.
+Q: What is a prime number?
+A: A prime number is a number greater than 1 that is only divisible by 1 and itself.
+Q: What are the first 10 prime numbers?
+A: The first 10 prime numbers are 2, 3, 5, 7, 11, 13, 17, 19, 23, 29.
+Q: What is the square root of 144?
+A: The square root of 144 is 12.
+Q: What is the square root of 81?
+A: The square root of 81 is 9.
+Q: What is the square root of 64?
+A: The square root of 64 is 8.
+Q: What is the square root of 25?
+A: The square root of 25 is 5.
+Q: What is 2 to the power of 10?
+A: 2 to the power of 10 is 1024.
+Q: What is the Pythagorean theorem?
+A: The Pythagorean theorem states that a squared plus b squared equals c squared.
+Q: What is the area of a circle?
+A: The area of a circle is pi times radius squared.
+Q: What is the area of a triangle?
+A: The area of a triangle is half times base times height.
+Q: What is gravity?
+A: Gravity is a force that attracts objects toward each other. On Earth it is 9.8 m/s squared.
+Q: What is an atom?
+A: An atom is the smallest unit of matter. It has protons, neutrons, and electrons.
+Q: What is the periodic table?
+A: The periodic table organizes all known chemical elements by atomic number.
+Q: What is H2O?
+A: H2O is the chemical formula for water. It has 2 hydrogen atoms and 1 oxygen atom.
+Q: What is oxygen?
+A: Oxygen is a chemical element. Humans need oxygen to breathe.
+Q: What is carbon dioxide?
+A: Carbon dioxide is CO2. Plants absorb it during photosynthesis.
+Q: Who was Cleopatra?
+A: Cleopatra was the last pharaoh of ancient Egypt. She ruled from 51 BC to 30 BC.
+Q: Who was Genghis Khan?
+A: Genghis Khan founded the Mongol Empire in 1206. It became the largest land empire.
+Q: What was the Renaissance?
+A: The Renaissance was a period of art and learning in Europe from the 14th to 17th century.
+Q: What was the Cold War?
+A: The Cold War was a rivalry between the USA and USSR from 1947 to 1991.
+Q: When did the Berlin Wall fall?
+A: The Berlin Wall fell on November 9, 1989.
+Q: Who was Martin Luther King Jr?
+A: Martin Luther King Jr was a civil rights leader. He gave the I Have a Dream speech in 1963.
+Q: Who was Nelson Mandela?
+A: Nelson Mandela was the first black President of South Africa in 1994.
+Q: What is the Magna Carta?
+A: The Magna Carta was signed in 1215. It limited the power of the English king.
+Q: What is the Declaration of Independence?
+A: The Declaration of Independence was signed on July 4, 1776. It declared American freedom from Britain.
+Q: What is the Constitution?
+A: The Constitution is the supreme law of the United States. It was written in 1787.Q: What is 1+1?
+A: 1+1=2.
+Q: What is 2+2?
+A: 2+2=4.
+Q: What is 3+3?
+A: 3+3=6.
+Q: What is 4+4?
+A: 4+4=8.
+Q: What is 5+5?
+A: 5+5=10.
+Q: What is 6+6?
+A: 6+6=12.
+Q: What is 7+7?
+A: 7+7=14.
+Q: What is 8+8?
+A: 8+8=16.
+Q: What is 9+9?
+A: 9+9=18.
+Q: What is 10+10?
+A: 10+10=20.
+Q: What is 2+3?
+A: 2+3=5.
+Q: What is 3+4?
+A: 3+4=7.
+Q: What is 4+5?
+A: 4+5=9.
+Q: What is 5+6?
+A: 5+6=11.
+Q: What is 6+7?
+A: 6+7=13.
+Q: What is 7+8?
+A: 7+8=15.
+Q: What is 8+9?
+A: 8+9=17.
+Q: What is 9+10?
+A: 9+10=19.
+Q: What is 10+5?
+A: 10+5=15.
+Q: What is 12+8?
+A: 12+8=20.
+Q: What is 15+5?
+A: 15+5=20.
+Q: What is 20+10?
+A: 20+10=30.
+Q: What is 25+25?
+A: 25+25=50.
+Q: What is 30+20?
+A: 30+20=50.
+Q: What is 50+50?
+A: 50+50=100.
+Q: What is 2*2?
+A: 2*2=4.
+Q: What is 3*3?
+A: 3*3=9.
+Q: What is 4*4?
+A: 4*4=16.
+Q: What is 5*5?
+A: 5*5=25.
+Q: What is 6*6?
+A: 6*6=36.
+Q: What is 7*7?
+A: 7*7=49.
+Q: What is 8*8?
+A: 8*8=64.
+Q: What is 9*9?
+A: 9*9=81.
+Q: What is 10*10?
+A: 10*10=100.
+Q: What is 2*3?
+A: 2*3=6.
+Q: What is 3*4?
+A: 3*4=12.
+Q: What is 4*5?
+A: 4*5=20.
+Q: What is 5*6?
+A: 5*6=30.
+Q: What is 6*7?
+A: 6*7=42.
+Q: What is 7*8?
+A: 7*8=56.
+Q: What is 8*9?
+A: 8*9=72.
+Q: What is 10-3?
+A: 10-3=7.
+Q: What is 20-5?
+A: 20-5=15.
+Q: What is 50-25?
+A: 50-25=25.
+Q: What is 100-50?
+A: 100-50=50.
+Q: What is 10/2?
+A: 10/2=5.
+Q: What is 20/4?
+A: 20/4=5.
+Q: What is 100/10?
+A: 100/10=10.
+Q: What is the capital of India?
+A: The capital of India is New Delhi.
+Q: What is the capital of France?
+A: The capital of France is Paris.
+Q: What is the capital of Japan?
+A: The capital of Japan is Tokyo.
+Q: What is the capital of Germany?
+A: The capital of Germany is Berlin.
+Q: What is the capital of Italy?
+A: The capital of Italy is Rome.
+Q: What is the capital of China?
+A: The capital of China is Beijing.
+Q: What is the capital of Russia?
+A: The capital of Russia is Moscow.
+Q: What is the capital of Brazil?
+A: The capital of Brazil is Brasilia.
+Q: What is the capital of Australia?
+A: The capital of Australia is Canberra.
+Q: What is the capital of Canada?
+A: The capital of Canada is Ottawa.
+Q: What is the capital of the United States?
+A: The capital of the United States is Washington D.C.
+Q: What is the capital of the United Kingdom?
+A: The capital of the United Kingdom is London.
+Q: What is the capital of Spain?
+A: The capital of Spain is Madrid.
+Q: What is the capital of Egypt?
+A: The capital of Egypt is Cairo.
+Q: What is the capital of Mexico?
+A: The capital of Mexico is Mexico City.
+Q: What is the capital of South Korea?
+A: The capital of South Korea is Seoul.
+Q: What is the capital of Turkey?
+A: The capital of Turkey is Ankara.
+Q: What is the capital of Argentina?
+A: The capital of Argentina is Buenos Aires.
+Q: What is the capital of South Africa?
+A: The capital of South Africa is Pretoria.
+Q: What is the capital of Indonesia?
+A: The capital of Indonesia is Jakarta.
+Q: Who discovered America?
+A: Christopher Columbus discovered America in 1492.
+Q: Who was the first President of the United States?
+A: George Washington was the first President of the United States.
+Q: When did World War I begin?
+A: World War I began in 1914.
+Q: When did World War I end?
+A: World War I ended in 1918.
+Q: When did World War II begin?
+A: World War II began in 1939.
+Q: When did World War II end?
+A: World War II ended in 1945.
+Q: Who built the pyramids?
+A: The ancient Egyptians built the pyramids.
+Q: Who invented the telephone?
+A: Alexander Graham Bell invented the telephone in 1876.
+Q: Who invented the light bulb?
+A: Thomas Edison invented the light bulb in 1879.
+Q: Who invented electricity?
+A: Benjamin Franklin studied electricity. Michael Faraday invented the electric motor.
+Q: Who painted the Mona Lisa?
+A: Leonardo da Vinci painted the Mona Lisa.
+Q: Who wrote Romeo and Juliet?
+A: William Shakespeare wrote Romeo and Juliet.
+Q: Who discovered gravity?
+A: Isaac Newton discovered gravity.
+Q: What is the theory of relativity?
+A: Albert Einstein created the theory of relativity in 1905.
+Q: Who was Mahatma Gandhi?
+A: Mahatma Gandhi was the leader of Indian independence. He was born in 1869.
+Q: When did India gain independence?
+A: India gained independence on August 15, 1947.
+Q: Who was the first man on the moon?
+A: Neil Armstrong was the first man on the moon in 1969.
+Q: Who was Alexander the Great?
+A: Alexander the Great was a king of Macedonia who conquered a vast empire.
+Q: Who was Julius Caesar?
+A: Julius Caesar was a Roman leader who was assassinated in 44 BC.
+Q: Who was Napoleon?
+A: Napoleon Bonaparte was the Emperor of France from 1804 to 1814.
+Q: What was the French Revolution?
+A: The French Revolution began in 1789. It overthrew the monarchy in France.
+Q: What was the Industrial Revolution?
+A: The Industrial Revolution began in the 1760s in Britain. It changed manufacturing.
+Q: Who discovered penicillin?
+A: Alexander Fleming discovered penicillin in 1928.
+Q: Who was Abraham Lincoln?
+A: Abraham Lincoln was the 16th President of the United States. He ended slavery.
+Q: What is the Great Wall of China?
+A: The Great Wall of China is a wall built to protect China. It is over 13000 miles long.
+Q: What is the Taj Mahal?
+A: The Taj Mahal is a monument in Agra, India. It was built by Shah Jahan in 1632.
+Q: What is the Colosseum?
+A: The Colosseum is an ancient arena in Rome, Italy. It was built in 80 AD.
+Q: What is the largest ocean?
+A: The Pacific Ocean is the largest ocean in the world.
+Q: What is the longest river?
+A: The Nile River is the longest river in the world at 6650 km.
+Q: What is the largest country?
+A: Russia is the largest country in the world by area.
+Q: What is the smallest country?
+A: Vatican City is the smallest country in the world.
+Q: What is the largest planet?
+A: Jupiter is the largest planet in the solar system.
+Q: What is the smallest planet?
+A: Mercury is the smallest planet in the solar system.
+Q: How many planets are in the solar system?
+A: There are 8 planets in the solar system.
+Q: What are the planets in order?
+A: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune.
+Q: What is the sun?
+A: The sun is a star at the center of our solar system.
+Q: What is the moon?
+A: The moon is Earth's natural satellite.
+Q: What is the speed of light?
+A: The speed of light is 300000 km per second.
+Q: What is the boiling point of water?
+A: The boiling point of water is 100 degrees Celsius.
+Q: What is the freezing point of water?
+A: The freezing point of water is 0 degrees Celsius.
+Q: What is photosynthesis?
+A: Photosynthesis is the process by which plants convert sunlight into energy.
+Q: What is DNA?
+A: DNA is the molecule that carries genetic instructions in living organisms.
+Q: What is the largest animal?
+A: The blue whale is the largest animal on Earth.
+Q: What is the fastest animal?
+A: The cheetah is the fastest land animal at 120 km per hour.
+Q: How many continents are there?
+A: There are 7 continents: Asia, Africa, North America, South America, Antarctica, Europe, Australia.
+Q: What is democracy?
+A: Democracy is a system of government where the people choose their leaders by voting.
+Q: What is the United Nations?
+A: The United Nations was founded in 1945. It promotes peace and cooperation between countries.
+Q: Who invented the computer?
+A: Charles Babbage designed the first computer in the 1830s.
+Q: Who invented the internet?
+A: The internet was developed by ARPANET in the 1960s. Tim Berners-Lee created the World Wide Web in 1989.
+Q: What is pi?
+A: Pi is approximately 3.14159. It is the ratio of a circle's circumference to its diameter.
+Q: What is a prime number?
+A: A prime number is a number greater than 1 that is only divisible by 1 and itself.
+Q: What are the first 10 prime numbers?
+A: The first 10 prime numbers are 2, 3, 5, 7, 11, 13, 17, 19, 23, 29.
+Q: What is the square root of 144?
+A: The square root of 144 is 12.
+Q: What is the square root of 81?
+A: The square root of 81 is 9.
+Q: What is the square root of 64?
+A: The square root of 64 is 8.
+Q: What is the square root of 25?
+A: The square root of 25 is 5.
+Q: What is 2 to the power of 10?
+A: 2 to the power of 10 is 1024.
+Q: What is the Pythagorean theorem?
+A: The Pythagorean theorem states that a squared plus b squared equals c squared.
+Q: What is the area of a circle?
+A: The area of a circle is pi times radius squared.
+Q: What is the area of a triangle?
+A: The area of a triangle is half times base times height.
+Q: What is gravity?
+A: Gravity is a force that attracts objects toward each other. On Earth it is 9.8 m/s squared.
+Q: What is an atom?
+A: An atom is the smallest unit of matter. It has protons, neutrons, and electrons.
+Q: What is the periodic table?
+A: The periodic table organizes all known chemical elements by atomic number.
+Q: What is H2O?
+A: H2O is the chemical formula for water. It has 2 hydrogen atoms and 1 oxygen atom.
+Q: What is oxygen?
+A: Oxygen is a chemical element. Humans need oxygen to breathe.
+Q: What is carbon dioxide?
+A: Carbon dioxide is CO2. Plants absorb it during photosynthesis.
+Q: Who was Cleopatra?
+A: Cleopatra was the last pharaoh of ancient Egypt. She ruled from 51 BC to 30 BC.
+Q: Who was Genghis Khan?
+A: Genghis Khan founded the Mongol Empire in 1206. It became the largest land empire.
+Q: What was the Renaissance?
+A: The Renaissance was a period of art and learning in Europe from the 14th to 17th century.
+Q: What was the Cold War?
+A: The Cold War was a rivalry between the USA and USSR from 1947 to 1991.
+Q: When did the Berlin Wall fall?
+A: The Berlin Wall fell on November 9, 1989.
+Q: Who was Martin Luther King Jr?
+A: Martin Luther King Jr was a civil rights leader. He gave the I Have a Dream speech in 1963.
+Q: Who was Nelson Mandela?
+A: Nelson Mandela was the first black President of South Africa in 1994.
+Q: What is the Magna Carta?
+A: The Magna Carta was signed in 1215. It limited the power of the English king.
+Q: What is the Declaration of Independence?
+A: The Declaration of Independence was signed on July 4, 1776. It declared American freedom from Britain.
+Q: What is the Constitution?
+A: The Constitution is the supreme law of the United States. It was written in 1787.Q: What is 1+1?
+A: 1+1=2.
+Q: What is 2+2?
+A: 2+2=4.
+Q: What is 3+3?
+A: 3+3=6.
+Q: What is 4+4?
+A: 4+4=8.
+Q: What is 5+5?
+A: 5+5=10.
+Q: What is 6+6?
+A: 6+6=12.
+Q: What is 7+7?
+A: 7+7=14.
+Q: What is 8+8?
+A: 8+8=16.
+Q: What is 9+9?
+A: 9+9=18.
+Q: What is 10+10?
+A: 10+10=20.
+Q: What is 2+3?
+A: 2+3=5.
+Q: What is 3+4?
+A: 3+4=7.
+Q: What is 4+5?
+A: 4+5=9.
+Q: What is 5+6?
+A: 5+6=11.
+Q: What is 6+7?
+A: 6+7=13.
+Q: What is 7+8?
+A: 7+8=15.
+Q: What is 8+9?
+A: 8+9=17.
+Q: What is 9+10?
+A: 9+10=19.
+Q: What is 10+5?
+A: 10+5=15.
+Q: What is 12+8?
+A: 12+8=20.
+Q: What is 15+5?
+A: 15+5=20.
+Q: What is 20+10?
+A: 20+10=30.
+Q: What is 25+25?
+A: 25+25=50.
+Q: What is 30+20?
+A: 30+20=50.
+Q: What is 50+50?
+A: 50+50=100.
+Q: What is 2*2?
+A: 2*2=4.
+Q: What is 3*3?
+A: 3*3=9.
+Q: What is 4*4?
+A: 4*4=16.
+Q: What is 5*5?
+A: 5*5=25.
+Q: What is 6*6?
+A: 6*6=36.
+Q: What is 7*7?
+A: 7*7=49.
+Q: What is 8*8?
+A: 8*8=64.
+Q: What is 9*9?
+A: 9*9=81.
+Q: What is 10*10?
+A: 10*10=100.
+Q: What is 2*3?
+A: 2*3=6.
+Q: What is 3*4?
+A: 3*4=12.
+Q: What is 4*5?
+A: 4*5=20.
+Q: What is 5*6?
+A: 5*6=30.
+Q: What is 6*7?
+A: 6*7=42.
+Q: What is 7*8?
+A: 7*8=56.
+Q: What is 8*9?
+A: 8*9=72.
+Q: What is 10-3?
+A: 10-3=7.
+Q: What is 20-5?
+A: 20-5=15.
+Q: What is 50-25?
+A: 50-25=25.
+Q: What is 100-50?
+A: 100-50=50.
+Q: What is 10/2?
+A: 10/2=5.
+Q: What is 20/4?
+A: 20/4=5.
+Q: What is 100/10?
+A: 100/10=10.
+Q: What is the capital of India?
+A: The capital of India is New Delhi.
+Q: What is the capital of France?
+A: The capital of France is Paris.
+Q: What is the capital of Japan?
+A: The capital of Japan is Tokyo.
+Q: What is the capital of Germany?
+A: The capital of Germany is Berlin.
+Q: What is the capital of Italy?
+A: The capital of Italy is Rome.
+Q: What is the capital of China?
+A: The capital of China is Beijing.
+Q: What is the capital of Russia?
+A: The capital of Russia is Moscow.
+Q: What is the capital of Brazil?
+A: The capital of Brazil is Brasilia.
+Q: What is the capital of Australia?
+A: The capital of Australia is Canberra.
+Q: What is the capital of Canada?
+A: The capital of Canada is Ottawa.
+Q: What is the capital of the United States?
+A: The capital of the United States is Washington D.C.
+Q: What is the capital of the United Kingdom?
+A: The capital of the United Kingdom is London.
+Q: What is the capital of Spain?
+A: The capital of Spain is Madrid.
+Q: What is the capital of Egypt?
+A: The capital of Egypt is Cairo.
+Q: What is the capital of Mexico?
+A: The capital of Mexico is Mexico City.
+Q: What is the capital of South Korea?
+A: The capital of South Korea is Seoul.
+Q: What is the capital of Turkey?
+A: The capital of Turkey is Ankara.
+Q: What is the capital of Argentina?
+A: The capital of Argentina is Buenos Aires.
+Q: What is the capital of South Africa?
+A: The capital of South Africa is Pretoria.
+Q: What is the capital of Indonesia?
+A: The capital of Indonesia is Jakarta.
+Q: Who discovered America?
+A: Christopher Columbus discovered America in 1492.
+Q: Who was the first President of the United States?
+A: George Washington was the first President of the United States.
+Q: When did World War I begin?
+A: World War I began in 1914.
+Q: When did World War I end?
+A: World War I ended in 1918.
+Q: When did World War II begin?
+A: World War II began in 1939.
+Q: When did World War II end?
+A: World War II ended in 1945.
+Q: Who built the pyramids?
+A: The ancient Egyptians built the pyramids.
+Q: Who invented the telephone?
+A: Alexander Graham Bell invented the telephone in 1876.
+Q: Who invented the light bulb?
+A: Thomas Edison invented the light bulb in 1879.
+Q: Who invented electricity?
+A: Benjamin Franklin studied electricity. Michael Faraday invented the electric motor.
+Q: Who painted the Mona Lisa?
+A: Leonardo da Vinci painted the Mona Lisa.
+Q: Who wrote Romeo and Juliet?
+A: William Shakespeare wrote Romeo and Juliet.
+Q: Who discovered gravity?
+A: Isaac Newton discovered gravity.
+Q: What is the theory of relativity?
+A: Albert Einstein created the theory of relativity in 1905.
+Q: Who was Mahatma Gandhi?
+A: Mahatma Gandhi was the leader of Indian independence. He was born in 1869.
+Q: When did India gain independence?
+A: India gained independence on August 15, 1947.
+Q: Who was the first man on the moon?
+A: Neil Armstrong was the first man on the moon in 1969.
+Q: Who was Alexander the Great?
+A: Alexander the Great was a king of Macedonia who conquered a vast empire.
+Q: Who was Julius Caesar?
+A: Julius Caesar was a Roman leader who was assassinated in 44 BC.
+Q: Who was Napoleon?
+A: Napoleon Bonaparte was the Emperor of France from 1804 to 1814.
+Q: What was the French Revolution?
+A: The French Revolution began in 1789. It overthrew the monarchy in France.
+Q: What was the Industrial Revolution?
+A: The Industrial Revolution began in the 1760s in Britain. It changed manufacturing.
+Q: Who discovered penicillin?
+A: Alexander Fleming discovered penicillin in 1928.
+Q: Who was Abraham Lincoln?
+A: Abraham Lincoln was the 16th President of the United States. He ended slavery.
+Q: What is the Great Wall of China?
+A: The Great Wall of China is a wall built to protect China. It is over 13000 miles long.
+Q: What is the Taj Mahal?
+A: The Taj Mahal is a monument in Agra, India. It was built by Shah Jahan in 1632.
+Q: What is the Colosseum?
+A: The Colosseum is an ancient arena in Rome, Italy. It was built in 80 AD.
+Q: What is the largest ocean?
+A: The Pacific Ocean is the largest ocean in the world.
+Q: What is the longest river?
+A: The Nile River is the longest river in the world at 6650 km.
+Q: What is the largest country?
+A: Russia is the largest country in the world by area.
+Q: What is the smallest country?
+A: Vatican City is the smallest country in the world.
+Q: What is the largest planet?
+A: Jupiter is the largest planet in the solar system.
+Q: What is the smallest planet?
+A: Mercury is the smallest planet in the solar system.
+Q: How many planets are in the solar system?
+A: There are 8 planets in the solar system.
+Q: What are the planets in order?
+A: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune.
+Q: What is the sun?
+A: The sun is a star at the center of our solar system.
+Q: What is the moon?
+A: The moon is Earth's natural satellite.
+Q: What is the speed of light?
+A: The speed of light is 300000 km per second.
+Q: What is the boiling point of water?
+A: The boiling point of water is 100 degrees Celsius.
+Q: What is the freezing point of water?
+A: The freezing point of water is 0 degrees Celsius.
+Q: What is photosynthesis?
+A: Photosynthesis is the process by which plants convert sunlight into energy.
+Q: What is DNA?
+A: DNA is the molecule that carries genetic instructions in living organisms.
+Q: What is the largest animal?
+A: The blue whale is the largest animal on Earth.
+Q: What is the fastest animal?
+A: The cheetah is the fastest land animal at 120 km per hour.
+Q: How many continents are there?
+A: There are 7 continents: Asia, Africa, North America, South America, Antarctica, Europe, Australia.
+Q: What is democracy?
+A: Democracy is a system of government where the people choose their leaders by voting.
+Q: What is the United Nations?
+A: The United Nations was founded in 1945. It promotes peace and cooperation between countries.
+Q: Who invented the computer?
+A: Charles Babbage designed the first computer in the 1830s.
+Q: Who invented the internet?
+A: The internet was developed by ARPANET in the 1960s. Tim Berners-Lee created the World Wide Web in 1989.
+Q: What is pi?
+A: Pi is approximately 3.14159. It is the ratio of a circle's circumference to its diameter.
+Q: What is a prime number?
+A: A prime number is a number greater than 1 that is only divisible by 1 and itself.
+Q: What are the first 10 prime numbers?
+A: The first 10 prime numbers are 2, 3, 5, 7, 11, 13, 17, 19, 23, 29.
+Q: What is the square root of 144?
+A: The square root of 144 is 12.
+Q: What is the square root of 81?
+A: The square root of 81 is 9.
+Q: What is the square root of 64?
+A: The square root of 64 is 8.
+Q: What is the square root of 25?
+A: The square root of 25 is 5.
+Q: What is 2 to the power of 10?
+A: 2 to the power of 10 is 1024.
+Q: What is the Pythagorean theorem?
+A: The Pythagorean theorem states that a squared plus b squared equals c squared.
+Q: What is the area of a circle?
+A: The area of a circle is pi times radius squared.
+Q: What is the area of a triangle?
+A: The area of a triangle is half times base times height.
+Q: What is gravity?
+A: Gravity is a force that attracts objects toward each other. On Earth it is 9.8 m/s squared.
+Q: What is an atom?
+A: An atom is the smallest unit of matter. It has protons, neutrons, and electrons.
+Q: What is the periodic table?
+A: The periodic table organizes all known chemical elements by atomic number.
+Q: What is H2O?
+A: H2O is the chemical formula for water. It has 2 hydrogen atoms and 1 oxygen atom.
+Q: What is oxygen?
+A: Oxygen is a chemical element. Humans need oxygen to breathe.
+Q: What is carbon dioxide?
+A: Carbon dioxide is CO2. Plants absorb it during photosynthesis.
+Q: Who was Cleopatra?
+A: Cleopatra was the last pharaoh of ancient Egypt. She ruled from 51 BC to 30 BC.
+Q: Who was Genghis Khan?
+A: Genghis Khan founded the Mongol Empire in 1206. It became the largest land empire.
+Q: What was the Renaissance?
+A: The Renaissance was a period of art and learning in Europe from the 14th to 17th century.
+Q: What was the Cold War?
+A: The Cold War was a rivalry between the USA and USSR from 1947 to 1991.
+Q: When did the Berlin Wall fall?
+A: The Berlin Wall fell on November 9, 1989.
+Q: Who was Martin Luther King Jr?
+A: Martin Luther King Jr was a civil rights leader. He gave the I Have a Dream speech in 1963.
+Q: Who was Nelson Mandela?
+A: Nelson Mandela was the first black President of South Africa in 1994.
+Q: What is the Magna Carta?
+A: The Magna Carta was signed in 1215. It limited the power of the English king.
+Q: What is the Declaration of Independence?
+A: The Declaration of Independence was signed on July 4, 1776. It declared American freedom from Britain.
+Q: What is the Constitution?
+A: The Constitution is the supreme law of the United States. It was written in 1787.

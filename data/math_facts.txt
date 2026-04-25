@@ -1,0 +1,9689 @@
+Q: What is the square root of 8281?
+A: The square root of 8281 is 91.
+
+Q: Is 99 even or odd?
+A: 99 is odd.
+
+Q: What is 40 cubed?
+A: 40 cubed is 64000.
+
+Q: What is 37 squared?
+A: 37 squared is 1369.
+
+Q: What is the square root of 1225?
+A: The square root of 1225 is 35.
+
+Q: Is 12 even or odd?
+A: 12 is even.
+
+Q: What is 75 squared?
+A: 75 squared is 5625.
+
+Q: Is 31 a prime number?
+A: Yes, 31 is a prime number.
+
+Q: Is 99 even or odd?
+A: 99 is odd.
+
+Q: Is 25 a prime number?
+A: No, 25 is not a prime number.
+
+Q: What is 1!?
+A: 1!=1.
+
+Q: Is 16 even or odd?
+A: 16 is even.
+
+Q: What is 40% of 200?
+A: 40% of 200 is 80.
+
+Q: Is 85 even or odd?
+A: 85 is odd.
+
+Q: What is the 8th Fibonacci number?
+A: The 8th Fibonacci number is 13.
+
+Q: Is 83 even or odd?
+A: 83 is odd.
+
+Q: What is 50% of 200?
+A: 50% of 200 is 100.
+
+Q: What is 28 cubed?
+A: 28 cubed is 21952.
+
+Q: What is the square root of 2304?
+A: The square root of 2304 is 48.
+
+Q: What is 26 squared?
+A: 26 squared is 676.
+
+Q: What is the square root of 2916?
+A: The square root of 2916 is 54.
+
+Q: What is 42 cubed?
+A: 42 cubed is 74088.
+
+Q: What is 67 squared?
+A: 67 squared is 4489.
+
+Q: What is 33 cubed?
+A: 33 cubed is 35937.
+
+Q: What is 2 to the power of 3?
+A: 2 to the power of 3 is 8.
+
+Q: What is 36 cubed?
+A: 36 cubed is 46656.
+
+Q: Is 7 even or odd?
+A: 7 is odd.
+
+Q: What is 26*26?
+A: 26*26=676.
+
+Q: What is 41*41?
+A: 41*41=1681.
+
+Q: What is the square root of 1156?
+A: The square root of 1156 is 34.
+
+Q: Is 89 a prime number?
+A: Yes, 89 is a prime number.
+
+Q: What is the 10th Fibonacci number?
+A: The 10th Fibonacci number is 34.
+
+Q: What is the square root of 5184?
+A: The square root of 5184 is 72.
+
+Q: Is 8 a prime number?
+A: No, 8 is not a prime number.
+
+Q: What is the square root of 3600?
+A: The square root of 3600 is 60.
+
+Q: What is 1 factorial?
+A: 1 factorial is 1.
+
+Q: What is 16 squared?
+A: 16 squared is 256.
+
+Q: Is 24 even or odd?
+A: 24 is even.
+
+Q: What is 82 squared?
+A: 82 squared is 6724.
+
+Q: Is 109 a prime number?
+A: Yes, 109 is a prime number.
+
+Q: What is 27*27?
+A: 27*27=729.
+
+Q: What is 5!?
+A: 5!=120.
+
+Q: What is the square root of 5329?
+A: The square root of 5329 is 73.
+
+Q: What is 2 to the power of 20?
+A: 2 to the power of 20 is 1048576.
+
+Q: Is 30 a prime number?
+A: No, 30 is not a prime number.
+
+Q: What is 32*32?
+A: 32*32=1024.
+
+Q: What is 78*78?
+A: 78*78=6084.
+
+Q: What is the square root of 484?
+A: The square root of 484 is 22.
+
+Q: Is 97 even or odd?
+A: 97 is odd.
+
+Q: What is 35 cubed?
+A: 35 cubed is 42875.
+
+Q: What is 80% of 100?
+A: 80% of 100 is 80.
+
+Q: What is 45 cubed?
+A: 45 cubed is 91125.
+
+Q: Is 91 even or odd?
+A: 91 is odd.
+
+Q: Is 17 even or odd?
+A: 17 is odd.
+
+Q: What is 10% of 1000?
+A: 10% of 1000 is 100.
+
+Q: Is 6 even or odd?
+A: 6 is even.
+
+Q: What is 13*13?
+A: 13*13=169.
+
+Q: Is 20 even or odd?
+A: 20 is even.
+
+Q: Is 31 a prime number?
+A: Yes, 31 is a prime number.
+
+Q: What is 39 cubed?
+A: 39 cubed is 59319.
+
+Q: What is 20% of 200?
+A: 20% of 200 is 40.
+
+Q: What is the square root of 9604?
+A: The square root of 9604 is 98.
+
+Q: Is 9 a prime number?
+A: No, 9 is not a prime number.
+
+Q: What is the square root of 36?
+A: The square root of 36 is 6.
+
+Q: What is the square root of 2809?
+A: The square root of 2809 is 53.
+
+Q: What is the square root of 2500?
+A: The square root of 2500 is 50.
+
+Q: Is 31 even or odd?
+A: 31 is odd.
+
+Q: What is 27 cubed?
+A: 27 cubed is 19683.
+
+Q: What is 75% of 1000?
+A: 75% of 1000 is 750.
+
+Q: What is 10*10?
+A: 10*10=100.
+
+Q: What is 10 to the power of 5?
+A: 10 to the power of 5 is 100000.
+
+Q: Is 69 even or odd?
+A: 69 is odd.
+
+Q: What is 7!?
+A: 7!=5040.
+
+Q: What is the square root of 3844?
+A: The square root of 3844 is 62.
+
+Q: What is 69*69?
+A: 69*69=4761.
+
+Q: Is 2 even or odd?
+A: 2 is even.
+
+Q: Is 29 a prime number?
+A: Yes, 29 is a prime number.
+
+Q: Is 65 even or odd?
+A: 65 is odd.
+
+Q: What is 86 squared?
+A: 86 squared is 7396.
+
+Q: What is 73 squared?
+A: 73 squared is 5329.
+
+Q: What is 36 cubed?
+A: 36 cubed is 46656.
+
+Q: What is 6*6?
+A: 6*6=36.
+
+Q: What is 11!?
+A: 11!=39916800.
+
+Q: What is 10 squared?
+A: 10 squared is 100.
+
+Q: What is 51 squared?
+A: 51 squared is 2601.
+
+Q: What is the square root of 1681?
+A: The square root of 1681 is 41.
+
+Q: What is 27 squared?
+A: 27 squared is 729.
+
+Q: What is the square root of 7396?
+A: The square root of 7396 is 86.
+
+Q: Is 10 even or odd?
+A: 10 is even.
+
+Q: What is 2 to the power of 18?
+A: 2 to the power of 18 is 262144.
+
+Q: What is 15*15?
+A: 15*15=225.
+
+Q: What is 96 squared?
+A: 96 squared is 9216.
+
+Q: Is 68 even or odd?
+A: 68 is even.
+
+Q: What is 2!?
+A: 2!=2.
+
+Q: What is 20*20?
+A: 20*20=400.
+
+Q: Is 8 even or odd?
+A: 8 is even.
+
+Q: Is 37 a prime number?
+A: Yes, 37 is a prime number.
+
+Q: What is 61*61?
+A: 61*61=3721.
+
+Q: Is 67 even or odd?
+A: 67 is odd.
+
+Q: What is 2 to the power of 17?
+A: 2 to the power of 17 is 131072.
+
+Q: What is 95*95?
+A: 95*95=9025.
+
+Q: What is 1 factorial?
+A: 1 factorial is 1.
+
+Q: Is 39 even or odd?
+A: 39 is odd.
+
+Q: Is 97 a prime number?
+A: Yes, 97 is a prime number.
+
+Q: What is the square root of 3364?
+A: The square root of 3364 is 58.
+
+Q: What is 62*62?
+A: 62*62=3844.
+
+Q: What is 28*28?
+A: 28*28=784.
+
+Q: What is the 17th Fibonacci number?
+A: The 17th Fibonacci number is 987.
+
+Q: What is 65*65?
+A: 65*65=4225.
+
+Q: Is 139 a prime number?
+A: Yes, 139 is a prime number.
+
+Q: What is 98 squared?
+A: 98 squared is 9604.
+
+Q: What is 25% of 500?
+A: 25% of 500 is 125.
+
+Q: What is 49 cubed?
+A: 49 cubed is 117649.
+
+Q: What is 28 cubed?
+A: 28 cubed is 21952.
+
+Q: What is 13 cubed?
+A: 13 cubed is 2197.
+
+Q: What is the square root of 1444?
+A: The square root of 1444 is 38.
+
+Q: What is 34*34?
+A: 34*34=1156.
+
+Q: What is the square root of 3025?
+A: The square root of 3025 is 55.
+
+Q: Is 92 even or odd?
+A: 92 is even.
+
+Q: What is the 13th Fibonacci number?
+A: The 13th Fibonacci number is 144.
+
+Q: What is 23*23?
+A: 23*23=529.
+
+Q: What is 40% of 100?
+A: 40% of 100 is 40.
+
+Q: What is 81 squared?
+A: 81 squared is 6561.
+
+Q: What is 32*32?
+A: 32*32=1024.
+
+Q: What is the square root of 4761?
+A: The square root of 4761 is 69.
+
+Q: What is the square root of 1089?
+A: The square root of 1089 is 33.
+
+Q: What is 84*84?
+A: 84*84=7056.
+
+Q: What is 4*4?
+A: 4*4=16.
+
+Q: Is 37 even or odd?
+A: 37 is odd.
+
+Q: What is 20 squared?
+A: 20 squared is 400.
+
+Q: What is 40*40?
+A: 40*40=1600.
+
+Q: Is 14 even or odd?
+A: 14 is even.
+
+Q: What is 58*58?
+A: 58*58=3364.
+
+Q: What is the 13th Fibonacci number?
+A: The 13th Fibonacci number is 144.
+
+Q: What is 67 squared?
+A: 67 squared is 4489.
+
+Q: What is 88 squared?
+A: 88 squared is 7744.
+
+Q: What is 13 squared?
+A: 13 squared is 169.
+
+Q: What is 80% of 1000?
+A: 80% of 1000 is 800.
+
+Q: What is 30% of 200?
+A: 30% of 200 is 60.
+
+Q: What is the square root of 5776?
+A: The square root of 5776 is 76.
+
+Q: What is 39*39?
+A: 39*39=1521.
+
+Q: What is 2 to the power of 14?
+A: 2 to the power of 14 is 16384.
+
+Q: What is 80*80?
+A: 80*80=6400.
+
+Q: What is 10 squared?
+A: 10 squared is 100.
+
+Q: Is 85 even or odd?
+A: 85 is odd.
+
+Q: What is 86*86?
+A: 86*86=7396.
+
+Q: What is the square root of 9025?
+A: The square root of 9025 is 95.
+
+Q: What is 2 to the power of 14?
+A: 2 to the power of 14 is 16384.
+
+Q: Is 29 a prime number?
+A: Yes, 29 is a prime number.
+
+Q: What is 64 squared?
+A: 64 squared is 4096.
+
+Q: Is 107 a prime number?
+A: Yes, 107 is a prime number.
+
+Q: What is 10% of 100?
+A: 10% of 100 is 10.
+
+Q: What is 2 to the power of 17?
+A: 2 to the power of 17 is 131072.
+
+Q: Is 38 even or odd?
+A: 38 is even.
+
+Q: What is 20% of 50?
+A: 20% of 50 is 10.
+
+Q: Is 53 a prime number?
+A: Yes, 53 is a prime number.
+
+Q: What is 7 squared?
+A: 7 squared is 49.
+
+Q: What is 30*30?
+A: 30*30=900.
+
+Q: Is 56 even or odd?
+A: 56 is even.
+
+Q: What is 44 squared?
+A: 44 squared is 1936.
+
+Q: What is 30% of 1000?
+A: 30% of 1000 is 300.
+
+Q: What is 75% of 50?
+A: 75% of 50 is 37.
+
+Q: What is the square root of 900?
+A: The square root of 900 is 30.
+
+Q: What is 25% of 50?
+A: 25% of 50 is 12.
+
+Q: Is 107 a prime number?
+A: Yes, 107 is a prime number.
+
+Q: What is 30*30?
+A: 30*30=900.
+
+Q: What is 61*61?
+A: 61*61=3721.
+
+Q: What is 49 squared?
+A: 49 squared is 2401.
+
+Q: What is 60% of 1000?
+A: 60% of 1000 is 600.
+
+Q: Is 9 a prime number?
+A: No, 9 is not a prime number.
+
+Q: What is 2 to the power of 13?
+A: 2 to the power of 13 is 8192.
+
+Q: Is 127 a prime number?
+A: Yes, 127 is a prime number.
+
+Q: What is 6 cubed?
+A: 6 cubed is 216.
+
+Q: What is the square root of 5184?
+A: The square root of 5184 is 72.
+
+Q: Is 27 a prime number?
+A: No, 27 is not a prime number.
+
+Q: What is 31 cubed?
+A: 31 cubed is 29791.
+
+Q: What is 89*89?
+A: 89*89=7921.
+
+Q: What is 75% of 200?
+A: 75% of 200 is 150.
+
+Q: Is 88 even or odd?
+A: 88 is even.
+
+Q: Is 74 even or odd?
+A: 74 is even.
+
+Q: What is 78 squared?
+A: 78 squared is 6084.
+
+Q: What is 64*64?
+A: 64*64=4096.
+
+Q: Is 63 even or odd?
+A: 63 is odd.
+
+Q: Is 157 a prime number?
+A: Yes, 157 is a prime number.
+
+Q: What is the square root of 121?
+A: The square root of 121 is 11.
+
+Q: Is 39 even or odd?
+A: 39 is odd.
+
+Q: What is the square root of 2401?
+A: The square root of 2401 is 49.
+
+Q: What is 88*88?
+A: 88*88=7744.
+
+Q: Is 30 a prime number?
+A: No, 30 is not a prime number.
+
+Q: What is 26 cubed?
+A: 26 cubed is 17576.
+
+Q: What is the square root of 3600?
+A: The square root of 3600 is 60.
+
+Q: Is 41 a prime number?
+A: Yes, 41 is a prime number.
+
+Q: What is the square root of 9409?
+A: The square root of 9409 is 97.
+
+Q: What is 2 squared?
+A: 2 squared is 4.
+
+Q: Is 17 a prime number?
+A: Yes, 17 is a prime number.
+
+Q: Is 14 even or odd?
+A: 14 is even.
+
+Q: What is 42 squared?
+A: 42 squared is 1764.
+
+Q: What is 2 cubed?
+A: 2 cubed is 8.
+
+Q: Is 65 even or odd?
+A: 65 is odd.
+
+Q: What is 79 squared?
+A: 79 squared is 6241.
+
+Q: What is the square root of 4489?
+A: The square root of 4489 is 67.
+
+Q: What is 53 squared?
+A: 53 squared is 2809.
+
+Q: What is the square root of 3481?
+A: The square root of 3481 is 59.
+
+Q: What is 10% of 200?
+A: 10% of 200 is 20.
+
+Q: What is the square root of 4624?
+A: The square root of 4624 is 68.
+
+Q: What is 22*22?
+A: 22*22=484.
+
+Q: What is 2 to the power of 2?
+A: 2 to the power of 2 is 4.
+
+Q: What is 2 to the power of 4?
+A: 2 to the power of 4 is 16.
+
+Q: What is 90*90?
+A: 90*90=8100.
+
+Q: What is 7*7?
+A: 7*7=49.
+
+Q: What is the square root of 5476?
+A: The square root of 5476 is 74.
+
+Q: What is the square root of 5625?
+A: The square root of 5625 is 75.
+
+Q: Is 197 a prime number?
+A: Yes, 197 is a prime number.
+
+Q: What is the square root of 5329?
+A: The square root of 5329 is 73.
+
+Q: Is 66 even or odd?
+A: 66 is even.
+
+Q: What is the square root of 3481?
+A: The square root of 3481 is 59.
+
+Q: What is 2 to the power of 8?
+A: 2 to the power of 8 is 256.
+
+Q: Is 47 even or odd?
+A: 47 is odd.
+
+Q: What is 37 cubed?
+A: 37 cubed is 50653.
+
+Q: What is 5*5?
+A: 5*5=25.
+
+Q: What is 35 squared?
+A: 35 squared is 1225.
+
+Q: What is the square root of 256?
+A: The square root of 256 is 16.
+
+Q: What is 13 cubed?
+A: 13 cubed is 2197.
+
+Q: What is the square root of 256?
+A: The square root of 256 is 16.
+
+Q: What is 80% of 500?
+A: 80% of 500 is 400.
+
+Q: What is the square root of 900?
+A: The square root of 900 is 30.
+
+Q: Is 86 even or odd?
+A: 86 is even.
+
+Q: What is 49 cubed?
+A: 49 cubed is 117649.
+
+Q: Is 8 even or odd?
+A: 8 is even.
+
+Q: Is 62 even or odd?
+A: 62 is even.
+
+Q: What is 6 cubed?
+A: 6 cubed is 216.
+
+Q: What is 56 squared?
+A: 56 squared is 3136.
+
+Q: What is the square root of 361?
+A: The square root of 361 is 19.
+
+Q: What is the square root of 676?
+A: The square root of 676 is 26.
+
+Q: What is the square root of 8100?
+A: The square root of 8100 is 90.
+
+Q: What is 2 to the power of 2?
+A: 2 to the power of 2 is 4.
+
+Q: What is 90% of 50?
+A: 90% of 50 is 45.
+
+Q: Is 12 even or odd?
+A: 12 is even.
+
+Q: What is the square root of 196?
+A: The square root of 196 is 14.
+
+Q: What is the 21th Fibonacci number?
+A: The 21th Fibonacci number is 6765.
+
+Q: What is 29*29?
+A: 29*29=841.
+
+Q: What is 36 squared?
+A: 36 squared is 1296.
+
+Q: What is 47 squared?
+A: 47 squared is 2209.
+
+Q: What is 9 factorial?
+A: 9 factorial is 362880.
+
+Q: What is the square root of 2601?
+A: The square root of 2601 is 51.
+
+Q: What is 41 squared?
+A: 41 squared is 1681.
+
+Q: What is 11 squared?
+A: 11 squared is 121.
+
+Q: Is 46 even or odd?
+A: 46 is even.
+
+Q: What is 79*79?
+A: 79*79=6241.
+
+Q: What is the square root of 1369?
+A: The square root of 1369 is 37.
+
+Q: What is the square root of 8649?
+A: The square root of 8649 is 93.
+
+Q: What is 2 to the power of 20?
+A: 2 to the power of 20 is 1048576.
+
+Q: What is the square root of 7921?
+A: The square root of 7921 is 89.
+
+Q: What is 20% of 1000?
+A: 20% of 1000 is 200.
+
+Q: Is 26 even or odd?
+A: 26 is even.
+
+Q: What is 16 squared?
+A: 16 squared is 256.
+
+Q: What is the square root of 1024?
+A: The square root of 1024 is 32.
+
+Q: What is 17*17?
+A: 17*17=289.
+
+Q: What is 25% of 50?
+A: 25% of 50 is 12.
+
+Q: What is 91*91?
+A: 91*91=8281.
+
+Q: What is 58 squared?
+A: 58 squared is 3364.
+
+Q: What is the square root of 7744?
+A: The square root of 7744 is 88.
+
+Q: What is 16*16?
+A: 16*16=256.
+
+Q: What is 80 squared?
+A: 80 squared is 6400.
+
+Q: What is 85*85?
+A: 85*85=7225.
+
+Q: What is the square root of 5184?
+A: The square root of 5184 is 72.
+
+Q: What is 17 cubed?
+A: 17 cubed is 4913.
+
+Q: What is the square root of 4225?
+A: The square root of 4225 is 65.
+
+Q: What is 60% of 1000?
+A: 60% of 1000 is 600.
+
+Q: What is 90 squared?
+A: 90 squared is 8100.
+
+Q: Is 199 a prime number?
+A: Yes, 199 is a prime number.
+
+Q: What is the square root of 4624?
+A: The square root of 4624 is 68.
+
+Q: What is 25% of 1000?
+A: 25% of 1000 is 250.
+
+Q: What is 7 cubed?
+A: 7 cubed is 343.
+
+Q: What is 80% of 200?
+A: 80% of 200 is 160.
+
+Q: What is the square root of 6400?
+A: The square root of 6400 is 80.
+
+Q: What is 41 squared?
+A: 41 squared is 1681.
+
+Q: Is 22 even or odd?
+A: 22 is even.
+
+Q: Is 139 a prime number?
+A: Yes, 139 is a prime number.
+
+Q: What is the square root of 49?
+A: The square root of 49 is 7.
+
+Q: What is 74 squared?
+A: 74 squared is 5476.
+
+Q: What is the square root of 1?
+A: The square root of 1 is 1.
+
+Q: What is 33*33?
+A: 33*33=1089.
+
+Q: What is the square root of 121?
+A: The square root of 121 is 11.
+
+Q: What is the square root of 6084?
+A: The square root of 6084 is 78.
+
+Q: Is 139 a prime number?
+A: Yes, 139 is a prime number.
+
+Q: What is 54*54?
+A: 54*54=2916.
+
+Q: What is the square root of 3364?
+A: The square root of 3364 is 58.
+
+Q: What is 10 cubed?
+A: 10 cubed is 1000.
+
+Q: Is 53 even or odd?
+A: 53 is odd.
+
+Q: What is 10 to the power of 5?
+A: 10 to the power of 5 is 100000.
+
+Q: What is 2 factorial?
+A: 2 factorial is 2.
+
+Q: What is 31 squared?
+A: 31 squared is 961.
+
+Q: What is 20% of 200?
+A: 20% of 200 is 40.
+
+Q: Is 7 even or odd?
+A: 7 is odd.
+
+Q: What is the square root of 900?
+A: The square root of 900 is 30.
+
+Q: What is 48*48?
+A: 48*48=2304.
+
+Q: What is the square root of 729?
+A: The square root of 729 is 27.
+
+Q: What is 63*63?
+A: 63*63=3969.
+
+Q: Is 89 a prime number?
+A: Yes, 89 is a prime number.
+
+Q: Is 86 even or odd?
+A: 86 is even.
+
+Q: What is the square root of 5776?
+A: The square root of 5776 is 76.
+
+Q: What is 18 squared?
+A: 18 squared is 324.
+
+Q: What is 90% of 100?
+A: 90% of 100 is 90.
+
+Q: Is 71 a prime number?
+A: Yes, 71 is a prime number.
+
+Q: What is the square root of 2025?
+A: The square root of 2025 is 45.
+
+Q: What is the square root of 1444?
+A: The square root of 1444 is 38.
+
+Q: Is 94 even or odd?
+A: 94 is even.
+
+Q: What is the square root of 3844?
+A: The square root of 3844 is 62.
+
+Q: What is 22 squared?
+A: 22 squared is 484.
+
+Q: What is 4 cubed?
+A: 4 cubed is 64.
+
+Q: Is 3 a prime number?
+A: Yes, 3 is a prime number.
+
+Q: What is 81*81?
+A: 81*81=6561.
+
+Q: Is 4 even or odd?
+A: 4 is even.
+
+Q: What is 83*83?
+A: 83*83=6889.
+
+Q: What is 36 cubed?
+A: 36 cubed is 46656.
+
+Q: What is the square root of 625?
+A: The square root of 625 is 25.
+
+Q: Is 88 even or odd?
+A: 88 is even.
+
+Q: Is 5 even or odd?
+A: 5 is odd.
+
+Q: Is 6 a prime number?
+A: No, 6 is not a prime number.
+
+Q: What is 35 cubed?
+A: 35 cubed is 42875.
+
+Q: Is 25 a prime number?
+A: No, 25 is not a prime number.
+
+Q: Is 5 a prime number?
+A: Yes, 5 is a prime number.
+
+Q: What is the square root of 961?
+A: The square root of 961 is 31.
+
+Q: What is 2 to the power of 10?
+A: 2 to the power of 10 is 1024.
+
+Q: What is the square root of 729?
+A: The square root of 729 is 27.
+
+Q: What is 97*97?
+A: 97*97=9409.
+
+Q: What is 10% of 1000?
+A: 10% of 1000 is 100.
+
+Q: What is 36*36?
+A: 36*36=1296.
+
+Q: What is the 3th Fibonacci number?
+A: The 3th Fibonacci number is 1.
+
+Q: Is 43 even or odd?
+A: 43 is odd.
+
+Q: What is 75% of 200?
+A: 75% of 200 is 150.
+
+Q: What is 12 squared?
+A: 12 squared is 144.
+
+Q: What is the square root of 8836?
+A: The square root of 8836 is 94.
+
+Q: What is 54 squared?
+A: 54 squared is 2916.
+
+Q: What is 42 cubed?
+A: 42 cubed is 74088.
+
+Q: What is 40% of 1000?
+A: 40% of 1000 is 400.
+
+Q: What is 40% of 200?
+A: 40% of 200 is 80.
+
+Q: What is 42 cubed?
+A: 42 cubed is 74088.
+
+Q: What is 68 squared?
+A: 68 squared is 4624.
+
+Q: What is 14*14?
+A: 14*14=196.
+
+Q: What is the square root of 3025?
+A: The square root of 3025 is 55.
+
+Q: What is 90% of 50?
+A: 90% of 50 is 45.
+
+Q: What is the square root of 2809?
+A: The square root of 2809 is 53.
+
+Q: What is 72 squared?
+A: 72 squared is 5184.
+
+Q: What is the square root of 1?
+A: The square root of 1 is 1.
+
+Q: Is 57 even or odd?
+A: 57 is odd.
+
+Q: Is 151 a prime number?
+A: Yes, 151 is a prime number.
+
+Q: What is 66*66?
+A: 66*66=4356.
+
+Q: What is 61 squared?
+A: 61 squared is 3721.
+
+Q: Is 50 even or odd?
+A: 50 is even.
+
+Q: What is 42 cubed?
+A: 42 cubed is 74088.
+
+Q: What is 57 squared?
+A: 57 squared is 3249.
+
+Q: What is 72*72?
+A: 72*72=5184.
+
+Q: Is 98 even or odd?
+A: 98 is even.
+
+Q: What is 68*68?
+A: 68*68=4624.
+
+Q: What is the square root of 1936?
+A: The square root of 1936 is 44.
+
+Q: What is 2 squared?
+A: 2 squared is 4.
+
+Q: What is the 16th Fibonacci number?
+A: The 16th Fibonacci number is 610.
+
+Q: What is 10 factorial?
+A: 10 factorial is 3628800.
+
+Q: What is the square root of 7396?
+A: The square root of 7396 is 86.
+
+Q: What is the square root of 100?
+A: The square root of 100 is 10.
+
+Q: What is 57 squared?
+A: 57 squared is 3249.
+
+Q: What is 97 squared?
+A: 97 squared is 9409.
+
+Q: Is 76 even or odd?
+A: 76 is even.
+
+Q: What is 84 squared?
+A: 84 squared is 7056.
+
+Q: What is 17 cubed?
+A: 17 cubed is 4913.
+
+Q: Is 94 even or odd?
+A: 94 is even.
+
+Q: What is the square root of 484?
+A: The square root of 484 is 22.
+
+Q: What is 1 factorial?
+A: 1 factorial is 1.
+
+Q: What is 88 squared?
+A: 88 squared is 7744.
+
+Q: What is 49 cubed?
+A: 49 cubed is 117649.
+
+Q: What is 31 cubed?
+A: 31 cubed is 29791.
+
+Q: What is 4 factorial?
+A: 4 factorial is 24.
+
+Q: Is 62 even or odd?
+A: 62 is even.
+
+Q: Is 131 a prime number?
+A: Yes, 131 is a prime number.
+
+Q: What is 62 squared?
+A: 62 squared is 3844.
+
+Q: Is 109 a prime number?
+A: Yes, 109 is a prime number.
+
+Q: What is 29 cubed?
+A: 29 cubed is 24389.
+
+Q: What is 40% of 1000?
+A: 40% of 1000 is 400.
+
+Q: What is 39 squared?
+A: 39 squared is 1521.
+
+Q: What is the square root of 4900?
+A: The square root of 4900 is 70.
+
+Q: What is 46 squared?
+A: 46 squared is 2116.
+
+Q: What is 4!?
+A: 4!=24.
+
+Q: What is 5 factorial?
+A: 5 factorial is 120.
+
+Q: What is 50% of 500?
+A: 50% of 500 is 250.
+
+Q: What is the square root of 400?
+A: The square root of 400 is 20.
+
+Q: What is 2 cubed?
+A: 2 cubed is 8.
+
+Q: Is 75 even or odd?
+A: 75 is odd.
+
+Q: What is 84*84?
+A: 84*84=7056.
+
+Q: What is 60*60?
+A: 60*60=3600.
+
+Q: What is 70*70?
+A: 70*70=4900.
+
+Q: What is the 5th Fibonacci number?
+A: The 5th Fibonacci number is 3.
+
+Q: What is 67*67?
+A: 67*67=4489.
+
+Q: Is 2 even or odd?
+A: 2 is even.
+
+Q: What is 2 to the power of 20?
+A: 2 to the power of 20 is 1048576.
+
+Q: Is 44 even or odd?
+A: 44 is even.
+
+Q: What is 14 squared?
+A: 14 squared is 196.
+
+Q: What is 9 factorial?
+A: 9 factorial is 362880.
+
+Q: What is 37*37?
+A: 37*37=1369.
+
+Q: Is 52 even or odd?
+A: 52 is even.
+
+Q: What is 3*3?
+A: 3*3=9.
+
+Q: What is 9 squared?
+A: 9 squared is 81.
+
+Q: What is 50% of 100?
+A: 50% of 100 is 50.
+
+Q: What is 12 factorial?
+A: 12 factorial is 479001600.
+
+Q: What is 60 squared?
+A: 60 squared is 3600.
+
+Q: What is 21 cubed?
+A: 21 cubed is 9261.
+
+Q: Is 88 even or odd?
+A: 88 is even.
+
+Q: Is 94 even or odd?
+A: 94 is even.
+
+Q: What is 82*82?
+A: 82*82=6724.
+
+Q: What is 18*18?
+A: 18*18=324.
+
+Q: Is 16 even or odd?
+A: 16 is even.
+
+Q: What is 10 cubed?
+A: 10 cubed is 1000.
+
+Q: What is 100 squared?
+A: 100 squared is 10000.
+
+Q: Is 47 a prime number?
+A: Yes, 47 is a prime number.
+
+Q: Is 97 a prime number?
+A: Yes, 97 is a prime number.
+
+Q: What is 75 squared?
+A: 75 squared is 5625.
+
+Q: What is 12!?
+A: 12!=479001600.
+
+Q: What is 60% of 100?
+A: 60% of 100 is 60.
+
+Q: Is 14 even or odd?
+A: 14 is even.
+
+Q: Is 81 even or odd?
+A: 81 is odd.
+
+Q: Is 9 a prime number?
+A: No, 9 is not a prime number.
+
+Q: What is 25*25?
+A: 25*25=625.
+
+Q: What is 73*73?
+A: 73*73=5329.
+
+Q: Is 4 even or odd?
+A: 4 is even.
+
+Q: What is 75% of 500?
+A: 75% of 500 is 375.
+
+Q: What is the square root of 484?
+A: The square root of 484 is 22.
+
+Q: What is 80% of 100?
+A: 80% of 100 is 80.
+
+Q: Is 95 even or odd?
+A: 95 is odd.
+
+Q: What is 35 squared?
+A: 35 squared is 1225.
+
+Q: What is 64*64?
+A: 64*64=4096.
+
+Q: Is 37 a prime number?
+A: Yes, 37 is a prime number.
+
+Q: What is 8 factorial?
+A: 8 factorial is 40320.
+
+Q: What is 83*83?
+A: 83*83=6889.
+
+Q: What is 73*73?
+A: 73*73=5329.
+
+Q: Is 98 even or odd?
+A: 98 is even.
+
+Q: Is 83 a prime number?
+A: Yes, 83 is a prime number.
+
+Q: What is 90% of 1000?
+A: 90% of 1000 is 900.
+
+Q: Is 73 even or odd?
+A: 73 is odd.
+
+Q: Is 179 a prime number?
+A: Yes, 179 is a prime number.
+
+Q: What is 20% of 50?
+A: 20% of 50 is 10.
+
+Q: Is 4 even or odd?
+A: 4 is even.
+
+Q: What is 59 squared?
+A: 59 squared is 3481.
+
+Q: What is 35 cubed?
+A: 35 cubed is 42875.
+
+Q: What is 53 squared?
+A: 53 squared is 2809.
+
+Q: Is 199 a prime number?
+A: Yes, 199 is a prime number.
+
+Q: What is 10% of 1000?
+A: 10% of 1000 is 100.
+
+Q: What is the 18th Fibonacci number?
+A: The 18th Fibonacci number is 1597.
+
+Q: What is 52*52?
+A: 52*52=2704.
+
+Q: Is 59 a prime number?
+A: Yes, 59 is a prime number.
+
+Q: What is 8!?
+A: 8!=40320.
+
+Q: What is the square root of 2916?
+A: The square root of 2916 is 54.
+
+Q: Is 53 even or odd?
+A: 53 is odd.
+
+Q: What is 90% of 50?
+A: 90% of 50 is 45.
+
+Q: What is 80% of 50?
+A: 80% of 50 is 40.
+
+Q: What is 96*96?
+A: 96*96=9216.
+
+Q: What is 29 cubed?
+A: 29 cubed is 24389.
+
+Q: What is the square root of 289?
+A: The square root of 289 is 17.
+
+Q: What is 13 squared?
+A: 13 squared is 169.
+
+Q: What is 2 to the power of 12?
+A: 2 to the power of 12 is 4096.
+
+Q: What is 6 squared?
+A: 6 squared is 36.
+
+Q: What is 13 cubed?
+A: 13 cubed is 2197.
+
+Q: What is 45 cubed?
+A: 45 cubed is 91125.
+
+Q: What is 10 to the power of 10?
+A: 10 to the power of 10 is 10000000000.
+
+Q: What is 78*78?
+A: 78*78=6084.
+
+Q: What is the 20th Fibonacci number?
+A: The 20th Fibonacci number is 4181.
+
+Q: What is 4!?
+A: 4!=24.
+
+Q: What is the square root of 4489?
+A: The square root of 4489 is 67.
+
+Q: What is 33 squared?
+A: 33 squared is 1089.
+
+Q: What is 20 squared?
+A: 20 squared is 400.
+
+Q: Is 98 even or odd?
+A: 98 is even.
+
+Q: Is 13 a prime number?
+A: Yes, 13 is a prime number.
+
+Q: What is 44 squared?
+A: 44 squared is 1936.
+
+Q: Is 14 a prime number?
+A: No, 14 is not a prime number.
+
+Q: Is 80 even or odd?
+A: 80 is even.
+
+Q: What is 6 squared?
+A: 6 squared is 36.
+
+Q: Is 149 a prime number?
+A: Yes, 149 is a prime number.
+
+Q: What is the 2th Fibonacci number?
+A: The 2th Fibonacci number is 1.
+
+Q: What is 10% of 100?
+A: 10% of 100 is 10.
+
+Q: Is 36 even or odd?
+A: 36 is even.
+
+Q: What is the square root of 4096?
+A: The square root of 4096 is 64.
+
+Q: Is 59 even or odd?
+A: 59 is odd.
+
+Q: What is 84 squared?
+A: 84 squared is 7056.
+
+Q: Is 173 a prime number?
+A: Yes, 173 is a prime number.
+
+Q: What is 60% of 200?
+A: 60% of 200 is 120.
+
+Q: What is 61*61?
+A: 61*61=3721.
+
+Q: Is 58 even or odd?
+A: 58 is even.
+
+Q: What is the square root of 9?
+A: The square root of 9 is 3.
+
+Q: What is the 14th Fibonacci number?
+A: The 14th Fibonacci number is 233.
+
+Q: Is 14 a prime number?
+A: No, 14 is not a prime number.
+
+Q: Is 82 even or odd?
+A: 82 is even.
+
+Q: What is 15*15?
+A: 15*15=225.
+
+Q: What is 9 cubed?
+A: 9 cubed is 729.
+
+Q: What is 37*37?
+A: 37*37=1369.
+
+Q: What is the square root of 9216?
+A: The square root of 9216 is 96.
+
+Q: Is 18 a prime number?
+A: No, 18 is not a prime number.
+
+Q: What is 44*44?
+A: 44*44=1936.
+
+Q: What is 41 squared?
+A: 41 squared is 1681.
+
+Q: What is 11*11?
+A: 11*11=121.
+
+Q: Is 77 even or odd?
+A: 77 is odd.
+
+Q: What is 10 cubed?
+A: 10 cubed is 1000.
+
+Q: What is 10 to the power of 8?
+A: 10 to the power of 8 is 100000000.
+
+Q: What is 6*6?
+A: 6*6=36.
+
+Q: What is 20% of 1000?
+A: 20% of 1000 is 200.
+
+Q: Is 39 even or odd?
+A: 39 is odd.
+
+Q: What is 23*23?
+A: 23*23=529.
+
+Q: What is 3 factorial?
+A: 3 factorial is 6.
+
+Q: What is 32 squared?
+A: 32 squared is 1024.
+
+Q: What is 85*85?
+A: 85*85=7225.
+
+Q: What is 41*41?
+A: 41*41=1681.
+
+Q: Is 86 even or odd?
+A: 86 is even.
+
+Q: What is 5 squared?
+A: 5 squared is 25.
+
+Q: What is 52 squared?
+A: 52 squared is 2704.
+
+Q: What is 58 squared?
+A: 58 squared is 3364.
+
+Q: Is 23 even or odd?
+A: 23 is odd.
+
+Q: What is 85*85?
+A: 85*85=7225.
+
+Q: Is 92 even or odd?
+A: 92 is even.
+
+Q: What is 94 squared?
+A: 94 squared is 8836.
+
+Q: Is 67 even or odd?
+A: 67 is odd.
+
+Q: What is 97*97?
+A: 97*97=9409.
+
+Q: What is 22 cubed?
+A: 22 cubed is 10648.
+
+Q: What is the square root of 6889?
+A: The square root of 6889 is 83.
+
+Q: What is the square root of 4356?
+A: The square root of 4356 is 66.
+
+Q: Is 191 a prime number?
+A: Yes, 191 is a prime number.
+
+Q: What is the 17th Fibonacci number?
+A: The 17th Fibonacci number is 987.
+
+Q: Is 137 a prime number?
+A: Yes, 137 is a prime number.
+
+Q: What is 4 factorial?
+A: 4 factorial is 24.
+
+Q: What is 34*34?
+A: 34*34=1156.
+
+Q: What is the 15th Fibonacci number?
+A: The 15th Fibonacci number is 377.
+
+Q: What is 41 cubed?
+A: 41 cubed is 68921.
+
+Q: What is 1 cubed?
+A: 1 cubed is 1.
+
+Q: What is 22 squared?
+A: 22 squared is 484.
+
+Q: Is 90 even or odd?
+A: 90 is even.
+
+Q: Is 16 a prime number?
+A: No, 16 is not a prime number.
+
+Q: What is 9!?
+A: 9!=362880.
+
+Q: Is 163 a prime number?
+A: Yes, 163 is a prime number.
+
+Q: Is 64 even or odd?
+A: 64 is even.
+
+Q: Is 139 a prime number?
+A: Yes, 139 is a prime number.
+
+Q: What is the square root of 2401?
+A: The square root of 2401 is 49.
+
+Q: What is 45 squared?
+A: 45 squared is 2025.
+
+Q: What is 22 cubed?
+A: 22 cubed is 10648.
+
+Q: What is 35 squared?
+A: 35 squared is 1225.
+
+Q: What is 40% of 50?
+A: 40% of 50 is 20.
+
+Q: What is the square root of 3844?
+A: The square root of 3844 is 62.
+
+Q: What is 11 cubed?
+A: 11 cubed is 1331.
+
+Q: What is 30% of 500?
+A: 30% of 500 is 150.
+
+Q: Is 87 even or odd?
+A: 87 is odd.
+
+Q: Is 137 a prime number?
+A: Yes, 137 is a prime number.
+
+Q: What is 96*96?
+A: 96*96=9216.
+
+Q: What is 49 squared?
+A: 49 squared is 2401.
+
+Q: What is 79 squared?
+A: 79 squared is 6241.
+
+Q: What is 80% of 50?
+A: 80% of 50 is 40.
+
+Q: What is 7*7?
+A: 7*7=49.
+
+Q: What is the 5th Fibonacci number?
+A: The 5th Fibonacci number is 3.
+
+Q: What is 60 squared?
+A: 60 squared is 3600.
+
+Q: What is 28*28?
+A: 28*28=784.
+
+Q: What is 2 to the power of 11?
+A: 2 to the power of 11 is 2048.
+
+Q: Is 29 even or odd?
+A: 29 is odd.
+
+Q: Is 1 even or odd?
+A: 1 is odd.
+
+Q: What is the square root of 3969?
+A: The square root of 3969 is 63.
+
+Q: What is 91*91?
+A: 91*91=8281.
+
+Q: Is 37 even or odd?
+A: 37 is odd.
+
+Q: What is 97 squared?
+A: 97 squared is 9409.
+
+Q: Is 163 a prime number?
+A: Yes, 163 is a prime number.
+
+Q: What is the square root of 2116?
+A: The square root of 2116 is 46.
+
+Q: What is the square root of 6400?
+A: The square root of 6400 is 80.
+
+Q: What is 2 to the power of 9?
+A: 2 to the power of 9 is 512.
+
+Q: What is 92*92?
+A: 92*92=8464.
+
+Q: Is 89 even or odd?
+A: 89 is odd.
+
+Q: What is 10 to the power of 8?
+A: 10 to the power of 8 is 100000000.
+
+Q: What is 70% of 1000?
+A: 70% of 1000 is 700.
+
+Q: What is 73 squared?
+A: 73 squared is 5329.
+
+Q: What is 77 squared?
+A: 77 squared is 5929.
+
+Q: What is the square root of 2500?
+A: The square root of 2500 is 50.
+
+Q: Is 83 a prime number?
+A: Yes, 83 is a prime number.
+
+Q: Is 34 even or odd?
+A: 34 is even.
+
+Q: What is 24*24?
+A: 24*24=576.
+
+Q: What is the square root of 25?
+A: The square root of 25 is 5.
+
+Q: What is 57*57?
+A: 57*57=3249.
+
+Q: What is the square root of 3364?
+A: The square root of 3364 is 58.
+
+Q: Is 86 even or odd?
+A: 86 is even.
+
+Q: What is the square root of 10000?
+A: The square root of 10000 is 100.
+
+Q: What is 41 squared?
+A: 41 squared is 1681.
+
+Q: What is 80% of 200?
+A: 80% of 200 is 160.
+
+Q: Is 87 even or odd?
+A: 87 is odd.
+
+Q: What is 70% of 1000?
+A: 70% of 1000 is 700.
+
+Q: What is 75% of 100?
+A: 75% of 100 is 75.
+
+Q: What is 66*66?
+A: 66*66=4356.
+
+Q: What is the square root of 9?
+A: The square root of 9 is 3.
+
+Q: What is 75% of 500?
+A: 75% of 500 is 375.
+
+Q: Is 8 a prime number?
+A: No, 8 is not a prime number.
+
+Q: What is the square root of 6400?
+A: The square root of 6400 is 80.
+
+Q: What is 27 squared?
+A: 27 squared is 729.
+
+Q: What is the square root of 1089?
+A: The square root of 1089 is 33.
+
+Q: What is 4!?
+A: 4!=24.
+
+Q: What is 32 cubed?
+A: 32 cubed is 32768.
+
+Q: Is 26 even or odd?
+A: 26 is even.
+
+Q: What is the square root of 7056?
+A: The square root of 7056 is 84.
+
+Q: What is the square root of 7396?
+A: The square root of 7396 is 86.
+
+Q: What is the square root of 289?
+A: The square root of 289 is 17.
+
+Q: What is 21 cubed?
+A: 21 cubed is 9261.
+
+Q: What is the square root of 144?
+A: The square root of 144 is 12.
+
+Q: Is 11 a prime number?
+A: Yes, 11 is a prime number.
+
+Q: Is 13 even or odd?
+A: 13 is odd.
+
+Q: What is 90% of 200?
+A: 90% of 200 is 180.
+
+Q: What is the square root of 16?
+A: The square root of 16 is 4.
+
+Q: What is the square root of 36?
+A: The square root of 36 is 6.
+
+Q: What is the square root of 9604?
+A: The square root of 9604 is 98.
+
+Q: Is 72 even or odd?
+A: 72 is even.
+
+Q: What is 13 squared?
+A: 13 squared is 169.
+
+Q: What is 2 to the power of 19?
+A: 2 to the power of 19 is 524288.
+
+Q: What is 73 squared?
+A: 73 squared is 5329.
+
+Q: What is the square root of 576?
+A: The square root of 576 is 24.
+
+Q: What is the square root of 169?
+A: The square root of 169 is 13.
+
+Q: What is 76*76?
+A: 76*76=5776.
+
+Q: Is 72 even or odd?
+A: 72 is even.
+
+Q: Is 19 even or odd?
+A: 19 is odd.
+
+Q: What is the 17th Fibonacci number?
+A: The 17th Fibonacci number is 987.
+
+Q: What is 50 cubed?
+A: 50 cubed is 125000.
+
+Q: What is 20% of 1000?
+A: 20% of 1000 is 200.
+
+Q: Is 67 a prime number?
+A: Yes, 67 is a prime number.
+
+Q: What is 45*45?
+A: 45*45=2025.
+
+Q: What is 90% of 100?
+A: 90% of 100 is 90.
+
+Q: What is 50% of 50?
+A: 50% of 50 is 25.
+
+Q: What is the square root of 16?
+A: The square root of 16 is 4.
+
+Q: Is 49 even or odd?
+A: 49 is odd.
+
+Q: Is 61 a prime number?
+A: Yes, 61 is a prime number.
+
+Q: What is 2 to the power of 18?
+A: 2 to the power of 18 is 262144.
+
+Q: What is 16 cubed?
+A: 16 cubed is 4096.
+
+Q: What is 2 to the power of 8?
+A: 2 to the power of 8 is 256.
+
+Q: What is 87*87?
+A: 87*87=7569.
+
+Q: What is 45*45?
+A: 45*45=2025.
+
+Q: What is 82*82?
+A: 82*82=6724.
+
+Q: What is the 1th Fibonacci number?
+A: The 1th Fibonacci number is 0.
+
+Q: What is 70% of 500?
+A: 70% of 500 is 350.
+
+Q: What is the square root of 1?
+A: The square root of 1 is 1.
+
+Q: What is the 19th Fibonacci number?
+A: The 19th Fibonacci number is 2584.
+
+Q: What is 98*98?
+A: 98*98=9604.
+
+Q: What is 8 squared?
+A: 8 squared is 64.
+
+Q: What is the square root of 6400?
+A: The square root of 6400 is 80.
+
+Q: Is 193 a prime number?
+A: Yes, 193 is a prime number.
+
+Q: What is 2 squared?
+A: 2 squared is 4.
+
+Q: What is the 20th Fibonacci number?
+A: The 20th Fibonacci number is 4181.
+
+Q: What is 2 to the power of 20?
+A: 2 to the power of 20 is 1048576.
+
+Q: What is 54 squared?
+A: 54 squared is 2916.
+
+Q: Is 69 even or odd?
+A: 69 is odd.
+
+Q: What is the square root of 4096?
+A: The square root of 4096 is 64.
+
+Q: What is 91 squared?
+A: 91 squared is 8281.
+
+Q: What is the square root of 225?
+A: The square root of 225 is 15.
+
+Q: What is 8 factorial?
+A: 8 factorial is 40320.
+
+Q: What is 20% of 50?
+A: 20% of 50 is 10.
+
+Q: What is 7!?
+A: 7!=5040.
+
+Q: What is 10 to the power of 7?
+A: 10 to the power of 7 is 10000000.
+
+Q: What is 2 to the power of 14?
+A: 2 to the power of 14 is 16384.
+
+Q: What is the square root of 2116?
+A: The square root of 2116 is 46.
+
+Q: Is 11 a prime number?
+A: Yes, 11 is a prime number.
+
+Q: What is 99 squared?
+A: 99 squared is 9801.
+
+Q: What is 50% of 200?
+A: 50% of 200 is 100.
+
+Q: What is the square root of 7225?
+A: The square root of 7225 is 85.
+
+Q: What is 10 to the power of 2?
+A: 10 to the power of 2 is 100.
+
+Q: Is 101 a prime number?
+A: Yes, 101 is a prime number.
+
+Q: What is the square root of 2209?
+A: The square root of 2209 is 47.
+
+Q: What is 85 squared?
+A: 85 squared is 7225.
+
+Q: What is 92*92?
+A: 92*92=8464.
+
+Q: Is 61 a prime number?
+A: Yes, 61 is a prime number.
+
+Q: Is 113 a prime number?
+A: Yes, 113 is a prime number.
+
+Q: What is 32 cubed?
+A: 32 cubed is 32768.
+
+Q: What is 12 factorial?
+A: 12 factorial is 479001600.
+
+Q: What is 75*75?
+A: 75*75=5625.
+
+Q: What is 30 cubed?
+A: 30 cubed is 27000.
+
+Q: Is 43 a prime number?
+A: Yes, 43 is a prime number.
+
+Q: Is 107 a prime number?
+A: Yes, 107 is a prime number.
+
+Q: What is 70*70?
+A: 70*70=4900.
+
+Q: What is 35 cubed?
+A: 35 cubed is 42875.
+
+Q: What is the square root of 1225?
+A: The square root of 1225 is 35.
+
+Q: What is 59*59?
+A: 59*59=3481.
+
+Q: Is 19 a prime number?
+A: Yes, 19 is a prime number.
+
+Q: What is 10!?
+A: 10!=3628800.
+
+Q: What is 76*76?
+A: 76*76=5776.
+
+Q: What is 76*76?
+A: 76*76=5776.
+
+Q: What is the square root of 6724?
+A: The square root of 6724 is 82.
+
+Q: What is the square root of 1225?
+A: The square root of 1225 is 35.
+
+Q: What is 9!?
+A: 9!=362880.
+
+Q: Is 67 even or odd?
+A: 67 is odd.
+
+Q: Is 18 even or odd?
+A: 18 is even.
+
+Q: What is 47*47?
+A: 47*47=2209.
+
+Q: Is 61 even or odd?
+A: 61 is odd.
+
+Q: What is 84 squared?
+A: 84 squared is 7056.
+
+Q: Is 60 even or odd?
+A: 60 is even.
+
+Q: Is 149 a prime number?
+A: Yes, 149 is a prime number.
+
+Q: Is 113 a prime number?
+A: Yes, 113 is a prime number.
+
+Q: What is the square root of 256?
+A: The square root of 256 is 16.
+
+Q: What is 19 squared?
+A: 19 squared is 361.
+
+Q: What is 100*100?
+A: 100*100=10000.
+
+Q: What is 45*45?
+A: 45*45=2025.
+
+Q: What is 29*29?
+A: 29*29=841.
+
+Q: What is 41 cubed?
+A: 41 cubed is 68921.
+
+Q: Is 2 even or odd?
+A: 2 is even.
+
+Q: Is 197 a prime number?
+A: Yes, 197 is a prime number.
+
+Q: Is 20 a prime number?
+A: No, 20 is not a prime number.
+
+Q: Is 127 a prime number?
+A: Yes, 127 is a prime number.
+
+Q: What is 45*45?
+A: 45*45=2025.
+
+Q: What is 85 squared?
+A: 85 squared is 7225.
+
+Q: What is 37 squared?
+A: 37 squared is 1369.
+
+Q: What is 70*70?
+A: 70*70=4900.
+
+Q: What is the square root of 729?
+A: The square root of 729 is 27.
+
+Q: What is the 2th Fibonacci number?
+A: The 2th Fibonacci number is 1.
+
+Q: What is the square root of 2025?
+A: The square root of 2025 is 45.
+
+Q: Is 173 a prime number?
+A: Yes, 173 is a prime number.
+
+Q: Is 8 even or odd?
+A: 8 is even.
+
+Q: What is 63*63?
+A: 63*63=3969.
+
+Q: What is the square root of 7569?
+A: The square root of 7569 is 87.
+
+Q: What is 18 cubed?
+A: 18 cubed is 5832.
+
+Q: What is 84*84?
+A: 84*84=7056.
+
+Q: What is 99*99?
+A: 99*99=9801.
+
+Q: What is 47 cubed?
+A: 47 cubed is 103823.
+
+Q: Is 21 even or odd?
+A: 21 is odd.
+
+Q: Is 17 a prime number?
+A: Yes, 17 is a prime number.
+
+Q: Is 76 even or odd?
+A: 76 is even.
+
+Q: Is 77 even or odd?
+A: 77 is odd.
+
+Q: What is 17*17?
+A: 17*17=289.
+
+Q: What is 22*22?
+A: 22*22=484.
+
+Q: What is the square root of 2209?
+A: The square root of 2209 is 47.
+
+Q: What is 18 cubed?
+A: 18 cubed is 5832.
+
+Q: Is 100 even or odd?
+A: 100 is even.
+
+Q: What is 2 to the power of 6?
+A: 2 to the power of 6 is 64.
+
+Q: Is 33 even or odd?
+A: 33 is odd.
+
+Q: What is 27 squared?
+A: 27 squared is 729.
+
+Q: What is the square root of 8836?
+A: The square root of 8836 is 94.
+
+Q: What is 20% of 100?
+A: 20% of 100 is 20.
+
+Q: What is 77*77?
+A: 77*77=5929.
+
+Q: What is 2 to the power of 10?
+A: 2 to the power of 10 is 1024.
+
+Q: What is 100 squared?
+A: 100 squared is 10000.
+
+Q: What is the square root of 2116?
+A: The square root of 2116 is 46.
+
+Q: What is 98 squared?
+A: 98 squared is 9604.
+
+Q: What is the square root of 961?
+A: The square root of 961 is 31.
+
+Q: Is 55 even or odd?
+A: 55 is odd.
+
+Q: What is 96*96?
+A: 96*96=9216.
+
+Q: What is 89*89?
+A: 89*89=7921.
+
+Q: What is 17 cubed?
+A: 17 cubed is 4913.
+
+Q: What is 60% of 500?
+A: 60% of 500 is 300.
+
+Q: What is 20% of 200?
+A: 20% of 200 is 40.
+
+Q: What is 90% of 200?
+A: 90% of 200 is 180.
+
+Q: What is 80% of 100?
+A: 80% of 100 is 80.
+
+Q: What is the square root of 2809?
+A: The square root of 2809 is 53.
+
+Q: What is 40*40?
+A: 40*40=1600.
+
+Q: What is the square root of 4356?
+A: The square root of 4356 is 66.
+
+Q: What is 56 squared?
+A: 56 squared is 3136.
+
+Q: Is 7 a prime number?
+A: Yes, 7 is a prime number.
+
+Q: Is 46 even or odd?
+A: 46 is even.
+
+Q: What is the square root of 5929?
+A: The square root of 5929 is 77.
+
+Q: What is 33 squared?
+A: 33 squared is 1089.
+
+Q: What is 73*73?
+A: 73*73=5329.
+
+Q: Is 33 even or odd?
+A: 33 is odd.
+
+Q: What is 6!?
+A: 6!=720.
+
+Q: Is 71 a prime number?
+A: Yes, 71 is a prime number.
+
+Q: What is 48 squared?
+A: 48 squared is 2304.
+
+Q: What is 49*49?
+A: 49*49=2401.
+
+Q: What is 43*43?
+A: 43*43=1849.
+
+Q: What is 57*57?
+A: 57*57=3249.
+
+Q: What is the square root of 5929?
+A: The square root of 5929 is 77.
+
+Q: What is the 1th Fibonacci number?
+A: The 1th Fibonacci number is 0.
+
+Q: Is 84 even or odd?
+A: 84 is even.
+
+Q: What is 15 cubed?
+A: 15 cubed is 3375.
+
+Q: What is 10 to the power of 4?
+A: 10 to the power of 4 is 10000.
+
+Q: Is 73 a prime number?
+A: Yes, 73 is a prime number.
+
+Q: Is 89 a prime number?
+A: Yes, 89 is a prime number.
+
+Q: Is 96 even or odd?
+A: 96 is even.
+
+Q: What is 1 cubed?
+A: 1 cubed is 1.
+
+Q: What is the square root of 4225?
+A: The square root of 4225 is 65.
+
+Q: What is 25 cubed?
+A: 25 cubed is 15625.
+
+Q: What is 15 cubed?
+A: 15 cubed is 3375.
+
+Q: What is 10 to the power of 1?
+A: 10 to the power of 1 is 10.
+
+Q: What is the square root of 9?
+A: The square root of 9 is 3.
+
+Q: What is 40% of 50?
+A: 40% of 50 is 20.
+
+Q: What is 55*55?
+A: 55*55=3025.
+
+Q: What is 55*55?
+A: 55*55=3025.
+
+Q: What is 89 squared?
+A: 89 squared is 7921.
+
+Q: What is 32 cubed?
+A: 32 cubed is 32768.
+
+Q: What is the square root of 1296?
+A: The square root of 1296 is 36.
+
+Q: What is the square root of 961?
+A: The square root of 961 is 31.
+
+Q: What is 43 squared?
+A: 43 squared is 1849.
+
+Q: Is 37 even or odd?
+A: 37 is odd.
+
+Q: Is 48 even or odd?
+A: 48 is even.
+
+Q: Is 193 a prime number?
+A: Yes, 193 is a prime number.
+
+Q: What is 91*91?
+A: 91*91=8281.
+
+Q: What is 3!?
+A: 3!=6.
+
+Q: What is 10 cubed?
+A: 10 cubed is 1000.
+
+Q: Is 29 even or odd?
+A: 29 is odd.
+
+Q: What is the square root of 784?
+A: The square root of 784 is 28.
+
+Q: What is 44 squared?
+A: 44 squared is 1936.
+
+Q: Is 9 even or odd?
+A: 9 is odd.
+
+Q: Is 12 even or odd?
+A: 12 is even.
+
+Q: Is 91 even or odd?
+A: 91 is odd.
+
+Q: What is 2 to the power of 16?
+A: 2 to the power of 16 is 65536.
+
+Q: What is 94*94?
+A: 94*94=8836.
+
+Q: What is 89*89?
+A: 89*89=7921.
+
+Q: Is 99 even or odd?
+A: 99 is odd.
+
+Q: What is 89 squared?
+A: 89 squared is 7921.
+
+Q: What is 8 factorial?
+A: 8 factorial is 40320.
+
+Q: What is the square root of 9025?
+A: The square root of 9025 is 95.
+
+Q: Is 82 even or odd?
+A: 82 is even.
+
+Q: What is 2 to the power of 10?
+A: 2 to the power of 10 is 1024.
+
+Q: What is the square root of 1681?
+A: The square root of 1681 is 41.
+
+Q: What is the square root of 1600?
+A: The square root of 1600 is 40.
+
+Q: What is the square root of 9?
+A: The square root of 9 is 3.
+
+Q: What is the square root of 4096?
+A: The square root of 4096 is 64.
+
+Q: Is 37 even or odd?
+A: 37 is odd.
+
+Q: What is 32*32?
+A: 32*32=1024.
+
+Q: What is 23 cubed?
+A: 23 cubed is 12167.
+
+Q: What is 100*100?
+A: 100*100=10000.
+
+Q: Is 32 even or odd?
+A: 32 is even.
+
+Q: What is the square root of 225?
+A: The square root of 225 is 15.
+
+Q: What is 3 factorial?
+A: 3 factorial is 6.
+
+Q: What is 10 squared?
+A: 10 squared is 100.
+
+Q: What is 50*50?
+A: 50*50=2500.
+
+Q: What is 90% of 1000?
+A: 90% of 1000 is 900.
+
+Q: What is the square root of 1156?
+A: The square root of 1156 is 34.
+
+Q: What is 44*44?
+A: 44*44=1936.
+
+Q: Is 24 even or odd?
+A: 24 is even.
+
+Q: What is the 12th Fibonacci number?
+A: The 12th Fibonacci number is 89.
+
+Q: What is the square root of 3721?
+A: The square root of 3721 is 61.
+
+Q: What is 25*25?
+A: 25*25=625.
+
+Q: What is 6*6?
+A: 6*6=36.
+
+Q: What is the square root of 5041?
+A: The square root of 5041 is 71.
+
+Q: Is 35 even or odd?
+A: 35 is odd.
+
+Q: What is 86*86?
+A: 86*86=7396.
+
+Q: What is 2 to the power of 5?
+A: 2 to the power of 5 is 32.
+
+Q: What is 79*79?
+A: 79*79=6241.
+
+Q: What is 2 cubed?
+A: 2 cubed is 8.
+
+Q: What is 30 cubed?
+A: 30 cubed is 27000.
+
+Q: What is 3 cubed?
+A: 3 cubed is 27.
+
+Q: Is 36 even or odd?
+A: 36 is even.
+
+Q: What is 56*56?
+A: 56*56=3136.
+
+Q: What is 83*83?
+A: 83*83=6889.
+
+Q: What is 42 squared?
+A: 42 squared is 1764.
+
+Q: What is the square root of 324?
+A: The square root of 324 is 18.
+
+Q: Is 24 even or odd?
+A: 24 is even.
+
+Q: What is the square root of 3600?
+A: The square root of 3600 is 60.
+
+Q: What is the 4th Fibonacci number?
+A: The 4th Fibonacci number is 2.
+
+Q: Is 28 a prime number?
+A: No, 28 is not a prime number.
+
+Q: What is 16 cubed?
+A: 16 cubed is 4096.
+
+Q: What is 7*7?
+A: 7*7=49.
+
+Q: What is the square root of 4?
+A: The square root of 4 is 2.
+
+Q: What is 10 to the power of 3?
+A: 10 to the power of 3 is 1000.
+
+Q: What is the square root of 361?
+A: The square root of 361 is 19.
+
+Q: What is 92 squared?
+A: 92 squared is 8464.
+
+Q: What is the square root of 144?
+A: The square root of 144 is 12.
+
+Q: Is 163 a prime number?
+A: Yes, 163 is a prime number.
+
+Q: What is the 17th Fibonacci number?
+A: The 17th Fibonacci number is 987.
+
+Q: What is 20% of 500?
+A: 20% of 500 is 100.
+
+Q: What is the square root of 1369?
+A: The square root of 1369 is 37.
+
+Q: What is 1!?
+A: 1!=1.
+
+Q: What is 31 squared?
+A: 31 squared is 961.
+
+Q: What is 10 to the power of 2?
+A: 10 to the power of 2 is 100.
+
+Q: What is 40% of 100?
+A: 40% of 100 is 40.
+
+Q: What is 62 squared?
+A: 62 squared is 3844.
+
+Q: What is 4 squared?
+A: 4 squared is 16.
+
+Q: What is 20*20?
+A: 20*20=400.
+
+Q: What is the square root of 6724?
+A: The square root of 6724 is 82.
+
+Q: What is the square root of 361?
+A: The square root of 361 is 19.
+
+Q: Is 1 even or odd?
+A: 1 is odd.
+
+Q: What is 93*93?
+A: 93*93=8649.
+
+Q: What is the square root of 1681?
+A: The square root of 1681 is 41.
+
+Q: Is 167 a prime number?
+A: Yes, 167 is a prime number.
+
+Q: What is 61*61?
+A: 61*61=3721.
+
+Q: What is the square root of 6561?
+A: The square root of 6561 is 81.
+
+Q: Is 8 a prime number?
+A: No, 8 is not a prime number.
+
+Q: What is 26 squared?
+A: 26 squared is 676.
+
+Q: What is 31 cubed?
+A: 31 cubed is 29791.
+
+Q: What is 28 cubed?
+A: 28 cubed is 21952.
+
+Q: What is 38 cubed?
+A: 38 cubed is 54872.
+
+Q: What is 48 squared?
+A: 48 squared is 2304.
+
+Q: What is 19 cubed?
+A: 19 cubed is 6859.
+
+Q: What is the square root of 400?
+A: The square root of 400 is 20.
+
+Q: Is 33 a prime number?
+A: No, 33 is not a prime number.
+
+Q: What is 78 squared?
+A: 78 squared is 6084.
+
+Q: Is 59 a prime number?
+A: Yes, 59 is a prime number.
+
+Q: What is 59 squared?
+A: 59 squared is 3481.
+
+Q: What is 69*69?
+A: 69*69=4761.
+
+Q: What is 90% of 500?
+A: 90% of 500 is 450.
+
+Q: What is 90% of 1000?
+A: 90% of 1000 is 900.
+
+Q: What is 63 squared?
+A: 63 squared is 3969.
+
+Q: What is the 14th Fibonacci number?
+A: The 14th Fibonacci number is 233.
+
+Q: What is 24 squared?
+A: 24 squared is 576.
+
+Q: What is 1!?
+A: 1!=1.
+
+Q: What is 37 squared?
+A: 37 squared is 1369.
+
+Q: Is 19 a prime number?
+A: Yes, 19 is a prime number.
+
+Q: What is 22*22?
+A: 22*22=484.
+
+Q: What is 3!?
+A: 3!=6.
+
+Q: Is 100 even or odd?
+A: 100 is even.
+
+Q: What is 10 to the power of 3?
+A: 10 to the power of 3 is 1000.
+
+Q: What is 55 squared?
+A: 55 squared is 3025.
+
+Q: What is 10% of 1000?
+A: 10% of 1000 is 100.
+
+Q: Is 83 even or odd?
+A: 83 is odd.
+
+Q: What is 48 squared?
+A: 48 squared is 2304.
+
+Q: What is 30% of 200?
+A: 30% of 200 is 60.
+
+Q: What is 43 cubed?
+A: 43 cubed is 79507.
+
+Q: What is 44*44?
+A: 44*44=1936.
+
+Q: What is 90 squared?
+A: 90 squared is 8100.
+
+Q: What is 22*22?
+A: 22*22=484.
+
+Q: What is the square root of 1444?
+A: The square root of 1444 is 38.
+
+Q: What is 2 to the power of 11?
+A: 2 to the power of 11 is 2048.
+
+Q: What is 8*8?
+A: 8*8=64.
+
+Q: What is 2*2?
+A: 2*2=4.
+
+Q: What is 34 cubed?
+A: 34 cubed is 39304.
+
+Q: What is 30 cubed?
+A: 30 cubed is 27000.
+
+Q: What is 57 squared?
+A: 57 squared is 3249.
+
+Q: What is 9!?
+A: 9!=362880.
+
+Q: What is 24*24?
+A: 24*24=576.
+
+Q: Is 109 a prime number?
+A: Yes, 109 is a prime number.
+
+Q: What is 35 squared?
+A: 35 squared is 1225.
+
+Q: What is the square root of 2809?
+A: The square root of 2809 is 53.
+
+Q: What is 43 cubed?
+A: 43 cubed is 79507.
+
+Q: Is 58 even or odd?
+A: 58 is even.
+
+Q: Is 84 even or odd?
+A: 84 is even.
+
+Q: Is 9 even or odd?
+A: 9 is odd.
+
+Q: Is 89 even or odd?
+A: 89 is odd.
+
+Q: What is the square root of 49?
+A: The square root of 49 is 7.
+
+Q: Is 71 even or odd?
+A: 71 is odd.
+
+Q: What is 65 squared?
+A: 65 squared is 4225.
+
+Q: Is 167 a prime number?
+A: Yes, 167 is a prime number.
+
+Q: Is 59 a prime number?
+A: Yes, 59 is a prime number.
+
+Q: What is 52*52?
+A: 52*52=2704.
+
+Q: What is 40% of 500?
+A: 40% of 500 is 200.
+
+Q: What is 47 squared?
+A: 47 squared is 2209.
+
+Q: Is 173 a prime number?
+A: Yes, 173 is a prime number.
+
+Q: What is the square root of 8100?
+A: The square root of 8100 is 90.
+
+Q: Is 65 even or odd?
+A: 65 is odd.
+
+Q: What is 2 factorial?
+A: 2 factorial is 2.
+
+Q: What is 96*96?
+A: 96*96=9216.
+
+Q: What is the square root of 3721?
+A: The square root of 3721 is 61.
+
+Q: What is 63*63?
+A: 63*63=3969.
+
+Q: What is 50% of 1000?
+A: 50% of 1000 is 500.
+
+Q: Is 50 even or odd?
+A: 50 is even.
+
+Q: What is the square root of 6889?
+A: The square root of 6889 is 83.
+
+Q: Is 34 even or odd?
+A: 34 is even.
+
+Q: What is 1 squared?
+A: 1 squared is 1.
+
+Q: What is 21*21?
+A: 21*21=441.
+
+Q: What is 44 cubed?
+A: 44 cubed is 85184.
+
+Q: Is 48 even or odd?
+A: 48 is even.
+
+Q: What is 7 factorial?
+A: 7 factorial is 5040.
+
+Q: Is 37 even or odd?
+A: 37 is odd.
+
+Q: Is 33 even or odd?
+A: 33 is odd.
+
+Q: What is 44 squared?
+A: 44 squared is 1936.
+
+Q: What is 98*98?
+A: 98*98=9604.
+
+Q: Is 78 even or odd?
+A: 78 is even.
+
+Q: What is 45 squared?
+A: 45 squared is 2025.
+
+Q: What is 74 squared?
+A: 74 squared is 5476.
+
+Q: What is 38*38?
+A: 38*38=1444.
+
+Q: What is 19 cubed?
+A: 19 cubed is 6859.
+
+Q: What is 40% of 500?
+A: 40% of 500 is 200.
+
+Q: What is 43*43?
+A: 43*43=1849.
+
+Q: What is 12*12?
+A: 12*12=144.
+
+Q: What is 24 cubed?
+A: 24 cubed is 13824.
+
+Q: What is 20% of 200?
+A: 20% of 200 is 40.
+
+Q: What is 60*60?
+A: 60*60=3600.
+
+Q: Is 27 a prime number?
+A: No, 27 is not a prime number.
+
+Q: What is 43*43?
+A: 43*43=1849.
+
+Q: What is the square root of 4489?
+A: The square root of 4489 is 67.
+
+Q: What is 5 cubed?
+A: 5 cubed is 125.
+
+Q: Is 35 a prime number?
+A: No, 35 is not a prime number.
+
+Q: Is 23 a prime number?
+A: Yes, 23 is a prime number.
+
+Q: What is 2 to the power of 9?
+A: 2 to the power of 9 is 512.
+
+Q: What is the square root of 121?
+A: The square root of 121 is 11.
+
+Q: Is 2 a prime number?
+A: Yes, 2 is a prime number.
+
+Q: What is 88*88?
+A: 88*88=7744.
+
+Q: What is 90% of 100?
+A: 90% of 100 is 90.
+
+Q: What is the square root of 361?
+A: The square root of 361 is 19.
+
+Q: Is 61 even or odd?
+A: 61 is odd.
+
+Q: Is 91 even or odd?
+A: 91 is odd.
+
+Q: What is the 10th Fibonacci number?
+A: The 10th Fibonacci number is 34.
+
+Q: What is 59*59?
+A: 59*59=3481.
+
+Q: Is 82 even or odd?
+A: 82 is even.
+
+Q: What is the square root of 1024?
+A: The square root of 1024 is 32.
+
+Q: What is 39*39?
+A: 39*39=1521.
+
+Q: What is 43 squared?
+A: 43 squared is 1849.
+
+Q: Is 179 a prime number?
+A: Yes, 179 is a prime number.
+
+Q: What is 30 squared?
+A: 30 squared is 900.
+
+Q: What is 38 squared?
+A: 38 squared is 1444.
+
+Q: What is 10 to the power of 9?
+A: 10 to the power of 9 is 1000000000.
+
+Q: What is 80 squared?
+A: 80 squared is 6400.
+
+Q: What is 91*91?
+A: 91*91=8281.
+
+Q: Is 76 even or odd?
+A: 76 is even.
+
+Q: What is 76*76?
+A: 76*76=5776.
+
+Q: What is 22*22?
+A: 22*22=484.
+
+Q: Is 10 even or odd?
+A: 10 is even.
+
+Q: What is 80% of 1000?
+A: 80% of 1000 is 800.
+
+Q: What is 75% of 200?
+A: 75% of 200 is 150.
+
+Q: Is 63 even or odd?
+A: 63 is odd.
+
+Q: What is 25*25?
+A: 25*25=625.
+
+Q: Is 37 a prime number?
+A: Yes, 37 is a prime number.
+
+Q: What is 71*71?
+A: 71*71=5041.
+
+Q: What is the 15th Fibonacci number?
+A: The 15th Fibonacci number is 377.
+
+Q: What is 17*17?
+A: 17*17=289.
+
+Q: What is 21 cubed?
+A: 21 cubed is 9261.
+
+Q: Is 24 even or odd?
+A: 24 is even.
+
+Q: What is the square root of 9216?
+A: The square root of 9216 is 96.
+
+Q: What is 79 squared?
+A: 79 squared is 6241.
+
+Q: Is 36 a prime number?
+A: No, 36 is not a prime number.
+
+Q: What is the square root of 9216?
+A: The square root of 9216 is 96.
+
+Q: Is 127 a prime number?
+A: Yes, 127 is a prime number.
+
+Q: Is 78 even or odd?
+A: 78 is even.
+
+Q: What is 49 squared?
+A: 49 squared is 2401.
+
+Q: Is 7 even or odd?
+A: 7 is odd.
+
+Q: Is 127 a prime number?
+A: Yes, 127 is a prime number.
+
+Q: Is 53 a prime number?
+A: Yes, 53 is a prime number.
+
+Q: Is 2 a prime number?
+A: Yes, 2 is a prime number.
+
+Q: What is the square root of 8281?
+A: The square root of 8281 is 91.
+
+Q: What is 96 squared?
+A: 96 squared is 9216.
+
+Q: Is 20 a prime number?
+A: No, 20 is not a prime number.
+
+Q: What is 14 cubed?
+A: 14 cubed is 2744.
+
+Q: What is 19 cubed?
+A: 19 cubed is 6859.
+
+Q: What is 37 squared?
+A: 37 squared is 1369.
+
+Q: What is 9 cubed?
+A: 9 cubed is 729.
+
+Q: What is 20 cubed?
+A: 20 cubed is 8000.
+
+Q: What is 10 to the power of 1?
+A: 10 to the power of 1 is 10.
+
+Q: What is 10 to the power of 6?
+A: 10 to the power of 6 is 1000000.
+
+Q: What is the square root of 2209?
+A: The square root of 2209 is 47.
+
+Q: What is 1 cubed?
+A: 1 cubed is 1.
+
+Q: What is 2 to the power of 1?
+A: 2 to the power of 1 is 2.
+
+Q: What is 10% of 500?
+A: 10% of 500 is 50.
+
+Q: Is 57 even or odd?
+A: 57 is odd.
+
+Q: What is 13 squared?
+A: 13 squared is 169.
+
+Q: What is 80*80?
+A: 80*80=6400.
+
+Q: What is the square root of 10000?
+A: The square root of 10000 is 100.
+
+Q: What is 80% of 200?
+A: 80% of 200 is 160.
+
+Q: What is the square root of 841?
+A: The square root of 841 is 29.
+
+Q: What is 39*39?
+A: 39*39=1521.
+
+Q: What is 47*47?
+A: 47*47=2209.
+
+Q: What is the square root of 3136?
+A: The square root of 3136 is 56.
+
+Q: Is 137 a prime number?
+A: Yes, 137 is a prime number.
+
+Q: What is 80% of 500?
+A: 80% of 500 is 400.
+
+Q: What is the square root of 3844?
+A: The square root of 3844 is 62.
+
+Q: What is 31 cubed?
+A: 31 cubed is 29791.
+
+Q: What is 72 squared?
+A: 72 squared is 5184.
+
+Q: What is 29*29?
+A: 29*29=841.
+
+Q: What is 2 to the power of 3?
+A: 2 to the power of 3 is 8.
+
+Q: What is 30% of 100?
+A: 30% of 100 is 30.
+
+Q: What is the 21th Fibonacci number?
+A: The 21th Fibonacci number is 6765.
+
+Q: What is 2 to the power of 15?
+A: 2 to the power of 15 is 32768.
+
+Q: What is 86 squared?
+A: 86 squared is 7396.
+
+Q: What is 34 squared?
+A: 34 squared is 1156.
+
+Q: What is 62*62?
+A: 62*62=3844.
+
+Q: Is 59 even or odd?
+A: 59 is odd.
+
+Q: What is 42*42?
+A: 42*42=1764.
+
+Q: What is 48 squared?
+A: 48 squared is 2304.
+
+Q: Is 30 even or odd?
+A: 30 is even.
+
+Q: What is the square root of 1369?
+A: The square root of 1369 is 37.
+
+Q: What is 2 to the power of 19?
+A: 2 to the power of 19 is 524288.
+
+Q: What is 68*68?
+A: 68*68=4624.
+
+Q: What is 69 squared?
+A: 69 squared is 4761.
+
+Q: What is 4 cubed?
+A: 4 cubed is 64.
+
+Q: What is 22 cubed?
+A: 22 cubed is 10648.
+
+Q: What is 4 squared?
+A: 4 squared is 16.
+
+Q: What is 99 squared?
+A: 99 squared is 9801.
+
+Q: What is 8 factorial?
+A: 8 factorial is 40320.
+
+Q: Is 3 a prime number?
+A: Yes, 3 is a prime number.
+
+Q: What is 2!?
+A: 2!=2.
+
+Q: What is 28*28?
+A: 28*28=784.
+
+Q: What is 8!?
+A: 8!=40320.
+
+Q: Is 78 even or odd?
+A: 78 is even.
+
+Q: What is 27 cubed?
+A: 27 cubed is 19683.
+
+Q: What is 62*62?
+A: 62*62=3844.
+
+Q: What is 31 squared?
+A: 31 squared is 961.
+
+Q: What is 26 squared?
+A: 26 squared is 676.
+
+Q: Is 107 a prime number?
+A: Yes, 107 is a prime number.
+
+Q: What is 60% of 200?
+A: 60% of 200 is 120.
+
+Q: What is 80*80?
+A: 80*80=6400.
+
+Q: What is 40 squared?
+A: 40 squared is 1600.
+
+Q: What is 9!?
+A: 9!=362880.
+
+Q: Is 131 a prime number?
+A: Yes, 131 is a prime number.
+
+Q: What is 12*12?
+A: 12*12=144.
+
+Q: What is 12!?
+A: 12!=479001600.
+
+Q: What is 50% of 500?
+A: 50% of 500 is 250.
+
+Q: What is the square root of 5476?
+A: The square root of 5476 is 74.
+
+Q: What is the 2th Fibonacci number?
+A: The 2th Fibonacci number is 1.
+
+Q: Is 79 even or odd?
+A: 79 is odd.
+
+Q: What is 70% of 1000?
+A: 70% of 1000 is 700.
+
+Q: What is 40 cubed?
+A: 40 cubed is 64000.
+
+Q: What is 5 factorial?
+A: 5 factorial is 120.
+
+Q: Is 81 even or odd?
+A: 81 is odd.
+
+Q: What is 19*19?
+A: 19*19=361.
+
+Q: Is 27 even or odd?
+A: 27 is odd.
+
+Q: What is the square root of 484?
+A: The square root of 484 is 22.
+
+Q: Is 36 a prime number?
+A: No, 36 is not a prime number.
+
+Q: Is 19 even or odd?
+A: 19 is odd.
+
+Q: What is 70% of 200?
+A: 70% of 200 is 140.
+
+Q: Is 24 a prime number?
+A: No, 24 is not a prime number.
+
+Q: Is 43 a prime number?
+A: Yes, 43 is a prime number.
+
+Q: Is 41 even or odd?
+A: 41 is odd.
+
+Q: What is the square root of 2025?
+A: The square root of 2025 is 45.
+
+Q: What is 66 squared?
+A: 66 squared is 4356.
+
+Q: Is 95 even or odd?
+A: 95 is odd.
+
+Q: What is the square root of 6724?
+A: The square root of 6724 is 82.
+
+Q: What is 68*68?
+A: 68*68=4624.
+
+Q: What is the 18th Fibonacci number?
+A: The 18th Fibonacci number is 1597.
+
+Q: What is 45 cubed?
+A: 45 cubed is 91125.
+
+Q: What is the square root of 1849?
+A: The square root of 1849 is 43.
+
+Q: What is the square root of 5184?
+A: The square root of 5184 is 72.
+
+Q: What is 50% of 1000?
+A: 50% of 1000 is 500.
+
+Q: What is 49*49?
+A: 49*49=2401.
+
+Q: What is the 14th Fibonacci number?
+A: The 14th Fibonacci number is 233.
+
+Q: What is the square root of 2809?
+A: The square root of 2809 is 53.
+
+Q: What is the 7th Fibonacci number?
+A: The 7th Fibonacci number is 8.
+
+Q: What is the 1th Fibonacci number?
+A: The 1th Fibonacci number is 0.
+
+Q: Is 77 even or odd?
+A: 77 is odd.
+
+Q: What is 13 cubed?
+A: 13 cubed is 2197.
+
+Q: Is 63 even or odd?
+A: 63 is odd.
+
+Q: What is the square root of 3721?
+A: The square root of 3721 is 61.
+
+Q: What is 15*15?
+A: 15*15=225.
+
+Q: Is 113 a prime number?
+A: Yes, 113 is a prime number.
+
+Q: What is the square root of 576?
+A: The square root of 576 is 24.
+
+Q: What is 94 squared?
+A: 94 squared is 8836.
+
+Q: Is 4 a prime number?
+A: No, 4 is not a prime number.
+
+Q: What is 2 to the power of 7?
+A: 2 to the power of 7 is 128.
+
+Q: Is 88 even or odd?
+A: 88 is even.
+
+Q: What is the 4th Fibonacci number?
+A: The 4th Fibonacci number is 2.
+
+Q: What is 60% of 100?
+A: 60% of 100 is 60.
+
+Q: What is 45 cubed?
+A: 45 cubed is 91125.
+
+Q: Is 15 even or odd?
+A: 15 is odd.
+
+Q: Is 35 a prime number?
+A: No, 35 is not a prime number.
+
+Q: What is 8 cubed?
+A: 8 cubed is 512.
+
+Q: What is 2 to the power of 1?
+A: 2 to the power of 1 is 2.
+
+Q: What is 37*37?
+A: 37*37=1369.
+
+Q: What is 82 squared?
+A: 82 squared is 6724.
+
+Q: What is the square root of 9216?
+A: The square root of 9216 is 96.
+
+Q: What is 12 cubed?
+A: 12 cubed is 1728.
+
+Q: What is the square root of 1369?
+A: The square root of 1369 is 37.
+
+Q: Is 63 even or odd?
+A: 63 is odd.
+
+Q: What is 20% of 50?
+A: 20% of 50 is 10.
+
+Q: Is 73 a prime number?
+A: Yes, 73 is a prime number.
+
+Q: What is 75% of 100?
+A: 75% of 100 is 75.
+
+Q: What is 12*12?
+A: 12*12=144.
+
+Q: Is 55 even or odd?
+A: 55 is odd.
+
+Q: What is 93 squared?
+A: 93 squared is 8649.
+
+Q: What is the 6th Fibonacci number?
+A: The 6th Fibonacci number is 5.
+
+Q: What is 10 to the power of 10?
+A: 10 to the power of 10 is 10000000000.
+
+Q: What is 20 cubed?
+A: 20 cubed is 8000.
+
+Q: What is 6 factorial?
+A: 6 factorial is 720.
+
+Q: Is 6 even or odd?
+A: 6 is even.
+
+Q: Is 47 even or odd?
+A: 47 is odd.
+
+Q: Is 96 even or odd?
+A: 96 is even.
+
+Q: What is 1*1?
+A: 1*1=1.
+
+Q: Is 11 even or odd?
+A: 11 is odd.
+
+Q: Is 3 even or odd?
+A: 3 is odd.
+
+Q: Is 6 a prime number?
+A: No, 6 is not a prime number.
+
+Q: What is 91 squared?
+A: 91 squared is 8281.
+
+Q: Is 4 even or odd?
+A: 4 is even.
+
+Q: What is 9 cubed?
+A: 9 cubed is 729.
+
+Q: What is 10% of 100?
+A: 10% of 100 is 10.
+
+Q: What is 75 squared?
+A: 75 squared is 5625.
+
+Q: Is 5 even or odd?
+A: 5 is odd.
+
+Q: Is 24 a prime number?
+A: No, 24 is not a prime number.
+
+Q: What is 62*62?
+A: 62*62=3844.
+
+Q: What is 50*50?
+A: 50*50=2500.
+
+Q: What is 74 squared?
+A: 74 squared is 5476.
+
+Q: What is 70% of 200?
+A: 70% of 200 is 140.
+
+Q: What is 14*14?
+A: 14*14=196.
+
+Q: What is 41 squared?
+A: 41 squared is 1681.
+
+Q: What is 82 squared?
+A: 82 squared is 6724.
+
+Q: Is 127 a prime number?
+A: Yes, 127 is a prime number.
+
+Q: What is 95*95?
+A: 95*95=9025.
+
+Q: Is 9 even or odd?
+A: 9 is odd.
+
+Q: What is the square root of 256?
+A: The square root of 256 is 16.
+
+Q: What is 90*90?
+A: 90*90=8100.
+
+Q: What is 30% of 500?
+A: 30% of 500 is 150.
+
+Q: What is 42*42?
+A: 42*42=1764.
+
+Q: Is 43 a prime number?
+A: Yes, 43 is a prime number.
+
+Q: What is 10 to the power of 10?
+A: 10 to the power of 10 is 10000000000.
+
+Q: What is 15 cubed?
+A: 15 cubed is 3375.
+
+Q: What is 79*79?
+A: 79*79=6241.
+
+Q: What is 10 squared?
+A: 10 squared is 100.
+
+Q: What is 11 factorial?
+A: 11 factorial is 39916800.
+
+Q: What is 56*56?
+A: 56*56=3136.
+
+Q: What is the 16th Fibonacci number?
+A: The 16th Fibonacci number is 610.
+
+Q: What is 21 squared?
+A: 21 squared is 441.
+
+Q: What is the square root of 2304?
+A: The square root of 2304 is 48.
+
+Q: What is 4 factorial?
+A: 4 factorial is 24.
+
+Q: What is the square root of 6561?
+A: The square root of 6561 is 81.
+
+Q: What is 71*71?
+A: 71*71=5041.
+
+Q: What is 99*99?
+A: 99*99=9801.
+
+Q: What is the square root of 2116?
+A: The square root of 2116 is 46.
+
+Q: What is 29 squared?
+A: 29 squared is 841.
+
+Q: Is 100 even or odd?
+A: 100 is even.
+
+Q: Is 24 a prime number?
+A: No, 24 is not a prime number.
+
+Q: Is 68 even or odd?
+A: 68 is even.
+
+Q: What is 10!?
+A: 10!=3628800.
+
+Q: What is 2 to the power of 4?
+A: 2 to the power of 4 is 16.
+
+Q: What is 15 squared?
+A: 15 squared is 225.
+
+Q: What is the 5th Fibonacci number?
+A: The 5th Fibonacci number is 3.
+
+Q: What is the square root of 1521?
+A: The square root of 1521 is 39.
+
+Q: What is 39 cubed?
+A: 39 cubed is 59319.
+
+Q: What is 90% of 500?
+A: 90% of 500 is 450.
+
+Q: What is the square root of 4624?
+A: The square root of 4624 is 68.
+
+Q: What is 82*82?
+A: 82*82=6724.
+
+Q: What is 2 to the power of 9?
+A: 2 to the power of 9 is 512.
+
+Q: What is 87*87?
+A: 87*87=7569.
+
+Q: What is 23 squared?
+A: 23 squared is 529.
+
+Q: What is 2 to the power of 2?
+A: 2 to the power of 2 is 4.
+
+Q: Is 10 a prime number?
+A: No, 10 is not a prime number.
+
+Q: What is 18 squared?
+A: 18 squared is 324.
+
+Q: What is 47 cubed?
+A: 47 cubed is 103823.
+
+Q: What is 24 cubed?
+A: 24 cubed is 13824.
+
+Q: Is 53 even or odd?
+A: 53 is odd.
+
+Q: What is 71 squared?
+A: 71 squared is 5041.
+
+Q: Is 59 a prime number?
+A: Yes, 59 is a prime number.
+
+Q: Is 41 a prime number?
+A: Yes, 41 is a prime number.
+
+Q: What is 63 squared?
+A: 63 squared is 3969.
+
+Q: Is 13 even or odd?
+A: 13 is odd.
+
+Q: What is the square root of 3364?
+A: The square root of 3364 is 58.
+
+Q: What is 75*75?
+A: 75*75=5625.
+
+Q: Is 109 a prime number?
+A: Yes, 109 is a prime number.
+
+Q: What is the square root of 1225?
+A: The square root of 1225 is 35.
+
+Q: What is 25 cubed?
+A: 25 cubed is 15625.
+
+Q: What is the square root of 1521?
+A: The square root of 1521 is 39.
+
+Q: What is the square root of 576?
+A: The square root of 576 is 24.
+
+Q: What is 36 squared?
+A: 36 squared is 1296.
+
+Q: What is 89*89?
+A: 89*89=7921.
+
+Q: Is 163 a prime number?
+A: Yes, 163 is a prime number.
+
+Q: What is 66*66?
+A: 66*66=4356.
+
+Q: What is 51 squared?
+A: 51 squared is 2601.
+
+Q: What is the square root of 5776?
+A: The square root of 5776 is 76.
+
+Q: What is the square root of 100?
+A: The square root of 100 is 10.
+
+Q: What is 26 cubed?
+A: 26 cubed is 17576.
+
+Q: Is 54 even or odd?
+A: 54 is even.
+
+Q: Is 57 even or odd?
+A: 57 is odd.
+
+Q: What is 10 to the power of 9?
+A: 10 to the power of 9 is 1000000000.
+
+Q: What is 40% of 200?
+A: 40% of 200 is 80.
+
+Q: Is 80 even or odd?
+A: 80 is even.
+
+Q: What is 44 cubed?
+A: 44 cubed is 85184.
+
+Q: What is 75% of 100?
+A: 75% of 100 is 75.
+
+Q: Is 28 a prime number?
+A: No, 28 is not a prime number.
+
+Q: Is 60 even or odd?
+A: 60 is even.
+
+Q: What is 64 squared?
+A: 64 squared is 4096.
+
+Q: What is 2 to the power of 3?
+A: 2 to the power of 3 is 8.
+
+Q: What is the square root of 7921?
+A: The square root of 7921 is 89.
+
+Q: What is the square root of 121?
+A: The square root of 121 is 11.
+
+Q: What is 10 to the power of 7?
+A: 10 to the power of 7 is 10000000.
+
+Q: Is 15 a prime number?
+A: No, 15 is not a prime number.
+
+Q: What is 14 cubed?
+A: 14 cubed is 2744.
+
+Q: What is the square root of 529?
+A: The square root of 529 is 23.
+
+Q: What is 6 factorial?
+A: 6 factorial is 720.
+
+Q: What is 40 squared?
+A: 40 squared is 1600.
+
+Q: What is the square root of 324?
+A: The square root of 324 is 18.
+
+Q: What is 6 factorial?
+A: 6 factorial is 720.
+
+Q: Is 37 a prime number?
+A: Yes, 37 is a prime number.
+
+Q: What is 2 to the power of 4?
+A: 2 to the power of 4 is 16.
+
+Q: What is 47 cubed?
+A: 47 cubed is 103823.
+
+Q: What is 97*97?
+A: 97*97=9409.
+
+Q: What is the square root of 1024?
+A: The square root of 1024 is 32.
+
+Q: What is the square root of 8464?
+A: The square root of 8464 is 92.
+
+Q: What is 10% of 200?
+A: 10% of 200 is 20.
+
+Q: Is 191 a prime number?
+A: Yes, 191 is a prime number.
+
+Q: What is 11!?
+A: 11!=39916800.
+
+Q: What is 2 to the power of 13?
+A: 2 to the power of 13 is 8192.
+
+Q: What is 55*55?
+A: 55*55=3025.
+
+Q: What is the square root of 5041?
+A: The square root of 5041 is 71.
+
+Q: Is 47 a prime number?
+A: Yes, 47 is a prime number.
+
+Q: What is 2 to the power of 14?
+A: 2 to the power of 14 is 16384.
+
+Q: What is the square root of 5184?
+A: The square root of 5184 is 72.
+
+Q: Is 13 even or odd?
+A: 13 is odd.
+
+Q: Is 101 a prime number?
+A: Yes, 101 is a prime number.
+
+Q: What is 6 factorial?
+A: 6 factorial is 720.
+
+Q: What is 65 squared?
+A: 65 squared is 4225.
+
+Q: What is 18*18?
+A: 18*18=324.
+
+Q: What is the square root of 256?
+A: The square root of 256 is 16.
+
+Q: Is 85 even or odd?
+A: 85 is odd.
+
+Q: What is the square root of 324?
+A: The square root of 324 is 18.
+
+Q: What is 70% of 1000?
+A: 70% of 1000 is 700.
+
+Q: What is 4 cubed?
+A: 4 cubed is 64.
+
+Q: What is 31 squared?
+A: 31 squared is 961.
+
+Q: Is 67 a prime number?
+A: Yes, 67 is a prime number.
+
+Q: What is 67 squared?
+A: 67 squared is 4489.
+
+Q: Is 40 even or odd?
+A: 40 is even.
+
+Q: What is the square root of 6724?
+A: The square root of 6724 is 82.
+
+Q: Is 23 even or odd?
+A: 23 is odd.
+
+Q: What is the square root of 2601?
+A: The square root of 2601 is 51.
+
+Q: Is 7 a prime number?
+A: Yes, 7 is a prime number.
+
+Q: Is 8 a prime number?
+A: No, 8 is not a prime number.
+
+Q: Is 181 a prime number?
+A: Yes, 181 is a prime number.
+
+Q: Is 15 a prime number?
+A: No, 15 is not a prime number.
+
+Q: What is 15*15?
+A: 15*15=225.
+
+Q: What is 95 squared?
+A: 95 squared is 9025.
+
+Q: What is 27 squared?
+A: 27 squared is 729.
+
+Q: Is 107 a prime number?
+A: Yes, 107 is a prime number.
+
+Q: What is 70% of 500?
+A: 70% of 500 is 350.
+
+Q: What is 3 squared?
+A: 3 squared is 9.
+
+Q: Is 5 a prime number?
+A: Yes, 5 is a prime number.
+
+Q: What is 69*69?
+A: 69*69=4761.
+
+Q: Is 40 even or odd?
+A: 40 is even.
+
+Q: What is 64 squared?
+A: 64 squared is 4096.
+
+Q: What is 10 to the power of 6?
+A: 10 to the power of 6 is 1000000.
+
+Q: What is 14 cubed?
+A: 14 cubed is 2744.
+
+Q: What is the square root of 64?
+A: The square root of 64 is 8.
+
+Q: What is the square root of 8464?
+A: The square root of 8464 is 92.
+
+Q: What is the square root of 100?
+A: The square root of 100 is 10.
+
+Q: What is 4 factorial?
+A: 4 factorial is 24.
+
+Q: What is 19*19?
+A: 19*19=361.
+
+Q: What is 60% of 50?
+A: 60% of 50 is 30.
+
+Q: Is 23 even or odd?
+A: 23 is odd.
+
+Q: What is 90 squared?
+A: 90 squared is 8100.
+
+Q: Is 49 even or odd?
+A: 49 is odd.
+
+Q: Is 81 even or odd?
+A: 81 is odd.
+
+Q: What is 10% of 50?
+A: 10% of 50 is 5.
+
+Q: What is 39 squared?
+A: 39 squared is 1521.
+
+Q: What is 1 cubed?
+A: 1 cubed is 1.
+
+Q: What is 20% of 1000?
+A: 20% of 1000 is 200.
+
+Q: What is the square root of 3136?
+A: The square root of 3136 is 56.
+
+Q: Is 89 even or odd?
+A: 89 is odd.
+
+Q: What is the square root of 6889?
+A: The square root of 6889 is 83.
+
+Q: Is 9 even or odd?
+A: 9 is odd.
+
+Q: What is the square root of 5329?
+A: The square root of 5329 is 73.
+
+Q: What is the square root of 9409?
+A: The square root of 9409 is 97.
+
+Q: Is 11 even or odd?
+A: 11 is odd.
+
+Q: What is 74*74?
+A: 74*74=5476.
+
+Q: Is 7 even or odd?
+A: 7 is odd.
+
+Q: What is 17 cubed?
+A: 17 cubed is 4913.
+
+Q: What is 50% of 100?
+A: 50% of 100 is 50.
+
+Q: What is 100 squared?
+A: 100 squared is 10000.
+
+Q: Is 30 a prime number?
+A: No, 30 is not a prime number.
+
+Q: What is the square root of 5929?
+A: The square root of 5929 is 77.
+
+Q: Is 24 even or odd?
+A: 24 is even.
+
+Q: What is the square root of 625?
+A: The square root of 625 is 25.
+
+Q: Is 15 even or odd?
+A: 15 is odd.
+
+Q: What is 50% of 1000?
+A: 50% of 1000 is 500.
+
+Q: What is 61 squared?
+A: 61 squared is 3721.
+
+Q: What is 88*88?
+A: 88*88=7744.
+
+Q: Is 21 a prime number?
+A: No, 21 is not a prime number.
+
+Q: What is 14 cubed?
+A: 14 cubed is 2744.
+
+Q: Is 78 even or odd?
+A: 78 is even.
+
+Q: What is 75% of 500?
+A: 75% of 500 is 375.
+
+Q: What is 19 squared?
+A: 19 squared is 361.
+
+Q: What is 1!?
+A: 1!=1.
+
+Q: What is 80*80?
+A: 80*80=6400.
+
+Q: What is 50 squared?
+A: 50 squared is 2500.
+
+Q: What is 75% of 1000?
+A: 75% of 1000 is 750.
+
+Q: What is 22 cubed?
+A: 22 cubed is 10648.
+
+Q: Is 97 a prime number?
+A: Yes, 97 is a prime number.
+
+Q: What is 9*9?
+A: 9*9=81.
+
+Q: What is 19 squared?
+A: 19 squared is 361.
+
+Q: Is 21 even or odd?
+A: 21 is odd.
+
+Q: What is 29 cubed?
+A: 29 cubed is 24389.
+
+Q: Is 51 even or odd?
+A: 51 is odd.
+
+Q: Is 51 even or odd?
+A: 51 is odd.
+
+Q: What is 55 squared?
+A: 55 squared is 3025.
+
+Q: What is the square root of 7225?
+A: The square root of 7225 is 85.
+
+Q: What is the square root of 4225?
+A: The square root of 4225 is 65.
+
+Q: What is 13*13?
+A: 13*13=169.
+
+Q: What is 3 squared?
+A: 3 squared is 9.
+
+Q: What is 38 cubed?
+A: 38 cubed is 54872.
+
+Q: Is 74 even or odd?
+A: 74 is even.
+
+Q: What is 41*41?
+A: 41*41=1681.
+
+Q: What is the square root of 81?
+A: The square root of 81 is 9.
+
+Q: What is 26*26?
+A: 26*26=676.
+
+Q: What is 12 cubed?
+A: 12 cubed is 1728.
+
+Q: Is 173 a prime number?
+A: Yes, 173 is a prime number.
+
+Q: Is 149 a prime number?
+A: Yes, 149 is a prime number.
+
+Q: What is 2 to the power of 7?
+A: 2 to the power of 7 is 128.
+
+Q: What is 80 squared?
+A: 80 squared is 6400.
+
+Q: What is 40% of 500?
+A: 40% of 500 is 200.
+
+Q: What is 30% of 200?
+A: 30% of 200 is 60.
+
+Q: What is the square root of 9025?
+A: The square root of 9025 is 95.
+
+Q: What is 89 squared?
+A: 89 squared is 7921.
+
+Q: What is the square root of 2209?
+A: The square root of 2209 is 47.
+
+Q: Is 113 a prime number?
+A: Yes, 113 is a prime number.
+
+Q: What is 25% of 1000?
+A: 25% of 1000 is 250.
+
+Q: What is the 9th Fibonacci number?
+A: The 9th Fibonacci number is 21.
+
+Q: What is 23 squared?
+A: 23 squared is 529.
+
+Q: What is 42*42?
+A: 42*42=1764.
+
+Q: What is 10% of 50?
+A: 10% of 50 is 5.
+
+Q: What is the square root of 3249?
+A: The square root of 3249 is 57.
+
+Q: What is the square root of 225?
+A: The square root of 225 is 15.
+
+Q: What is 87*87?
+A: 87*87=7569.
+
+Q: What is the square root of 1849?
+A: The square root of 1849 is 43.
+
+Q: What is 70% of 100?
+A: 70% of 100 is 70.
+
+Q: What is 49 squared?
+A: 49 squared is 2401.
+
+Q: Is 2 even or odd?
+A: 2 is even.
+
+Q: Is 73 even or odd?
+A: 73 is odd.
+
+Q: What is 3 squared?
+A: 3 squared is 9.
+
+Q: What is 9 factorial?
+A: 9 factorial is 362880.
+
+Q: What is the square root of 729?
+A: The square root of 729 is 27.
+
+Q: What is the square root of 7056?
+A: The square root of 7056 is 84.
+
+Q: Is 41 a prime number?
+A: Yes, 41 is a prime number.
+
+Q: What is 69 squared?
+A: 69 squared is 4761.
+
+Q: What is 33 squared?
+A: 33 squared is 1089.
+
+Q: What is 10!?
+A: 10!=3628800.
+
+Q: What is 10 to the power of 1?
+A: 10 to the power of 1 is 10.
+
+Q: What is 1*1?
+A: 1*1=1.
+
+Q: What is the square root of 841?
+A: The square root of 841 is 29.
+
+Q: What is 10 to the power of 4?
+A: 10 to the power of 4 is 10000.
+
+Q: What is 70 squared?
+A: 70 squared is 4900.
+
+Q: Is 52 even or odd?
+A: 52 is even.
+
+Q: Is 11 a prime number?
+A: Yes, 11 is a prime number.
+
+Q: What is the square root of 3600?
+A: The square root of 3600 is 60.
+
+Q: What is the square root of 2704?
+A: The square root of 2704 is 52.
+
+Q: What is 60% of 200?
+A: 60% of 200 is 120.
+
+Q: What is the square root of 5776?
+A: The square root of 5776 is 76.
+
+Q: What is 98*98?
+A: 98*98=9604.
+
+Q: What is 50 cubed?
+A: 50 cubed is 125000.
+
+Q: What is 22 cubed?
+A: 22 cubed is 10648.
+
+Q: What is 50*50?
+A: 50*50=2500.
+
+Q: What is 31*31?
+A: 31*31=961.
+
+Q: What is 8 cubed?
+A: 8 cubed is 512.
+
+Q: What is the square root of 441?
+A: The square root of 441 is 21.
+
+Q: Is 48 even or odd?
+A: 48 is even.
+
+Q: Is 8 even or odd?
+A: 8 is even.
+
+Q: What is 70% of 100?
+A: 70% of 100 is 70.
+
+Q: Is 41 a prime number?
+A: Yes, 41 is a prime number.
+
+Q: Is 16 a prime number?
+A: No, 16 is not a prime number.
+
+Q: What is the square root of 9409?
+A: The square root of 9409 is 97.
+
+Q: What is 10% of 500?
+A: 10% of 500 is 50.
+
+Q: Is 14 a prime number?
+A: No, 14 is not a prime number.
+
+Q: What is 18 squared?
+A: 18 squared is 324.
+
+Q: Is 149 a prime number?
+A: Yes, 149 is a prime number.
+
+Q: Is 48 even or odd?
+A: 48 is even.
+
+Q: What is the 14th Fibonacci number?
+A: The 14th Fibonacci number is 233.
+
+Q: What is 8 squared?
+A: 8 squared is 64.
+
+Q: What is 4*4?
+A: 4*4=16.
+
+Q: What is the square root of 2025?
+A: The square root of 2025 is 45.
+
+Q: What is 30% of 100?
+A: 30% of 100 is 30.
+
+Q: What is 20*20?
+A: 20*20=400.
+
+Q: Is 5 a prime number?
+A: Yes, 5 is a prime number.
+
+Q: What is 2 factorial?
+A: 2 factorial is 2.
+
+Q: What is 20 cubed?
+A: 20 cubed is 8000.
+
+Q: What is 8*8?
+A: 8*8=64.
+
+Q: Is 9 a prime number?
+A: No, 9 is not a prime number.
+
+Q: What is the square root of 1849?
+A: The square root of 1849 is 43.
+
+Q: What is 77 squared?
+A: 77 squared is 5929.
+
+Q: Is 25 a prime number?
+A: No, 25 is not a prime number.
+
+Q: What is 20% of 50?
+A: 20% of 50 is 10.
+
+Q: What is 72*72?
+A: 72*72=5184.
+
+Q: What is 37 cubed?
+A: 37 cubed is 50653.
+
+Q: What is 20 squared?
+A: 20 squared is 400.
+
+Q: Is 28 a prime number?
+A: No, 28 is not a prime number.
+
+Q: What is 72 squared?
+A: 72 squared is 5184.
+
+Q: What is 10 factorial?
+A: 10 factorial is 3628800.
+
+Q: What is 81 squared?
+A: 81 squared is 6561.
+
+Q: What is the square root of 841?
+A: The square root of 841 is 29.
+
+Q: What is 1 factorial?
+A: 1 factorial is 1.
+
+Q: What is the square root of 1936?
+A: The square root of 1936 is 44.
+
+Q: Is 103 a prime number?
+A: Yes, 103 is a prime number.
+
+Q: Is 57 even or odd?
+A: 57 is odd.
+
+Q: What is the square root of 676?
+A: The square root of 676 is 26.
+
+Q: What is 10% of 200?
+A: 10% of 200 is 20.
+
+Q: What is 67*67?
+A: 67*67=4489.
+
+Q: Is 35 even or odd?
+A: 35 is odd.
+
+Q: What is 10 to the power of 3?
+A: 10 to the power of 3 is 1000.
+
+Q: What is 39 cubed?
+A: 39 cubed is 59319.
+
+Q: What is 54*54?
+A: 54*54=2916.
+
+Q: What is 70% of 50?
+A: 70% of 50 is 35.
+
+Q: What is the square root of 441?
+A: The square root of 441 is 21.
+
+Q: Is 101 a prime number?
+A: Yes, 101 is a prime number.
+
+Q: Is 50 even or odd?
+A: 50 is even.
+
+Q: Is 50 even or odd?
+A: 50 is even.
+
+Q: What is 26*26?
+A: 26*26=676.
+
+Q: What is 2 to the power of 11?
+A: 2 to the power of 11 is 2048.
+
+Q: What is 70% of 200?
+A: 70% of 200 is 140.
+
+Q: What is 48 cubed?
+A: 48 cubed is 110592.
+
+Q: What is the square root of 4761?
+A: The square root of 4761 is 69.
+
+Q: Is 10 a prime number?
+A: No, 10 is not a prime number.
+
+Q: Is 20 even or odd?
+A: 20 is even.
+
+Q: What is 48*48?
+A: 48*48=2304.
+
+Q: Is 45 even or odd?
+A: 45 is odd.
+
+Q: What is 90% of 50?
+A: 90% of 50 is 45.
+
+Q: What is 28 squared?
+A: 28 squared is 784.
+
+Q: What is 25 cubed?
+A: 25 cubed is 15625.
+
+Q: Is 40 even or odd?
+A: 40 is even.
+
+Q: What is the square root of 3249?
+A: The square root of 3249 is 57.
+
+Q: What is 88*88?
+A: 88*88=7744.
+
+Q: What is 12*12?
+A: 12*12=144.
+
+Q: What is 11 squared?
+A: 11 squared is 121.
+
+Q: What is 16 cubed?
+A: 16 cubed is 4096.
+
+Q: What is 30% of 200?
+A: 30% of 200 is 60.
+
+Q: What is 32 squared?
+A: 32 squared is 1024.
+
+Q: What is 37 cubed?
+A: 37 cubed is 50653.
+
+Q: Is 10 a prime number?
+A: No, 10 is not a prime number.
+
+Q: What is 76 squared?
+A: 76 squared is 5776.
+
+Q: Is 42 even or odd?
+A: 42 is even.
+
+Q: What is 70% of 50?
+A: 70% of 50 is 35.
+
+Q: What is 28 squared?
+A: 28 squared is 784.
+
+Q: What is 47*47?
+A: 47*47=2209.
+
+Q: Is 20 even or odd?
+A: 20 is even.
+
+Q: Is 79 a prime number?
+A: Yes, 79 is a prime number.
+
+Q: What is the 13th Fibonacci number?
+A: The 13th Fibonacci number is 144.
+
+Q: Is 45 even or odd?
+A: 45 is odd.
+
+Q: What is 48 cubed?
+A: 48 cubed is 110592.
+
+Q: Is 25 even or odd?
+A: 25 is odd.
+
+Q: Is 54 even or odd?
+A: 54 is even.
+
+Q: What is the square root of 324?
+A: The square root of 324 is 18.
+
+Q: What is the square root of 7744?
+A: The square root of 7744 is 88.
+
+Q: Is 3 even or odd?
+A: 3 is odd.
+
+Q: What is 34 squared?
+A: 34 squared is 1156.
+
+Q: What is the square root of 2704?
+A: The square root of 2704 is 52.
+
+Q: Is 38 even or odd?
+A: 38 is even.
+
+Q: What is 94*94?
+A: 94*94=8836.
+
+Q: Is 16 a prime number?
+A: No, 16 is not a prime number.
+
+Q: Is 35 even or odd?
+A: 35 is odd.
+
+Q: What is 2 to the power of 4?
+A: 2 to the power of 4 is 16.
+
+Q: What is 7 cubed?
+A: 7 cubed is 343.
+
+Q: What is 9 squared?
+A: 9 squared is 81.
+
+Q: Is 30 a prime number?
+A: No, 30 is not a prime number.
+
+Q: What is 28 squared?
+A: 28 squared is 784.
+
+Q: What is the square root of 1764?
+A: The square root of 1764 is 42.
+
+Q: What is the square root of 8464?
+A: The square root of 8464 is 92.
+
+Q: What is the square root of 8649?
+A: The square root of 8649 is 93.
+
+Q: What is 61 squared?
+A: 61 squared is 3721.
+
+Q: What is 56 squared?
+A: 56 squared is 3136.
+
+Q: What is 63*63?
+A: 63*63=3969.
+
+Q: What is 40% of 200?
+A: 40% of 200 is 80.
+
+Q: What is 77 squared?
+A: 77 squared is 5929.
+
+Q: Is 55 even or odd?
+A: 55 is odd.
+
+Q: What is the square root of 16?
+A: The square root of 16 is 4.
+
+Q: What is 4 cubed?
+A: 4 cubed is 64.
+
+Q: What is 86*86?
+A: 86*86=7396.
+
+Q: What is 5 factorial?
+A: 5 factorial is 120.
+
+Q: What is the square root of 1296?
+A: The square root of 1296 is 36.
+
+Q: Is 61 a prime number?
+A: Yes, 61 is a prime number.
+
+Q: What is the square root of 1521?
+A: The square root of 1521 is 39.
+
+Q: What is 95*95?
+A: 95*95=9025.
+
+Q: What is 12 squared?
+A: 12 squared is 144.
+
+Q: What is the square root of 784?
+A: The square root of 784 is 28.
+
+Q: Is 93 even or odd?
+A: 93 is odd.
+
+Q: What is 81*81?
+A: 81*81=6561.
+
+Q: Is 21 a prime number?
+A: No, 21 is not a prime number.
+
+Q: What is the 8th Fibonacci number?
+A: The 8th Fibonacci number is 13.
+
+Q: What is the square root of 4624?
+A: The square root of 4624 is 68.
+
+Q: What is 93 squared?
+A: 93 squared is 8649.
+
+Q: What is the 20th Fibonacci number?
+A: The 20th Fibonacci number is 4181.
+
+Q: What is the square root of 1089?
+A: The square root of 1089 is 33.
+
+Q: What is 46*46?
+A: 46*46=2116.
+
+Q: What is 77*77?
+A: 77*77=5929.
+
+Q: What is 50 squared?
+A: 50 squared is 2500.
+
+Q: What is 81 squared?
+A: 81 squared is 6561.
+
+Q: What is 57 squared?
+A: 57 squared is 3249.
+
+Q: Is 131 a prime number?
+A: Yes, 131 is a prime number.
+
+Q: What is 80% of 500?
+A: 80% of 500 is 400.
+
+Q: What is 36 squared?
+A: 36 squared is 1296.
+
+Q: Is 191 a prime number?
+A: Yes, 191 is a prime number.
+
+Q: What is 29 cubed?
+A: 29 cubed is 24389.
+
+Q: What is 2 to the power of 7?
+A: 2 to the power of 7 is 128.
+
+Q: What is 90 squared?
+A: 90 squared is 8100.
+
+Q: What is 7!?
+A: 7!=5040.
+
+Q: Is 32 even or odd?
+A: 32 is even.
+
+Q: What is 60% of 50?
+A: 60% of 50 is 30.
+
+Q: What is 20% of 100?
+A: 20% of 100 is 20.
+
+Q: What is 25% of 200?
+A: 25% of 200 is 50.
+
+Q: What is 45 squared?
+A: 45 squared is 2025.
+
+Q: What is 95*95?
+A: 95*95=9025.
+
+Q: What is 71 squared?
+A: 71 squared is 5041.
+
+Q: What is the square root of 9801?
+A: The square root of 9801 is 99.
+
+Q: Is 44 even or odd?
+A: 44 is even.
+
+Q: What is 22 squared?
+A: 22 squared is 484.
+
+Q: What is the square root of 1600?
+A: The square root of 1600 is 40.
+
+Q: What is 37*37?
+A: 37*37=1369.
+
+Q: What is 62 squared?
+A: 62 squared is 3844.
+
+Q: Is 51 even or odd?
+A: 51 is odd.
+
+Q: What is the square root of 9801?
+A: The square root of 9801 is 99.
+
+Q: Is 5 even or odd?
+A: 5 is odd.
+
+Q: What is 93*93?
+A: 93*93=8649.
+
+Q: What is 3*3?
+A: 3*3=9.
+
+Q: What is 71 squared?
+A: 71 squared is 5041.
+
+Q: What is the square root of 1681?
+A: The square root of 1681 is 41.
+
+Q: Is 10 a prime number?
+A: No, 10 is not a prime number.
+
+Q: Is 82 even or odd?
+A: 82 is even.
+
+Q: What is 35*35?
+A: 35*35=1225.
+
+Q: Is 89 a prime number?
+A: Yes, 89 is a prime number.
+
+Q: What is 33*33?
+A: 33*33=1089.
+
+Q: What is 38*38?
+A: 38*38=1444.
+
+Q: What is 72 squared?
+A: 72 squared is 5184.
+
+Q: What is 9 squared?
+A: 9 squared is 81.
+
+Q: What is 33*33?
+A: 33*33=1089.
+
+Q: Is 12 a prime number?
+A: No, 12 is not a prime number.
+
+Q: What is 16*16?
+A: 16*16=256.
+
+Q: What is the square root of 10000?
+A: The square root of 10000 is 100.
+
+Q: What is the square root of 2209?
+A: The square root of 2209 is 47.
+
+Q: What is the square root of 81?
+A: The square root of 81 is 9.
+
+Q: What is 35 squared?
+A: 35 squared is 1225.
+
+Q: What is 17 squared?
+A: 17 squared is 289.
+
+Q: What is the square root of 5625?
+A: The square root of 5625 is 75.
+
+Q: What is 51*51?
+A: 51*51=2601.
+
+Q: What is 73*73?
+A: 73*73=5329.
+
+Q: Is 29 a prime number?
+A: Yes, 29 is a prime number.
+
+Q: Is 19 a prime number?
+A: Yes, 19 is a prime number.
+
+Q: What is 95 squared?
+A: 95 squared is 9025.
+
+Q: What is 28 squared?
+A: 28 squared is 784.
+
+Q: What is 50% of 500?
+A: 50% of 500 is 250.
+
+Q: What is the square root of 1?
+A: The square root of 1 is 1.
+
+Q: What is 13*13?
+A: 13*13=169.
+
+Q: What is the square root of 7396?
+A: The square root of 7396 is 86.
+
+Q: Is 2 even or odd?
+A: 2 is even.
+
+Q: What is 66 squared?
+A: 66 squared is 4356.
+
+Q: Is 10 even or odd?
+A: 10 is even.
+
+Q: What is the square root of 8649?
+A: The square root of 8649 is 93.
+
+Q: What is 46 squared?
+A: 46 squared is 2116.
+
+Q: What is 25 squared?
+A: 25 squared is 625.
+
+Q: Is 46 even or odd?
+A: 46 is even.
+
+Q: What is 27*27?
+A: 27*27=729.
+
+Q: What is the square root of 529?
+A: The square root of 529 is 23.
+
+Q: What is 40 squared?
+A: 40 squared is 1600.
+
+Q: Is 78 even or odd?
+A: 78 is even.
+
+Q: What is 46 squared?
+A: 46 squared is 2116.
+
+Q: Is 75 even or odd?
+A: 75 is odd.
+
+Q: What is 18 squared?
+A: 18 squared is 324.
+
+Q: What is 6!?
+A: 6!=720.
+
+Q: What is 43*43?
+A: 43*43=1849.
+
+Q: What is 70 squared?
+A: 70 squared is 4900.
+
+Q: What is the square root of 81?
+A: The square root of 81 is 9.
+
+Q: Is 39 even or odd?
+A: 39 is odd.
+
+Q: What is 16*16?
+A: 16*16=256.
+
+Q: What is 71 squared?
+A: 71 squared is 5041.
+
+Q: What is 15 squared?
+A: 15 squared is 225.
+
+Q: What is 11 factorial?
+A: 11 factorial is 39916800.
+
+Q: What is 41*41?
+A: 41*41=1681.
+
+Q: What is 95 squared?
+A: 95 squared is 9025.
+
+Q: What is the 20th Fibonacci number?
+A: The 20th Fibonacci number is 4181.
+
+Q: What is the square root of 8281?
+A: The square root of 8281 is 91.
+
+Q: What is 6 squared?
+A: 6 squared is 36.
+
+Q: Is 19 even or odd?
+A: 19 is odd.
+
+Q: What is the square root of 576?
+A: The square root of 576 is 24.
+
+Q: What is 11 factorial?
+A: 11 factorial is 39916800.
+
+Q: What is 88 squared?
+A: 88 squared is 7744.
+
+Q: Is 13 a prime number?
+A: Yes, 13 is a prime number.
+
+Q: What is 50 squared?
+A: 50 squared is 2500.
+
+Q: What is 32 cubed?
+A: 32 cubed is 32768.
+
+Q: What is 16 squared?
+A: 16 squared is 256.
+
+Q: What is 10 to the power of 6?
+A: 10 to the power of 6 is 1000000.
+
+Q: What is 84 squared?
+A: 84 squared is 7056.
+
+Q: What is the square root of 1681?
+A: The square root of 1681 is 41.
+
+Q: What is the square root of 4761?
+A: The square root of 4761 is 69.
+
+Q: What is the square root of 1444?
+A: The square root of 1444 is 38.
+
+Q: What is 28*28?
+A: 28*28=784.
+
+Q: What is 45 squared?
+A: 45 squared is 2025.
+
+Q: Is 72 even or odd?
+A: 72 is even.
+
+Q: What is 72*72?
+A: 72*72=5184.
+
+Q: What is 44 cubed?
+A: 44 cubed is 85184.
+
+Q: What is 21 cubed?
+A: 21 cubed is 9261.
+
+Q: Is 47 even or odd?
+A: 47 is odd.
+
+Q: What is 18 squared?
+A: 18 squared is 324.
+
+Q: What is the 6th Fibonacci number?
+A: The 6th Fibonacci number is 5.
+
+Q: What is the square root of 4900?
+A: The square root of 4900 is 70.
+
+Q: What is the square root of 2704?
+A: The square root of 2704 is 52.
+
+Q: What is 93 squared?
+A: 93 squared is 8649.
+
+Q: What is 40% of 1000?
+A: 40% of 1000 is 400.
+
+Q: What is 46 cubed?
+A: 46 cubed is 97336.
+
+Q: What is 30 cubed?
+A: 30 cubed is 27000.
+
+Q: What is 10 to the power of 5?
+A: 10 to the power of 5 is 100000.
+
+Q: What is 82*82?
+A: 82*82=6724.
+
+Q: Is 18 even or odd?
+A: 18 is even.
+
+Q: What is the square root of 169?
+A: The square root of 169 is 13.
+
+Q: What is 2 to the power of 13?
+A: 2 to the power of 13 is 8192.
+
+Q: What is 59 squared?
+A: 59 squared is 3481.
+
+Q: What is 39*39?
+A: 39*39=1521.
+
+Q: Is 52 even or odd?
+A: 52 is even.
+
+Q: What is 25% of 1000?
+A: 25% of 1000 is 250.
+
+Q: What is 4 factorial?
+A: 4 factorial is 24.
+
+Q: What is 31*31?
+A: 31*31=961.
+
+Q: What is 7!?
+A: 7!=5040.
+
+Q: What is the square root of 6241?
+A: The square root of 6241 is 79.
+
+Q: What is 23 squared?
+A: 23 squared is 529.
+
+Q: What is 54*54?
+A: 54*54=2916.
+
+Q: What is 68*68?
+A: 68*68=4624.
+
+Q: What is 2 to the power of 4?
+A: 2 to the power of 4 is 16.
+
+Q: What is 82*82?
+A: 82*82=6724.
+
+Q: What is 79 squared?
+A: 79 squared is 6241.
+
+Q: What is 68*68?
+A: 68*68=4624.
+
+Q: Is 81 even or odd?
+A: 81 is odd.
+
+Q: What is the square root of 2601?
+A: The square root of 2601 is 51.
+
+Q: Is 74 even or odd?
+A: 74 is even.
+
+Q: What is the square root of 7921?
+A: The square root of 7921 is 89.
+
+Q: What is 34 cubed?
+A: 34 cubed is 39304.
+
+Q: What is the square root of 7569?
+A: The square root of 7569 is 87.
+
+Q: What is 21 squared?
+A: 21 squared is 441.
+
+Q: What is 40*40?
+A: 40*40=1600.
+
+Q: What is 30% of 500?
+A: 30% of 500 is 150.
+
+Q: What is 46*46?
+A: 46*46=2116.
+
+Q: What is 50 squared?
+A: 50 squared is 2500.
+
+Q: Is 92 even or odd?
+A: 92 is even.
+
+Q: What is the square root of 3969?
+A: The square root of 3969 is 63.
+
+Q: What is 54 squared?
+A: 54 squared is 2916.
+
+Q: What is 54 squared?
+A: 54 squared is 2916.
+
+Q: Is 64 even or odd?
+A: 64 is even.
+
+Q: What is 46 cubed?
+A: 46 cubed is 97336.
+
+Q: What is the square root of 4489?
+A: The square root of 4489 is 67.
+
+Q: Is 29 a prime number?
+A: Yes, 29 is a prime number.
+
+Q: What is 83 squared?
+A: 83 squared is 6889.
+
+Q: What is 5!?
+A: 5!=120.
+
+Q: What is the square root of 7569?
+A: The square root of 7569 is 87.
+
+Q: What is the 7th Fibonacci number?
+A: The 7th Fibonacci number is 8.
+
+Q: What is 50% of 100?
+A: 50% of 100 is 50.
+
+Q: What is the square root of 7921?
+A: The square root of 7921 is 89.
+
+Q: What is 70% of 500?
+A: 70% of 500 is 350.
+
+Q: What is 19 cubed?
+A: 19 cubed is 6859.
+
+Q: What is the square root of 625?
+A: The square root of 625 is 25.
+
+Q: What is 2 to the power of 12?
+A: 2 to the power of 12 is 4096.
+
+Q: Is 28 even or odd?
+A: 28 is even.
+
+Q: What is 11 factorial?
+A: 11 factorial is 39916800.
+
+Q: Is 61 even or odd?
+A: 61 is odd.
+
+Q: What is the 16th Fibonacci number?
+A: The 16th Fibonacci number is 610.
+
+Q: What is the square root of 3969?
+A: The square root of 3969 is 63.
+
+Q: Is 37 a prime number?
+A: Yes, 37 is a prime number.
+
+Q: What is 2 to the power of 19?
+A: 2 to the power of 19 is 524288.
+
+Q: What is 10 to the power of 5?
+A: 10 to the power of 5 is 100000.
+
+Q: What is 40% of 50?
+A: 40% of 50 is 20.
+
+Q: What is 73 squared?
+A: 73 squared is 5329.
+
+Q: Is 83 even or odd?
+A: 83 is odd.
+
+Q: What is 40% of 100?
+A: 40% of 100 is 40.
+
+Q: What is 24 cubed?
+A: 24 cubed is 13824.
+
+Q: Is 61 even or odd?
+A: 61 is odd.
+
+Q: What is 77 squared?
+A: 77 squared is 5929.
+
+Q: What is 16 cubed?
+A: 16 cubed is 4096.
+
+Q: What is 34*34?
+A: 34*34=1156.
+
+Q: What is 40% of 100?
+A: 40% of 100 is 40.
+
+Q: What is 10*10?
+A: 10*10=100.
+
+Q: What is 30% of 1000?
+A: 30% of 1000 is 300.
+
+Q: What is 8 cubed?
+A: 8 cubed is 512.
+
+Q: Is 23 a prime number?
+A: Yes, 23 is a prime number.
+
+Q: What is 92 squared?
+A: 92 squared is 8464.
+
+Q: What is 94 squared?
+A: 94 squared is 8836.
+
+Q: What is 32*32?
+A: 32*32=1024.
+
+Q: Is 25 a prime number?
+A: No, 25 is not a prime number.
+
+Q: What is the square root of 2500?
+A: The square root of 2500 is 50.
+
+Q: What is 75% of 1000?
+A: 75% of 1000 is 750.
+
+Q: Is 75 even or odd?
+A: 75 is odd.
+
+Q: Is 28 a prime number?
+A: No, 28 is not a prime number.
+
+Q: Is 6 even or odd?
+A: 6 is even.
+
+Q: What is 20 cubed?
+A: 20 cubed is 8000.
+
+Q: Is 99 even or odd?
+A: 99 is odd.
+
+Q: Is 70 even or odd?
+A: 70 is even.
+
+Q: Is 53 a prime number?
+A: Yes, 53 is a prime number.
+
+Q: What is the square root of 324?
+A: The square root of 324 is 18.
+
+Q: Is 44 even or odd?
+A: 44 is even.
+
+Q: What is 3*3?
+A: 3*3=9.
+
+Q: What is 35*35?
+A: 35*35=1225.
+
+Q: What is 2 to the power of 1?
+A: 2 to the power of 1 is 2.
+
+Q: What is the square root of 81?
+A: The square root of 81 is 9.
+
+Q: What is 50% of 50?
+A: 50% of 50 is 25.
+
+Q: Is 11 even or odd?
+A: 11 is odd.
+
+Q: Is 151 a prime number?
+A: Yes, 151 is a prime number.
+
+Q: What is 2 to the power of 16?
+A: 2 to the power of 16 is 65536.
+
+Q: What is the square root of 7396?
+A: The square root of 7396 is 86.
+
+Q: What is 30% of 100?
+A: 30% of 100 is 30.
+
+Q: What is the 10th Fibonacci number?
+A: The 10th Fibonacci number is 34.
+
+Q: What is 10% of 500?
+A: 10% of 500 is 50.
+
+Q: What is 50% of 1000?
+A: 50% of 1000 is 500.
+
+Q: What is the 5th Fibonacci number?
+A: The 5th Fibonacci number is 3.
+
+Q: What is 53*53?
+A: 53*53=2809.
+
+Q: Is 42 even or odd?
+A: 42 is even.
+
+Q: What is 2 to the power of 9?
+A: 2 to the power of 9 is 512.
+
+Q: Is 5 a prime number?
+A: Yes, 5 is a prime number.
+
+Q: What is 74*74?
+A: 74*74=5476.
+
+Q: What is 24 squared?
+A: 24 squared is 576.
+
+Q: What is the square root of 7225?
+A: The square root of 7225 is 85.
+
+Q: What is the 3th Fibonacci number?
+A: The 3th Fibonacci number is 1.
+
+Q: Is 18 even or odd?
+A: 18 is even.
+
+Q: What is 65 squared?
+A: 65 squared is 4225.
+
+Q: What is 52 squared?
+A: 52 squared is 2704.
+
+Q: What is 12 factorial?
+A: 12 factorial is 479001600.
+
+Q: What is 2!?
+A: 2!=2.
+
+Q: What is 63*63?
+A: 63*63=3969.
+
+Q: What is the square root of 6084?
+A: The square root of 6084 is 78.
+
+Q: What is 30*30?
+A: 30*30=900.
+
+Q: What is 50% of 50?
+A: 50% of 50 is 25.
+
+Q: Is 41 even or odd?
+A: 41 is odd.
+
+Q: What is 7 squared?
+A: 7 squared is 49.
+
+Q: What is 38 cubed?
+A: 38 cubed is 54872.
+
+Q: What is the 19th Fibonacci number?
+A: The 19th Fibonacci number is 2584.
+
+Q: What is 23 cubed?
+A: 23 cubed is 12167.
+
+Q: What is 2 to the power of 8?
+A: 2 to the power of 8 is 256.
+
+Q: What is 80% of 100?
+A: 80% of 100 is 80.
+
+Q: What is the square root of 784?
+A: The square root of 784 is 28.
+
+Q: Is 47 even or odd?
+A: 47 is odd.
+
+Q: Is 199 a prime number?
+A: Yes, 199 is a prime number.
+
+Q: What is 30% of 1000?
+A: 30% of 1000 is 300.
+
+Q: What is the square root of 25?
+A: The square root of 25 is 5.
+
+Q: Is 67 a prime number?
+A: Yes, 67 is a prime number.
+
+Q: What is 42 squared?
+A: 42 squared is 1764.
+
+Q: What is 8 squared?
+A: 8 squared is 64.
+
+Q: Is 63 even or odd?
+A: 63 is odd.
+
+Q: Is 55 even or odd?
+A: 55 is odd.
+
+Q: What is 19*19?
+A: 19*19=361.
+
+Q: What is 1 squared?
+A: 1 squared is 1.
+
+Q: What is 94*94?
+A: 94*94=8836.
+
+Q: What is 82 squared?
+A: 82 squared is 6724.
+
+Q: What is 78*78?
+A: 78*78=6084.
+
+Q: Is 97 a prime number?
+A: Yes, 97 is a prime number.
+
+Q: What is 18 cubed?
+A: 18 cubed is 5832.
+
+Q: Is 197 a prime number?
+A: Yes, 197 is a prime number.
+
+Q: What is 47*47?
+A: 47*47=2209.
+
+Q: What is 23*23?
+A: 23*23=529.
+
+Q: What is 30 squared?
+A: 30 squared is 900.
+
+Q: Is 75 even or odd?
+A: 75 is odd.
+
+Q: What is 10 to the power of 7?
+A: 10 to the power of 7 is 10000000.
+
+Q: What is 2 squared?
+A: 2 squared is 4.
+
+Q: What is 99 squared?
+A: 99 squared is 9801.
+
+Q: What is the square root of 3136?
+A: The square root of 3136 is 56.
+
+Q: Is 35 a prime number?
+A: No, 35 is not a prime number.
+
+Q: What is 37 cubed?
+A: 37 cubed is 50653.
+
+Q: What is 27 squared?
+A: 27 squared is 729.
+
+Q: Is 6 a prime number?
+A: No, 6 is not a prime number.
+
+Q: Is 31 even or odd?
+A: 31 is odd.
+
+Q: What is 67 squared?
+A: 67 squared is 4489.
+
+Q: What is 25% of 50?
+A: 25% of 50 is 12.
+
+Q: What is 10*10?
+A: 10*10=100.
+
+Q: What is 66*66?
+A: 66*66=4356.
+
+Q: What is 60% of 1000?
+A: 60% of 1000 is 600.
+
+Q: What is 40 squared?
+A: 40 squared is 1600.
+
+Q: What is 59*59?
+A: 59*59=3481.
+
+Q: What is 2 to the power of 1?
+A: 2 to the power of 1 is 2.
+
+Q: What is the square root of 6084?
+A: The square root of 6084 is 78.
+
+Q: What is 20 squared?
+A: 20 squared is 400.
+
+Q: What is the square root of 225?
+A: The square root of 225 is 15.
+
+Q: Is 59 even or odd?
+A: 59 is odd.
+
+Q: What is 26 cubed?
+A: 26 cubed is 17576.
+
+Q: What is 7 squared?
+A: 7 squared is 49.
+
+Q: What is 2 to the power of 13?
+A: 2 to the power of 13 is 8192.
+
+Q: What is 75*75?
+A: 75*75=5625.
+
+Q: What is 25% of 200?
+A: 25% of 200 is 50.
+
+Q: Is 137 a prime number?
+A: Yes, 137 is a prime number.
+
+Q: Is 109 a prime number?
+A: Yes, 109 is a prime number.
+
+Q: What is 84 squared?
+A: 84 squared is 7056.
+
+Q: Is 100 even or odd?
+A: 100 is even.
+
+Q: Is 45 even or odd?
+A: 45 is odd.
+
+Q: What is 5 cubed?
+A: 5 cubed is 125.
+
+Q: What is the square root of 6724?
+A: The square root of 6724 is 82.
+
+Q: What is 90% of 200?
+A: 90% of 200 is 180.
+
+Q: Is 20 even or odd?
+A: 20 is even.
+
+Q: What is the 9th Fibonacci number?
+A: The 9th Fibonacci number is 21.
+
+Q: What is the square root of 6561?
+A: The square root of 6561 is 81.
+
+Q: What is 10 to the power of 2?
+A: 10 to the power of 2 is 100.
+
+Q: What is 25% of 100?
+A: 25% of 100 is 25.
+
+Q: What is 24*24?
+A: 24*24=576.
+
+Q: Is 38 even or odd?
+A: 38 is even.
+
+Q: Is 149 a prime number?
+A: Yes, 149 is a prime number.
+
+Q: What is 2 to the power of 16?
+A: 2 to the power of 16 is 65536.
+
+Q: What is 91 squared?
+A: 91 squared is 8281.
+
+Q: Is 54 even or odd?
+A: 54 is even.
+
+Q: What is the 4th Fibonacci number?
+A: The 4th Fibonacci number is 2.
+
+Q: What is 39 squared?
+A: 39 squared is 1521.
+
+Q: What is 44*44?
+A: 44*44=1936.
+
+Q: What is the 12th Fibonacci number?
+A: The 12th Fibonacci number is 89.
+
+Q: What is 17 squared?
+A: 17 squared is 289.
+
+Q: What is 19*19?
+A: 19*19=361.
+
+Q: What is 56 squared?
+A: 56 squared is 3136.
+
+Q: What is 22 squared?
+A: 22 squared is 484.
+
+Q: What is 10 squared?
+A: 10 squared is 100.
+
+Q: What is 2 to the power of 7?
+A: 2 to the power of 7 is 128.
+
+Q: Is 14 even or odd?
+A: 14 is even.
+
+Q: What is 5 squared?
+A: 5 squared is 25.
+
+Q: Is 31 even or odd?
+A: 31 is odd.
+
+Q: Is 4 even or odd?
+A: 4 is even.
+
+Q: What is the 11th Fibonacci number?
+A: The 11th Fibonacci number is 55.
+
+Q: Is 64 even or odd?
+A: 64 is even.
+
+Q: What is the square root of 1296?
+A: The square root of 1296 is 36.
+
+Q: What is 10 to the power of 8?
+A: 10 to the power of 8 is 100000000.
+
+Q: What is 5!?
+A: 5!=120.
+
+Q: Is 23 even or odd?
+A: 23 is odd.
+
+Q: What is the square root of 9801?
+A: The square root of 9801 is 99.
+
+Q: Is 70 even or odd?
+A: 70 is even.
+
+Q: What is 90*90?
+A: 90*90=8100.
+
+Q: What is 93*93?
+A: 93*93=8649.
+
+Q: What is 92 squared?
+A: 92 squared is 8464.
+
+Q: Is 97 even or odd?
+A: 97 is odd.
+
+Q: What is the 6th Fibonacci number?
+A: The 6th Fibonacci number is 5.
+
+Q: What is 97*97?
+A: 97*97=9409.
+
+Q: What is 38*38?
+A: 38*38=1444.
+
+Q: What is 42 squared?
+A: 42 squared is 1764.
+
+Q: Is 90 even or odd?
+A: 90 is even.
+
+Q: What is 66 squared?
+A: 66 squared is 4356.
+
+Q: What is the square root of 289?
+A: The square root of 289 is 17.
+
+Q: What is the square root of 4?
+A: The square root of 4 is 2.
+
+Q: What is 90% of 100?
+A: 90% of 100 is 90.
+
+Q: What is 27 cubed?
+A: 27 cubed is 19683.
+
+Q: What is 26 squared?
+A: 26 squared is 676.
+
+Q: What is 5 cubed?
+A: 5 cubed is 125.
+
+Q: What is 68 squared?
+A: 68 squared is 4624.
+
+Q: What is 78 squared?
+A: 78 squared is 6084.
+
+Q: What is 90*90?
+A: 90*90=8100.
+
+Q: What is 80% of 200?
+A: 80% of 200 is 160.
+
+Q: What is 4!?
+A: 4!=24.
+
+Q: What is 2 to the power of 12?
+A: 2 to the power of 12 is 4096.
+
+Q: What is 89 squared?
+A: 89 squared is 7921.
+
+Q: What is 68 squared?
+A: 68 squared is 4624.
+
+Q: What is 6 cubed?
+A: 6 cubed is 216.
+
+Q: What is the square root of 1849?
+A: The square root of 1849 is 43.
+
+Q: Is 84 even or odd?
+A: 84 is even.
+
+Q: What is 46 squared?
+A: 46 squared is 2116.
+
+Q: What is 53 squared?
+A: 53 squared is 2809.
+
+Q: What is 86 squared?
+A: 86 squared is 7396.
+
+Q: What is 43 squared?
+A: 43 squared is 1849.
+
+Q: What is the square root of 1849?
+A: The square root of 1849 is 43.
+
+Q: Is 181 a prime number?
+A: Yes, 181 is a prime number.
+
+Q: What is 34*34?
+A: 34*34=1156.
+
+Q: What is the square root of 2401?
+A: The square root of 2401 is 49.
+
+Q: What is 2 to the power of 17?
+A: 2 to the power of 17 is 131072.
+
+Q: What is the square root of 1156?
+A: The square root of 1156 is 34.
+
+Q: What is 7 cubed?
+A: 7 cubed is 343.
+
+Q: What is the square root of 1764?
+A: The square root of 1764 is 42.
+
+Q: What is 50 cubed?
+A: 50 cubed is 125000.
+
+Q: What is 25% of 200?
+A: 25% of 200 is 50.
+
+Q: What is the square root of 2704?
+A: The square root of 2704 is 52.
+
+Q: What is the square root of 5476?
+A: The square root of 5476 is 74.
+
+Q: What is the square root of 3136?
+A: The square root of 3136 is 56.
+
+Q: What is the 19th Fibonacci number?
+A: The 19th Fibonacci number is 2584.
+
+Q: What is the square root of 729?
+A: The square root of 729 is 27.
+
+Q: Is 91 even or odd?
+A: 91 is odd.
+
+Q: What is 68 squared?
+A: 68 squared is 4624.
+
+Q: What is 5 cubed?
+A: 5 cubed is 125.
+
+Q: What is 58 squared?
+A: 58 squared is 3364.
+
+Q: Is 100 even or odd?
+A: 100 is even.
+
+Q: What is 23*23?
+A: 23*23=529.
+
+Q: What is 17 squared?
+A: 17 squared is 289.
+
+Q: What is 3 squared?
+A: 3 squared is 9.
+
+Q: What is 4*4?
+A: 4*4=16.
+
+Q: What is 51 squared?
+A: 51 squared is 2601.
+
+Q: What is 25 squared?
+A: 25 squared is 625.
+
+Q: What is 33 cubed?
+A: 33 cubed is 35937.
+
+Q: What is 48 squared?
+A: 48 squared is 2304.
+
+Q: What is 43*43?
+A: 43*43=1849.
+
+Q: What is the square root of 4096?
+A: The square root of 4096 is 64.
+
+Q: What is 10 to the power of 9?
+A: 10 to the power of 9 is 1000000000.
+
+Q: What is 98 squared?
+A: 98 squared is 9604.
+
+Q: What is the square root of 841?
+A: The square root of 841 is 29.
+
+Q: What is 11*11?
+A: 11*11=121.
+
+Q: What is the square root of 484?
+A: The square root of 484 is 22.
+
+Q: What is the square root of 3969?
+A: The square root of 3969 is 63.
+
+Q: What is the square root of 9025?
+A: The square root of 9025 is 95.
+
+Q: What is 60*60?
+A: 60*60=3600.
+
+Q: What is 21*21?
+A: 21*21=441.
+
+Q: Is 82 even or odd?
+A: 82 is even.
+
+Q: What is 10% of 50?
+A: 10% of 50 is 5.
+
+Q: What is 90% of 1000?
+A: 90% of 1000 is 900.
+
+Q: What is 23 squared?
+A: 23 squared is 529.
+
+Q: What is 10% of 200?
+A: 10% of 200 is 20.
+
+Q: What is 92*92?
+A: 92*92=8464.
+
+Q: What is the square root of 8100?
+A: The square root of 8100 is 90.
+
+Q: What is 20% of 200?
+A: 20% of 200 is 40.
+
+Q: What is 28 cubed?
+A: 28 cubed is 21952.
+
+Q: Is 85 even or odd?
+A: 85 is odd.
+
+Q: Is 30 even or odd?
+A: 30 is even.
+
+Q: What is the 5th Fibonacci number?
+A: The 5th Fibonacci number is 3.
+
+Q: What is 12 squared?
+A: 12 squared is 144.
+
+Q: What is 90 squared?
+A: 90 squared is 8100.
+
+Q: What is 11 cubed?
+A: 11 cubed is 1331.
+
+Q: Is 20 even or odd?
+A: 20 is even.
+
+Q: What is 98 squared?
+A: 98 squared is 9604.
+
+Q: What is the square root of 7225?
+A: The square root of 7225 is 85.
+
+Q: What is 88 squared?
+A: 88 squared is 7744.
+
+Q: What is 62*62?
+A: 62*62=3844.
+
+Q: Is 20 a prime number?
+A: No, 20 is not a prime number.
+
+Q: What is 69*69?
+A: 69*69=4761.
+
+Q: Is 24 a prime number?
+A: No, 24 is not a prime number.
+
+Q: What is 25% of 500?
+A: 25% of 500 is 125.
+
+Q: What is 9*9?
+A: 9*9=81.
+
+Q: What is the 11th Fibonacci number?
+A: The 11th Fibonacci number is 55.
+
+Q: What is the square root of 5929?
+A: The square root of 5929 is 77.
+
+Q: What is 83 squared?
+A: 83 squared is 6889.
+
+Q: What is 1 squared?
+A: 1 squared is 1.
+
+Q: What is the square root of 529?
+A: The square root of 529 is 23.
+
+Q: What is 81*81?
+A: 81*81=6561.
+
+Q: What is 95 squared?
+A: 95 squared is 9025.
+
+Q: What is 35*35?
+A: 35*35=1225.
+
+Q: What is 10 factorial?
+A: 10 factorial is 3628800.
+
+Q: What is 51 squared?
+A: 51 squared is 2601.
+
+Q: What is 21 squared?
+A: 21 squared is 441.
+
+Q: What is 40*40?
+A: 40*40=1600.
+
+Q: Is 44 even or odd?
+A: 44 is even.
+
+Q: What is 9*9?
+A: 9*9=81.
+
+Q: What is 10*10?
+A: 10*10=100.
+
+Q: What is 20 squared?
+A: 20 squared is 400.
+
+Q: What is 80% of 1000?
+A: 80% of 1000 is 800.
+
+Q: Is 31 even or odd?
+A: 31 is odd.
+
+Q: Is 16 a prime number?
+A: No, 16 is not a prime number.
+
+Q: What is 28 cubed?
+A: 28 cubed is 21952.
+
+Q: Is 70 even or odd?
+A: 70 is even.
+
+Q: Is 6 a prime number?
+A: No, 6 is not a prime number.
+
+Q: What is 52*52?
+A: 52*52=2704.
+
+Q: Is 15 even or odd?
+A: 15 is odd.
+
+Q: What is 14 squared?
+A: 14 squared is 196.
+
+Q: What is 15 cubed?
+A: 15 cubed is 3375.
+
+Q: What is 48 cubed?
+A: 48 cubed is 110592.
+
+Q: What is 72*72?
+A: 72*72=5184.
+
+Q: What is 86*86?
+A: 86*86=7396.
+
+Q: What is the square root of 8836?
+A: The square root of 8836 is 94.
+
+Q: What is 47 squared?
+A: 47 squared is 2209.
+
+Q: What is 5 squared?
+A: 5 squared is 25.
+
+Q: What is 27 cubed?
+A: 27 cubed is 19683.
+
+Q: What is 27 cubed?
+A: 27 cubed is 19683.
+
+Q: What is 55 squared?
+A: 55 squared is 3025.
+
+Q: What is 2 to the power of 18?
+A: 2 to the power of 18 is 262144.
+
+Q: What is the 6th Fibonacci number?
+A: The 6th Fibonacci number is 5.
+
+Q: What is 60% of 50?
+A: 60% of 50 is 30.
+
+Q: Is 35 even or odd?
+A: 35 is odd.
+
+Q: Is 8 even or odd?
+A: 8 is even.
+
+Q: What is 2 squared?
+A: 2 squared is 4.
+
+Q: What is 5*5?
+A: 5*5=25.
+
+Q: What is 56*56?
+A: 56*56=3136.
+
+Q: What is 19 squared?
+A: 19 squared is 361.
+
+Q: What is 42*42?
+A: 42*42=1764.
+
+Q: What is 35*35?
+A: 35*35=1225.
+
+Q: Is 73 a prime number?
+A: Yes, 73 is a prime number.
+
+Q: What is the square root of 49?
+A: The square root of 49 is 7.
+
+Q: Is 179 a prime number?
+A: Yes, 179 is a prime number.
+
+Q: Is 17 even or odd?
+A: 17 is odd.
+
+Q: What is 33 squared?
+A: 33 squared is 1089.
+
+Q: Is 69 even or odd?
+A: 69 is odd.
+
+Q: What is the square root of 1024?
+A: The square root of 1024 is 32.
+
+Q: What is 83 squared?
+A: 83 squared is 6889.
+
+Q: What is 70% of 1000?
+A: 70% of 1000 is 700.
+
+Q: What is 1 squared?
+A: 1 squared is 1.
+
+Q: What is the 3th Fibonacci number?
+A: The 3th Fibonacci number is 1.
+
+Q: What is the square root of 121?
+A: The square root of 121 is 11.
+
+Q: What is the square root of 64?
+A: The square root of 64 is 8.
+
+Q: What is 21*21?
+A: 21*21=441.
+
+Q: What is 70% of 500?
+A: 70% of 500 is 350.
+
+Q: What is 56*56?
+A: 56*56=3136.
+
+Q: What is 30% of 200?
+A: 30% of 200 is 60.
+
+Q: What is the square root of 400?
+A: The square root of 400 is 20.
+
+Q: What is 86 squared?
+A: 86 squared is 7396.
+
+Q: What is 80% of 50?
+A: 80% of 50 is 40.
+
+Q: What is 34 cubed?
+A: 34 cubed is 39304.
+
+Q: What is the square root of 9801?
+A: The square root of 9801 is 99.
+
+Q: What is 70*70?
+A: 70*70=4900.
+
+Q: Is 13 a prime number?
+A: Yes, 13 is a prime number.
+
+Q: Is 59 even or odd?
+A: 59 is odd.
+
+Q: What is 10 to the power of 6?
+A: 10 to the power of 6 is 1000000.
+
+Q: What is 73*73?
+A: 73*73=5329.
+
+Q: Is 97 even or odd?
+A: 97 is odd.
+
+Q: What is 15*15?
+A: 15*15=225.
+
+Q: Is 6 a prime number?
+A: No, 6 is not a prime number.
+
+Q: Is 49 even or odd?
+A: 49 is odd.
+
+Q: What is 25% of 100?
+A: 25% of 100 is 25.
+
+Q: What is 99*99?
+A: 99*99=9801.
+
+Q: What is 25% of 500?
+A: 25% of 500 is 125.
+
+Q: What is 76 squared?
+A: 76 squared is 5776.
+
+Q: What is 20% of 100?
+A: 20% of 100 is 20.
+
+Q: What is 25 squared?
+A: 25 squared is 625.
+
+Q: Is 98 even or odd?
+A: 98 is even.
+
+Q: Is 97 even or odd?
+A: 97 is odd.
+
+Q: Is 151 a prime number?
+A: Yes, 151 is a prime number.
+
+Q: What is 80 squared?
+A: 80 squared is 6400.
+
+Q: Is 96 even or odd?
+A: 96 is even.
+
+Q: What is 25% of 1000?
+A: 25% of 1000 is 250.
+
+Q: Is 27 a prime number?
+A: No, 27 is not a prime number.
+
+Q: Is 193 a prime number?
+A: Yes, 193 is a prime number.
+
+Q: What is 9!?
+A: 9!=362880.
+
+Q: Is 12 even or odd?
+A: 12 is even.
+
+Q: What is the square root of 9409?
+A: The square root of 9409 is 97.
+
+Q: Is 20 a prime number?
+A: No, 20 is not a prime number.
+
+Q: What is 50 cubed?
+A: 50 cubed is 125000.
+
+Q: What is 40*40?
+A: 40*40=1600.
+
+Q: What is 69 squared?
+A: 69 squared is 4761.
+
+Q: Is 26 even or odd?
+A: 26 is even.
+
+Q: Is 58 even or odd?
+A: 58 is even.
+
+Q: Is 12 a prime number?
+A: No, 12 is not a prime number.
+
+Q: What is 1 squared?
+A: 1 squared is 1.
+
+Q: Is 15 even or odd?
+A: 15 is odd.
+
+Q: Is 79 a prime number?
+A: Yes, 79 is a prime number.
+
+Q: Is 67 even or odd?
+A: 67 is odd.
+
+Q: What is 6!?
+A: 6!=720.
+
+Q: Is 87 even or odd?
+A: 87 is odd.
+
+Q: Is 4 a prime number?
+A: No, 4 is not a prime number.
+
+Q: Is 25 even or odd?
+A: 25 is odd.
+
+Q: Is 3 even or odd?
+A: 3 is odd.
+
+Q: Is 76 even or odd?
+A: 76 is even.
+
+Q: What is 70% of 50?
+A: 70% of 50 is 35.
+
+Q: What is 18*18?
+A: 18*18=324.
+
+Q: Is 199 a prime number?
+A: Yes, 199 is a prime number.
+
+Q: Is 99 even or odd?
+A: 99 is odd.
+
+Q: What is the square root of 49?
+A: The square root of 49 is 7.
+
+Q: Is 53 even or odd?
+A: 53 is odd.
+
+Q: What is 2 to the power of 15?
+A: 2 to the power of 15 is 32768.
+
+Q: Is 30 even or odd?
+A: 30 is even.
+
+Q: What is the square root of 784?
+A: The square root of 784 is 28.
+
+Q: What is the square root of 5041?
+A: The square root of 5041 is 71.
+
+Q: What is 19 cubed?
+A: 19 cubed is 6859.
+
+Q: Is 36 even or odd?
+A: 36 is even.
+
+Q: Is 45 even or odd?
+A: 45 is odd.
+
+Q: What is 100*100?
+A: 100*100=10000.
+
+Q: What is 10 to the power of 8?
+A: 10 to the power of 8 is 100000000.
+
+Q: What is 83*83?
+A: 83*83=6889.
+
+Q: What is 12 cubed?
+A: 12 cubed is 1728.
+
+Q: What is 68 squared?
+A: 68 squared is 4624.
+
+Q: Is 87 even or odd?
+A: 87 is odd.
+
+Q: Is 79 a prime number?
+A: Yes, 79 is a prime number.
+
+Q: Is 36 even or odd?
+A: 36 is even.
+
+Q: What is the square root of 5041?
+A: The square root of 5041 is 71.
+
+Q: What is the 9th Fibonacci number?
+A: The 9th Fibonacci number is 21.
+
+Q: What is 92*92?
+A: 92*92=8464.
+
+Q: Is 193 a prime number?
+A: Yes, 193 is a prime number.
+
+Q: What is 71*71?
+A: 71*71=5041.
+
+Q: Is 18 a prime number?
+A: No, 18 is not a prime number.
+
+Q: What is 8*8?
+A: 8*8=64.
+
+Q: What is 44*44?
+A: 44*44=1936.
+
+Q: What is 2 to the power of 13?
+A: 2 to the power of 13 is 8192.
+
+Q: Is 51 even or odd?
+A: 51 is odd.
+
+Q: Is 31 a prime number?
+A: Yes, 31 is a prime number.
+
+Q: What is 22 squared?
+A: 22 squared is 484.
+
+Q: What is the square root of 441?
+A: The square root of 441 is 21.
+
+Q: Is 21 even or odd?
+A: 21 is odd.
+
+Q: What is the square root of 7056?
+A: The square root of 7056 is 84.
+
+Q: What is 11!?
+A: 11!=39916800.
+
+Q: What is 3 cubed?
+A: 3 cubed is 27.
+
+Q: Is 24 a prime number?
+A: No, 24 is not a prime number.
+
+Q: What is 32 cubed?
+A: 32 cubed is 32768.
+
+Q: Is 4 a prime number?
+A: No, 4 is not a prime number.
+
+Q: What is 8 squared?
+A: 8 squared is 64.
+
+Q: What is 70% of 500?
+A: 70% of 500 is 350.
+
+Q: Is 21 even or odd?
+A: 21 is odd.
+
+Q: Is 23 even or odd?
+A: 23 is odd.
+
+Q: What is the square root of 625?
+A: The square root of 625 is 25.
+
+Q: What is the square root of 1089?
+A: The square root of 1089 is 33.
+
+Q: What is 89*89?
+A: 89*89=7921.
+
+Q: Is 16 even or odd?
+A: 16 is even.
+
+Q: What is 2 to the power of 11?
+A: 2 to the power of 11 is 2048.
+
+Q: What is 70% of 50?
+A: 70% of 50 is 35.
+
+Q: What is the 19th Fibonacci number?
+A: The 19th Fibonacci number is 2584.
+
+Q: What is 25% of 500?
+A: 25% of 500 is 125.
+
+Q: Is 21 even or odd?
+A: 21 is odd.
+
+Q: What is 60 squared?
+A: 60 squared is 3600.
+
+Q: What is 2 to the power of 17?
+A: 2 to the power of 17 is 131072.
+
+Q: What is 7!?
+A: 7!=5040.
+
+Q: What is 10 to the power of 3?
+A: 10 to the power of 3 is 1000.
+
+Q: Is 32 even or odd?
+A: 32 is even.
+
+Q: What is 40 cubed?
+A: 40 cubed is 64000.
+
+Q: What is 91 squared?
+A: 91 squared is 8281.
+
+Q: What is 64 squared?
+A: 64 squared is 4096.
+
+Q: What is 24 squared?
+A: 24 squared is 576.
+
+Q: What is the square root of 3969?
+A: The square root of 3969 is 63.
+
+Q: Is 43 a prime number?
+A: Yes, 43 is a prime number.
+
+Q: What is 40% of 1000?
+A: 40% of 1000 is 400.
+
+Q: Is 83 even or odd?
+A: 83 is odd.
+
+Q: Is 73 a prime number?
+A: Yes, 73 is a prime number.
+
+Q: Is 60 even or odd?
+A: 60 is even.
+
+Q: Is 101 a prime number?
+A: Yes, 101 is a prime number.
+
+Q: What is 36*36?
+A: 36*36=1296.
+
+Q: Is 157 a prime number?
+A: Yes, 157 is a prime number.
+
+Q: What is 98 squared?
+A: 98 squared is 9604.
+
+Q: What is 18 cubed?
+A: 18 cubed is 5832.
+
+Q: Is 66 even or odd?
+A: 66 is even.
+
+Q: What is 11 cubed?
+A: 11 cubed is 1331.
+
+Q: What is 2 to the power of 3?
+A: 2 to the power of 3 is 8.
+
+Q: What is 67*67?
+A: 67*67=4489.
+
+Q: What is 74 squared?
+A: 74 squared is 5476.
+
+Q: What is the 1th Fibonacci number?
+A: The 1th Fibonacci number is 0.
+
+Q: Is 19 a prime number?
+A: Yes, 19 is a prime number.
+
+Q: What is 17 squared?
+A: 17 squared is 289.
+
+Q: What is the square root of 6241?
+A: The square root of 6241 is 79.
+
+Q: What is 75 squared?
+A: 75 squared is 5625.
+
+Q: What is the square root of 4356?
+A: The square root of 4356 is 66.
+
+Q: What is the square root of 9801?
+A: The square root of 9801 is 99.
+
+Q: Is 167 a prime number?
+A: Yes, 167 is a prime number.
+
+Q: What is 90% of 500?
+A: 90% of 500 is 450.
+
+Q: What is 24 squared?
+A: 24 squared is 576.
+
+Q: Is 21 a prime number?
+A: No, 21 is not a prime number.
+
+Q: What is the square root of 81?
+A: The square root of 81 is 9.
+
+Q: What is 89 squared?
+A: 89 squared is 7921.
+
+Q: Is 25 even or odd?
+A: 25 is odd.
+
+Q: What is the square root of 1764?
+A: The square root of 1764 is 42.
+
+Q: Is 61 a prime number?
+A: Yes, 61 is a prime number.
+
+Q: What is the square root of 144?
+A: The square root of 144 is 12.
+
+Q: What is 11 squared?
+A: 11 squared is 121.
+
+Q: What is 94 squared?
+A: 94 squared is 8836.
+
+Q: Is 42 even or odd?
+A: 42 is even.
+
+Q: What is 26 cubed?
+A: 26 cubed is 17576.
+
+Q: What is the square root of 3364?
+A: The square root of 3364 is 58.
+
+Q: What is 26 cubed?
+A: 26 cubed is 17576.
+
+Q: What is 80% of 500?
+A: 80% of 500 is 400.
+
+Q: What is 33 cubed?
+A: 33 cubed is 35937.
+
+Q: What is 41 cubed?
+A: 41 cubed is 68921.
+
+Q: Is 52 even or odd?
+A: 52 is even.
+
+Q: What is 52*52?
+A: 52*52=2704.
+
+Q: What is 90% of 1000?
+A: 90% of 1000 is 900.
+
+Q: What is 30% of 50?
+A: 30% of 50 is 15.
+
+Q: What is the square root of 3249?
+A: The square root of 3249 is 57.
+
+Q: What is 65*65?
+A: 65*65=4225.
+
+Q: What is the square root of 3844?
+A: The square root of 3844 is 62.
+
+Q: What is 65*65?
+A: 65*65=4225.
+
+Q: What is 10% of 500?
+A: 10% of 500 is 50.
+
+Q: Is 91 even or odd?
+A: 91 is odd.
+
+Q: Is 67 even or odd?
+A: 67 is odd.
+
+Q: What is 2 to the power of 18?
+A: 2 to the power of 18 is 262144.
+
+Q: What is 2 to the power of 5?
+A: 2 to the power of 5 is 32.
+
+Q: What is 39 cubed?
+A: 39 cubed is 59319.
+
+Q: Is 34 even or odd?
+A: 34 is even.
+
+Q: Is 89 even or odd?
+A: 89 is odd.
+
+Q: What is 92 squared?
+A: 92 squared is 8464.
+
+Q: What is 34*34?
+A: 34*34=1156.
+
+Q: Is 4 a prime number?
+A: No, 4 is not a prime number.
+
+Q: What is the square root of 1156?
+A: The square root of 1156 is 34.
+
+Q: Is 74 even or odd?
+A: 74 is even.
+
+Q: What is the square root of 576?
+A: The square root of 576 is 24.
+
+Q: What is the square root of 1225?
+A: The square root of 1225 is 35.
+
+Q: What is the square root of 16?
+A: The square root of 16 is 4.
+
+Q: What is 2 to the power of 18?
+A: 2 to the power of 18 is 262144.
+
+Q: What is 36*36?
+A: 36*36=1296.
+
+Q: What is 14*14?
+A: 14*14=196.
+
+Q: Is 167 a prime number?
+A: Yes, 167 is a prime number.
+
+Q: What is 40% of 100?
+A: 40% of 100 is 40.
+
+Q: What is 50% of 200?
+A: 50% of 200 is 100.
+
+Q: Is 83 a prime number?
+A: Yes, 83 is a prime number.
+
+Q: Is 12 a prime number?
+A: No, 12 is not a prime number.
+
+Q: What is 8 squared?
+A: 8 squared is 64.
+
+Q: What is 7*7?
+A: 7*7=49.
+
+Q: What is 61 squared?
+A: 61 squared is 3721.
+
+Q: What is the square root of 2601?
+A: The square root of 2601 is 51.
+
+Q: What is 25% of 50?
+A: 25% of 50 is 12.
+
+Q: What is 87 squared?
+A: 87 squared is 7569.
+
+Q: Is 94 even or odd?
+A: 94 is even.
+
+Q: What is 34 squared?
+A: 34 squared is 1156.
+
+Q: What is 80% of 50?
+A: 80% of 50 is 40.
+
+Q: Is 64 even or odd?
+A: 64 is even.
+
+Q: Is 47 a prime number?
+A: Yes, 47 is a prime number.
+
+Q: What is 70% of 200?
+A: 70% of 200 is 140.
+
+Q: Is 65 even or odd?
+A: 65 is odd.
+
+Q: What is 48*48?
+A: 48*48=2304.
+
+Q: What is 2 to the power of 2?
+A: 2 to the power of 2 is 4.
+
+Q: What is 7 factorial?
+A: 7 factorial is 5040.
+
+Q: Is 87 even or odd?
+A: 87 is odd.
+
+Q: What is 12 cubed?
+A: 12 cubed is 1728.
+
+Q: What is 54*54?
+A: 54*54=2916.
+
+Q: What is 80% of 100?
+A: 80% of 100 is 80.
+
+Q: Is 157 a prime number?
+A: Yes, 157 is a prime number.
+
+Q: What is the 11th Fibonacci number?
+A: The 11th Fibonacci number is 55.
+
+Q: What is the square root of 4900?
+A: The square root of 4900 is 70.
+
+Q: What is the square root of 10000?
+A: The square root of 10000 is 100.
+
+Q: Is 27 even or odd?
+A: 27 is odd.
+
+Q: Is 43 even or odd?
+A: 43 is odd.
+
+Q: What is 75% of 1000?
+A: 75% of 1000 is 750.
+
+Q: What is 86 squared?
+A: 86 squared is 7396.
+
+Q: Is 40 even or odd?
+A: 40 is even.
+
+Q: Is 30 even or odd?
+A: 30 is even.
+
+Q: What is 12 factorial?
+A: 12 factorial is 479001600.
+
+Q: Is 79 even or odd?
+A: 79 is odd.
+
+Q: Is 29 a prime number?
+A: Yes, 29 is a prime number.
+
+Q: What is 4 squared?
+A: 4 squared is 16.
+
+Q: What is 47 squared?
+A: 47 squared is 2209.
+
+Q: What is 71 squared?
+A: 71 squared is 5041.
+
+Q: Is 197 a prime number?
+A: Yes, 197 is a prime number.
+
+Q: Is 8 a prime number?
+A: No, 8 is not a prime number.
+
+Q: What is 93 squared?
+A: 93 squared is 8649.
+
+Q: Is 23 a prime number?
+A: Yes, 23 is a prime number.
+
+Q: What is the square root of 3025?
+A: The square root of 3025 is 55.
+
+Q: Is 14 a prime number?
+A: No, 14 is not a prime number.
+
+Q: Is 67 a prime number?
+A: Yes, 67 is a prime number.
+
+Q: What is the square root of 10000?
+A: The square root of 10000 is 100.
+
+Q: Is 36 a prime number?
+A: No, 36 is not a prime number.
+
+Q: What is the square root of 8100?
+A: The square root of 8100 is 90.
+
+Q: What is the square root of 2916?
+A: The square root of 2916 is 54.
+
+Q: Is 22 even or odd?
+A: 22 is even.
+
+Q: What is 60% of 50?
+A: 60% of 50 is 30.
+
+Q: What is 81 squared?
+A: 81 squared is 6561.
+
+Q: What is the square root of 25?
+A: The square root of 25 is 5.
+
+Q: What is the square root of 6241?
+A: The square root of 6241 is 79.
+
+Q: What is 30% of 50?
+A: 30% of 50 is 15.
+
+Q: What is 4 squared?
+A: 4 squared is 16.
+
+Q: What is 94*94?
+A: 94*94=8836.
+
+Q: What is 3 cubed?
+A: 3 cubed is 27.
+
+Q: What is 39 squared?
+A: 39 squared is 1521.
+
+Q: Is 96 even or odd?
+A: 96 is even.
+
+Q: What is 69 squared?
+A: 69 squared is 4761.
+
+Q: What is the square root of 196?
+A: The square root of 196 is 14.
+
+Q: What is 36 squared?
+A: 36 squared is 1296.
+
+Q: What is 5*5?
+A: 5*5=25.
+
+Q: What is 43 squared?
+A: 43 squared is 1849.
+
+Q: What is the square root of 4?
+A: The square root of 4 is 2.
+
+Q: What is 2 to the power of 5?
+A: 2 to the power of 5 is 32.
+
+Q: What is 34 cubed?
+A: 34 cubed is 39304.
+
+Q: Is 92 even or odd?
+A: 92 is even.
+
+Q: What is the square root of 2304?
+A: The square root of 2304 is 48.
+
+Q: Is 26 even or odd?
+A: 26 is even.
+
+Q: Is 46 even or odd?
+A: 46 is even.
+
+Q: What is 30% of 50?
+A: 30% of 50 is 15.
+
+Q: What is 25 cubed?
+A: 25 cubed is 15625.
+
+Q: What is the square root of 400?
+A: The square root of 400 is 20.
+
+Q: What is the square root of 1521?
+A: The square root of 1521 is 39.
+
+Q: What is 57 squared?
+A: 57 squared is 3249.
+
+Q: What is the 12th Fibonacci number?
+A: The 12th Fibonacci number is 89.
+
+Q: Is 16 even or odd?
+A: 16 is even.
+
+Q: What is 75% of 100?
+A: 75% of 100 is 75.
+
+Q: What is 24 cubed?
+A: 24 cubed is 13824.
+
+Q: What is 7 cubed?
+A: 7 cubed is 343.
+
+Q: Is 42 even or odd?
+A: 42 is even.
+
+Q: What is 99 squared?
+A: 99 squared is 9801.
+
+Q: Is 27 a prime number?
+A: No, 27 is not a prime number.
+
+Q: What is 3 squared?
+A: 3 squared is 9.
+
+Q: What is 10 to the power of 4?
+A: 10 to the power of 4 is 10000.
+
+Q: What is the 18th Fibonacci number?
+A: The 18th Fibonacci number is 1597.
+
+Q: What is the square root of 3600?
+A: The square root of 3600 is 60.
+
+Q: Is 17 a prime number?
+A: Yes, 17 is a prime number.
+
+Q: What is the square root of 8649?
+A: The square root of 8649 is 93.
+
+Q: What is 9*9?
+A: 9*9=81.
+
+Q: What is 25 squared?
+A: 25 squared is 625.
+
+Q: Is 56 even or odd?
+A: 56 is even.
+
+Q: What is the square root of 5625?
+A: The square root of 5625 is 75.
+
+Q: What is 71*71?
+A: 71*71=5041.
+
+Q: Is 5 even or odd?
+A: 5 is odd.
+
+Q: What is 1 factorial?
+A: 1 factorial is 1.
+
+Q: Is 13 a prime number?
+A: Yes, 13 is a prime number.
+
+Q: What is the square root of 169?
+A: The square root of 169 is 13.
+
+Q: What is 76 squared?
+A: 76 squared is 5776.
+
+Q: What is 5 cubed?
+A: 5 cubed is 125.
+
+Q: What is the square root of 1444?
+A: The square root of 1444 is 38.
+
+Q: What is the square root of 8649?
+A: The square root of 8649 is 93.
+
+Q: Is 33 even or odd?
+A: 33 is odd.
+
+Q: What is 90*90?
+A: 90*90=8100.
+
+Q: Is 28 even or odd?
+A: 28 is even.
+
+Q: What is 5 squared?
+A: 5 squared is 25.
+
+Q: What is the square root of 6561?
+A: The square root of 6561 is 81.
+
+Q: What is 31*31?
+A: 31*31=961.
+
+Q: What is the 10th Fibonacci number?
+A: The 10th Fibonacci number is 34.
+
+Q: Is 59 a prime number?
+A: Yes, 59 is a prime number.
+
+Q: What is 53*53?
+A: 53*53=2809.
+
+Q: What is 30 cubed?
+A: 30 cubed is 27000.
+
+Q: What is 40% of 50?
+A: 40% of 50 is 20.
+
+Q: What is 14 squared?
+A: 14 squared is 196.
+
+Q: Is 151 a prime number?
+A: Yes, 151 is a prime number.
+
+Q: What is 2 to the power of 19?
+A: 2 to the power of 19 is 524288.
+
+Q: What is 91 squared?
+A: 91 squared is 8281.
+
+Q: What is the square root of 3481?
+A: The square root of 3481 is 59.
+
+Q: What is the square root of 961?
+A: The square root of 961 is 31.
+
+Q: What is 38*38?
+A: 38*38=1444.
+
+Q: Is 74 even or odd?
+A: 74 is even.
+
+Q: What is 46*46?
+A: 46*46=2116.
+
+Q: What is 49*49?
+A: 49*49=2401.
+
+Q: What is 58 squared?
+A: 58 squared is 3364.
+
+Q: What is 8!?
+A: 8!=40320.
+
+Q: What is 2!?
+A: 2!=2.
+
+Q: Is 191 a prime number?
+A: Yes, 191 is a prime number.
+
+Q: What is 2 to the power of 11?
+A: 2 to the power of 11 is 2048.
+
+Q: What is 97 squared?
+A: 97 squared is 9409.
+
+Q: What is 10 to the power of 10?
+A: 10 to the power of 10 is 10000000000.
+
+Q: What is 10 to the power of 1?
+A: 10 to the power of 1 is 10.
+
+Q: What is 57*57?
+A: 57*57=3249.
+
+Q: What is 100 squared?
+A: 100 squared is 10000.
+
+Q: What is 74*74?
+A: 74*74=5476.
+
+Q: What is 37 squared?
+A: 37 squared is 1369.
+
+Q: What is 29 squared?
+A: 29 squared is 841.
+
+Q: What is 70*70?
+A: 70*70=4900.
+
+Q: What is the square root of 8464?
+A: The square root of 8464 is 92.
+
+Q: What is 27*27?
+A: 27*27=729.
+
+Q: What is 25*25?
+A: 25*25=625.
+
+Q: What is the square root of 36?
+A: The square root of 36 is 6.
+
+Q: What is 14*14?
+A: 14*14=196.
+
+Q: What is 72 squared?
+A: 72 squared is 5184.
+
+Q: What is 47*47?
+A: 47*47=2209.
+
+Q: Is 77 even or odd?
+A: 77 is odd.
+
+Q: What is 2 to the power of 1?
+A: 2 to the power of 1 is 2.
+
+Q: What is the square root of 9604?
+A: The square root of 9604 is 98.
+
+Q: What is the square root of 2025?
+A: The square root of 2025 is 45.
+
+Q: What is 10 to the power of 2?
+A: 10 to the power of 2 is 100.
+
+Q: What is 38 squared?
+A: 38 squared is 1444.
+
+Q: What is 32 squared?
+A: 32 squared is 1024.
+
+Q: What is 61 squared?
+A: 61 squared is 3721.
+
+Q: What is the square root of 1296?
+A: The square root of 1296 is 36.
+
+Q: Is 42 even or odd?
+A: 42 is even.
+
+Q: What is 43 cubed?
+A: 43 cubed is 79507.
+
+Q: What is 5 factorial?
+A: 5 factorial is 120.
+
+Q: What is 26 squared?
+A: 26 squared is 676.
+
+Q: What is the square root of 7744?
+A: The square root of 7744 is 88.
+
+Q: What is the square root of 2401?
+A: The square root of 2401 is 49.
+
+Q: What is 30% of 100?
+A: 30% of 100 is 30.
+
+Q: What is 25% of 100?
+A: 25% of 100 is 25.
+
+Q: Is 52 even or odd?
+A: 52 is even.
+
+Q: What is 2 to the power of 10?
+A: 2 to the power of 10 is 1024.
+
+Q: What is 100*100?
+A: 100*100=10000.
+
+Q: Is 7 a prime number?
+A: Yes, 7 is a prime number.
+
+Q: Is 55 even or odd?
+A: 55 is odd.
+
+Q: What is the square root of 3481?
+A: The square root of 3481 is 59.
+
+Q: What is 29*29?
+A: 29*29=841.
+
+Q: Is 29 even or odd?
+A: 29 is odd.
+
+Q: Is 30 even or odd?
+A: 30 is even.
+
+Q: What is the square root of 49?
+A: The square root of 49 is 7.
+
+Q: What is 2*2?
+A: 2*2=4.
+
+Q: What is the square root of 5329?
+A: The square root of 5329 is 73.
+
+Q: What is 3!?
+A: 3!=6.
+
+Q: Is 94 even or odd?
+A: 94 is even.
+
+Q: What is 17 cubed?
+A: 17 cubed is 4913.
+
+Q: Is 65 even or odd?
+A: 65 is odd.
+
+Q: What is 70% of 50?
+A: 70% of 50 is 35.
+
+Q: What is 48*48?
+A: 48*48=2304.
+
+Q: What is 11!?
+A: 11!=39916800.
+
+Q: What is the square root of 4900?
+A: The square root of 4900 is 70.
+
+Q: Is 41 even or odd?
+A: 41 is odd.
+
+Q: What is 74*74?
+A: 74*74=5476.
+
+Q: What is 10% of 100?
+A: 10% of 100 is 10.
+
+Q: What is 38 squared?
+A: 38 squared is 1444.
+
+Q: What is 8*8?
+A: 8*8=64.
+
+Q: What is 60 squared?
+A: 60 squared is 3600.
+
+Q: Is 44 even or odd?
+A: 44 is even.
+
+Q: What is 27*27?
+A: 27*27=729.
+
+Q: Is 19 even or odd?
+A: 19 is odd.
+
+Q: What is the square root of 25?
+A: The square root of 25 is 5.
+
+Q: What is the square root of 36?
+A: The square root of 36 is 6.
+
+Q: What is the square root of 6561?
+A: The square root of 6561 is 81.
+
+Q: What is 41*41?
+A: 41*41=1681.
+
+Q: What is 90% of 500?
+A: 90% of 500 is 450.
+
+Q: What is the square root of 1089?
+A: The square root of 1089 is 33.
+
+Q: What is 70% of 100?
+A: 70% of 100 is 70.
+
+Q: What is 10 to the power of 9?
+A: 10 to the power of 9 is 1000000000.
+
+Q: What is 50*50?
+A: 50*50=2500.
+
+Q: What is 7 factorial?
+A: 7 factorial is 5040.
+
+Q: What is 35*35?
+A: 35*35=1225.
+
+Q: Is 95 even or odd?
+A: 95 is odd.
+
+Q: What is 88 squared?
+A: 88 squared is 7744.
+
+Q: What is the square root of 100?
+A: The square root of 100 is 10.
+
+Q: What is the 11th Fibonacci number?
+A: The 11th Fibonacci number is 55.
+
+Q: What is the square root of 3025?
+A: The square root of 3025 is 55.
+
+Q: What is the square root of 900?
+A: The square root of 900 is 30.
+
+Q: What is 2*2?
+A: 2*2=4.
+
+Q: Is 157 a prime number?
+A: Yes, 157 is a prime number.
+
+Q: What is the 19th Fibonacci number?
+A: The 19th Fibonacci number is 2584.
+
+Q: What is 96 squared?
+A: 96 squared is 9216.
+
+Q: What is 1*1?
+A: 1*1=1.
+
+Q: What is the square root of 8464?
+A: The square root of 8464 is 92.
+
+Q: What is the square root of 64?
+A: The square root of 64 is 8.
+
+Q: What is 38 cubed?
+A: 38 cubed is 54872.
+
+Q: Is 45 even or odd?
+A: 45 is odd.
+
+Q: What is the square root of 676?
+A: The square root of 676 is 26.
+
+Q: What is 42 squared?
+A: 42 squared is 1764.
+
+Q: What is 16 squared?
+A: 16 squared is 256.
+
+Q: Is 60 even or odd?
+A: 60 is even.
+
+Q: What is 9 cubed?
+A: 9 cubed is 729.
+
+Q: What is 14 cubed?
+A: 14 cubed is 2744.
+
+Q: What is 24*24?
+A: 24*24=576.
+
+Q: What is 2 to the power of 6?
+A: 2 to the power of 6 is 64.
+
+Q: What is 82 squared?
+A: 82 squared is 6724.
+
+Q: Is 18 a prime number?
+A: No, 18 is not a prime number.
+
+Q: What is 51*51?
+A: 51*51=2601.
+
+Q: What is the square root of 2116?
+A: The square root of 2116 is 46.
+
+Q: What is the square root of 6241?
+A: The square root of 6241 is 79.
+
+Q: What is 84*84?
+A: 84*84=7056.
+
+Q: What is 16 squared?
+A: 16 squared is 256.
+
+Q: What is the square root of 1156?
+A: The square root of 1156 is 34.
+
+Q: Is 71 a prime number?
+A: Yes, 71 is a prime number.
+
+Q: Is 9 even or odd?
+A: 9 is odd.
+
+Q: What is 48 cubed?
+A: 48 cubed is 110592.
+
+Q: What is the square root of 1600?
+A: The square root of 1600 is 40.
+
+Q: What is 37 cubed?
+A: 37 cubed is 50653.
+
+Q: What is 36 cubed?
+A: 36 cubed is 46656.
+
+Q: What is the 7th Fibonacci number?
+A: The 7th Fibonacci number is 8.
+
+Q: What is 3 cubed?
+A: 3 cubed is 27.
+
+Q: What is 95 squared?
+A: 95 squared is 9025.
+
+Q: What is 10 to the power of 8?
+A: 10 to the power of 8 is 100000000.
+
+Q: Is 31 even or odd?
+A: 31 is odd.
+
+Q: What is the square root of 4900?
+A: The square root of 4900 is 70.
+
+Q: What is 9*9?
+A: 9*9=81.
+
+Q: Is 68 even or odd?
+A: 68 is even.
+
+Q: What is 2 to the power of 6?
+A: 2 to the power of 6 is 64.
+
+Q: What is 8!?
+A: 8!=40320.
+
+Q: What is 46 cubed?
+A: 46 cubed is 97336.
+
+Q: What is 90% of 500?
+A: 90% of 500 is 450.
+
+Q: What is the square root of 9409?
+A: The square root of 9409 is 97.
+
+Q: What is 10 to the power of 10?
+A: 10 to the power of 10 is 10000000000.
+
+Q: What is 40% of 200?
+A: 40% of 200 is 80.
+
+Q: Is 79 even or odd?
+A: 79 is odd.
+
+Q: Is 43 even or odd?
+A: 43 is odd.
+
+Q: What is the square root of 289?
+A: The square root of 289 is 17.
+
+Q: Is 137 a prime number?
+A: Yes, 137 is a prime number.
+
+Q: What is the square root of 5776?
+A: The square root of 5776 is 76.
+
+Q: Is 33 a prime number?
+A: No, 33 is not a prime number.
+
+Q: What is 76*76?
+A: 76*76=5776.
+
+Q: What is 6 cubed?
+A: 6 cubed is 216.
+
+Q: What is 26*26?
+A: 26*26=676.
+
+Q: Is 60 even or odd?
+A: 60 is even.
+
+Q: What is 43 cubed?
+A: 43 cubed is 79507.
+
+Q: Is 75 even or odd?
+A: 75 is odd.
+
+Q: Is 16 a prime number?
+A: No, 16 is not a prime number.
+
+Q: What is 30% of 500?
+A: 30% of 500 is 150.
+
+Q: What is 50 cubed?
+A: 50 cubed is 125000.
+
+Q: Is 179 a prime number?
+A: Yes, 179 is a prime number.
+
+Q: What is the square root of 16?
+A: The square root of 16 is 4.
+
+Q: What is 3 factorial?
+A: 3 factorial is 6.
+
+Q: What is 60*60?
+A: 60*60=3600.
+
+Q: What is 36 squared?
+A: 36 squared is 1296.
+
+Q: What is 77*77?
+A: 77*77=5929.
+
+Q: What is the square root of 3721?
+A: The square root of 3721 is 61.
+
+Q: What is the square root of 3249?
+A: The square root of 3249 is 57.
+
+Q: What is 75% of 50?
+A: 75% of 50 is 37.
+
+Q: What is 18*18?
+A: 18*18=324.
+
+Q: What is 85 squared?
+A: 85 squared is 7225.
+
+Q: What is the 2th Fibonacci number?
+A: The 2th Fibonacci number is 1.
+
+Q: What is the square root of 5329?
+A: The square root of 5329 is 73.
+
+Q: Is 23 a prime number?
+A: Yes, 23 is a prime number.
+
+Q: What is the square root of 4761?
+A: The square root of 4761 is 69.
+
+Q: What is the square root of 1936?
+A: The square root of 1936 is 44.
+
+Q: What is the square root of 961?
+A: The square root of 961 is 31.
+
+Q: What is the square root of 400?
+A: The square root of 400 is 20.
+
+Q: What is 24*24?
+A: 24*24=576.
+
+Q: Is 85 even or odd?
+A: 85 is odd.
+
+Q: What is 65*65?
+A: 65*65=4225.
+
+Q: What is 77*77?
+A: 77*77=5929.
+
+Q: Is 64 even or odd?
+A: 64 is even.
+
+Q: What is 59 squared?
+A: 59 squared is 3481.
+
+Q: Is 12 a prime number?
+A: No, 12 is not a prime number.
+
+Q: What is 81 squared?
+A: 81 squared is 6561.
+
+Q: What is 75% of 500?
+A: 75% of 500 is 375.
+
+Q: What is the square root of 6889?
+A: The square root of 6889 is 83.
+
+Q: Is 97 a prime number?
+A: Yes, 97 is a prime number.
+
+Q: What is 99*99?
+A: 99*99=9801.
+
+Q: Is 84 even or odd?
+A: 84 is even.
+
+Q: What is 9 factorial?
+A: 9 factorial is 362880.
+
+Q: What is 80% of 50?
+A: 80% of 50 is 40.
+
+Q: What is the square root of 8281?
+A: The square root of 8281 is 91.
+
+Q: What is 2 to the power of 12?
+A: 2 to the power of 12 is 4096.
+
+Q: What is 58*58?
+A: 58*58=3364.
+
+Q: Is 27 a prime number?
+A: No, 27 is not a prime number.
+
+Q: What is 10% of 50?
+A: 10% of 50 is 5.
+
+Q: What is 5*5?
+A: 5*5=25.
+
+Q: Is 36 even or odd?
+A: 36 is even.
+
+Q: What is the square root of 5929?
+A: The square root of 5929 is 77.
+
+Q: Is 17 a prime number?
+A: Yes, 17 is a prime number.
+
+Q: What is 62 squared?
+A: 62 squared is 3844.
+
+Q: What is the square root of 289?
+A: The square root of 289 is 17.
+
+Q: Is 163 a prime number?
+A: Yes, 163 is a prime number.
+
+Q: What is 3 factorial?
+A: 3 factorial is 6.
+
+Q: Is 181 a prime number?
+A: Yes, 181 is a prime number.
+
+Q: What is 45 cubed?
+A: 45 cubed is 91125.
+
+Q: What is 94 squared?
+A: 94 squared is 8836.
+
+Q: Is 58 even or odd?
+A: 58 is even.
+
+Q: Is 95 even or odd?
+A: 95 is odd.
+
+Q: What is the square root of 441?
+A: The square root of 441 is 21.
+
+Q: What is 20% of 500?
+A: 20% of 500 is 100.
+
+Q: What is the square root of 4?
+A: The square root of 4 is 2.
+
+Q: Is 1 even or odd?
+A: 1 is odd.
+
+Q: Is 28 even or odd?
+A: 28 is even.
+
+Q: What is 53 squared?
+A: 53 squared is 2809.
+
+Q: What is the square root of 5625?
+A: The square root of 5625 is 75.
+
+Q: What is 8 cubed?
+A: 8 cubed is 512.
+
+Q: What is 69 squared?
+A: 69 squared is 4761.
+
+Q: What is 60% of 200?
+A: 60% of 200 is 120.
+
+Q: What is 25 cubed?
+A: 25 cubed is 15625.
+
+Q: What is 70% of 100?
+A: 70% of 100 is 70.
+
+Q: What is 34 squared?
+A: 34 squared is 1156.
+
+Q: What is 70 squared?
+A: 70 squared is 4900.
+
+Q: What is 6 cubed?
+A: 6 cubed is 216.
+
+Q: Is 53 a prime number?
+A: Yes, 53 is a prime number.
+
+Q: What is 34 cubed?
+A: 34 cubed is 39304.
+
+Q: What is 77*77?
+A: 77*77=5929.
+
+Q: Is 69 even or odd?
+A: 69 is odd.
+
+Q: What is 24 squared?
+A: 24 squared is 576.
+
+Q: What is the square root of 7744?
+A: The square root of 7744 is 88.
+
+Q: What is 11 cubed?
+A: 11 cubed is 1331.
+
+Q: Is 197 a prime number?
+A: Yes, 197 is a prime number.
+
+Q: What is the square root of 7569?
+A: The square root of 7569 is 87.
+
+Q: What is the 13th Fibonacci number?
+A: The 13th Fibonacci number is 144.
+
+Q: What is the square root of 6889?
+A: The square root of 6889 is 83.
+
+Q: What is 13 squared?
+A: 13 squared is 169.
+
+Q: What is 75% of 200?
+A: 75% of 200 is 150.
+
+Q: What is 46*46?
+A: 46*46=2116.
+
+Q: Is 43 a prime number?
+A: Yes, 43 is a prime number.
+
+Q: What is 2 to the power of 8?
+A: 2 to the power of 8 is 256.
+
+Q: Is 113 a prime number?
+A: Yes, 113 is a prime number.
+
+Q: Is 62 even or odd?
+A: 62 is even.
+
+Q: What is the square root of 7225?
+A: The square root of 7225 is 85.
+
+Q: What is the square root of 676?
+A: The square root of 676 is 26.
+
+Q: Is 54 even or odd?
+A: 54 is even.
+
+Q: What is 86*86?
+A: 86*86=7396.
+
+Q: Is 151 a prime number?
+A: Yes, 151 is a prime number.
+
+Q: What is 7 squared?
+A: 7 squared is 49.
+
+Q: What is 21 cubed?
+A: 21 cubed is 9261.
+
+Q: Is 57 even or odd?
+A: 57 is odd.
+
+Q: What is 2 factorial?
+A: 2 factorial is 2.
+
+Q: What is the 13th Fibonacci number?
+A: The 13th Fibonacci number is 144.
+
+Q: What is the square root of 1369?
+A: The square root of 1369 is 37.
+
+Q: What is 7 squared?
+A: 7 squared is 49.
+
+Q: What is 39 cubed?
+A: 39 cubed is 59319.
+
+Q: Is 35 a prime number?
+A: No, 35 is not a prime number.
+
+Q: Is 41 even or odd?
+A: 41 is odd.
+
+Q: What is 75*75?
+A: 75*75=5625.
+
+Q: What is 12!?
+A: 12!=479001600.
+
+Q: Is 179 a prime number?
+A: Yes, 179 is a prime number.
+
+Q: What is 20% of 100?
+A: 20% of 100 is 20.
+
+Q: What is 14 squared?
+A: 14 squared is 196.
+
+Q: What is 25% of 100?
+A: 25% of 100 is 25.
+
+Q: What is 30*30?
+A: 30*30=900.
+
+Q: What is 2 to the power of 15?
+A: 2 to the power of 15 is 32768.
+
+Q: What is 10% of 100?
+A: 10% of 100 is 10.
+
+Q: What is 83 squared?
+A: 83 squared is 6889.
+
+Q: What is 9 squared?
+A: 9 squared is 81.
+
+Q: What is 23 cubed?
+A: 23 cubed is 12167.
+
+Q: What is 63 squared?
+A: 63 squared is 3969.
+
+Q: What is 50% of 200?
+A: 50% of 200 is 100.
+
+Q: What is 2 cubed?
+A: 2 cubed is 8.
+
+Q: What is the square root of 4?
+A: The square root of 4 is 2.
+
+Q: What is 87 squared?
+A: 87 squared is 7569.
+
+Q: What is the square root of 3721?
+A: The square root of 3721 is 61.
+
+Q: What is 96*96?
+A: 96*96=9216.
+
+Q: Is 103 a prime number?
+A: Yes, 103 is a prime number.
+
+Q: What is the square root of 2500?
+A: The square root of 2500 is 50.
+
+Q: What is the 8th Fibonacci number?
+A: The 8th Fibonacci number is 13.
+
+Q: What is 15 squared?
+A: 15 squared is 225.
+
+Q: What is 12 squared?
+A: 12 squared is 144.
+
+Q: What is 97*97?
+A: 97*97=9409.
+
+Q: What is the square root of 4624?
+A: The square root of 4624 is 68.
+
+Q: What is 12 factorial?
+A: 12 factorial is 479001600.
+
+Q: What is 3!?
+A: 3!=6.
+
+Q: What is the square root of 676?
+A: The square root of 676 is 26.
+
+Q: What is 9 cubed?
+A: 9 cubed is 729.
+
+Q: What is 10 factorial?
+A: 10 factorial is 3628800.
+
+Q: What is 36 cubed?
+A: 36 cubed is 46656.
+
+Q: What is 12 squared?
+A: 12 squared is 144.
+
+Q: Is 3 even or odd?
+A: 3 is odd.
+
+Q: What is 67*67?
+A: 67*67=4489.
+
+Q: Is 61 a prime number?
+A: Yes, 61 is a prime number.
+
+Q: What is the square root of 25?
+A: The square root of 25 is 5.
+
+Q: What is 75% of 100?
+A: 75% of 100 is 75.
+
+Q: What is 99*99?
+A: 99*99=9801.
+
+Q: What is 60% of 50?
+A: 60% of 50 is 30.
+
+Q: Is 199 a prime number?
+A: Yes, 199 is a prime number.
+
+Q: What is 70 squared?
+A: 70 squared is 4900.
+
+Q: What is the 7th Fibonacci number?
+A: The 7th Fibonacci number is 8.
+
+Q: What is the square root of 2401?
+A: The square root of 2401 is 49.
+
+Q: Is 80 even or odd?
+A: 80 is even.
+
+Q: What is 20% of 500?
+A: 20% of 500 is 100.
+
+Q: Is 40 even or odd?
+A: 40 is even.
+
+Q: Is 18 even or odd?
+A: 18 is even.
+
+Q: What is 31 cubed?
+A: 31 cubed is 29791.
+
+Q: Is 90 even or odd?
+A: 90 is even.
+
+Q: What is the square root of 5476?
+A: The square root of 5476 is 74.
+
+Q: Is 73 even or odd?
+A: 73 is odd.
+
+Q: Is 79 a prime number?
+A: Yes, 79 is a prime number.
+
+Q: What is 65 squared?
+A: 65 squared is 4225.
+
+Q: Is 14 even or odd?
+A: 14 is even.
+
+Q: What is 100 squared?
+A: 100 squared is 10000.
+
+Q: What is 25% of 100?
+A: 25% of 100 is 25.
+
+Q: What is 3*3?
+A: 3*3=9.
+
+Q: What is 46 cubed?
+A: 46 cubed is 97336.
+
+Q: Is 61 even or odd?
+A: 61 is odd.
+
+Q: What is 21 squared?
+A: 21 squared is 441.
+
+Q: What is 12*12?
+A: 12*12=144.
+
+Q: What is 60% of 1000?
+A: 60% of 1000 is 600.
+
+Q: Is 50 even or odd?
+A: 50 is even.
+
+Q: What is the square root of 2916?
+A: The square root of 2916 is 54.
+
+Q: What is 75% of 200?
+A: 75% of 200 is 150.
+
+Q: What is the 21th Fibonacci number?
+A: The 21th Fibonacci number is 6765.
+
+Q: What is 2 to the power of 5?
+A: 2 to the power of 5 is 32.
+
+Q: What is 96 squared?
+A: 96 squared is 9216.
+
+Q: Is 28 a prime number?
+A: No, 28 is not a prime number.
+
+Q: What is 30*30?
+A: 30*30=900.
+
+Q: What is the 21th Fibonacci number?
+A: The 21th Fibonacci number is 6765.
+
+Q: Is 1 even or odd?
+A: 1 is odd.
+
+Q: Is 47 a prime number?
+A: Yes, 47 is a prime number.
+
+Q: What is 2 to the power of 16?
+A: 2 to the power of 16 is 65536.
+
+Q: Is 25 even or odd?
+A: 25 is odd.
+
+Q: What is 55 squared?
+A: 55 squared is 3025.
+
+Q: What is 10 to the power of 1?
+A: 10 to the power of 1 is 10.
+
+Q: Is 71 a prime number?
+A: Yes, 71 is a prime number.
+
+Q: Is 69 even or odd?
+A: 69 is odd.
+
+Q: Is 31 a prime number?
+A: Yes, 31 is a prime number.
+
+Q: What is 40% of 500?
+A: 40% of 500 is 200.
+
+Q: What is 57*57?
+A: 57*57=3249.
+
+Q: What is 10 to the power of 5?
+A: 10 to the power of 5 is 100000.
+
+Q: What is 10 to the power of 4?
+A: 10 to the power of 4 is 10000.
+
+Q: What is 13 cubed?
+A: 13 cubed is 2197.
+
+Q: Is 34 even or odd?
+A: 34 is even.
+
+Q: What is the 11th Fibonacci number?
+A: The 11th Fibonacci number is 55.
+
+Q: What is 17*17?
+A: 17*17=289.
+
+Q: Is 81 even or odd?
+A: 81 is odd.
+
+Q: What is 29 squared?
+A: 29 squared is 841.
+
+Q: What is 10 to the power of 7?
+A: 10 to the power of 7 is 10000000.
+
+Q: What is the square root of 2304?
+A: The square root of 2304 is 48.
+
+Q: What is 69*69?
+A: 69*69=4761.
+
+Q: What is the square root of 5041?
+A: The square root of 5041 is 71.
+
+Q: What is 59*59?
+A: 59*59=3481.
+
+Q: What is 40 cubed?
+A: 40 cubed is 64000.
+
+Q: Is 97 even or odd?
+A: 97 is odd.
+
+Q: What is 6*6?
+A: 6*6=36.
+
+Q: What is 70% of 100?
+A: 70% of 100 is 70.
+
+Q: What is 97 squared?
+A: 97 squared is 9409.
+
+Q: What is 60*60?
+A: 60*60=3600.
+
+Q: What is 2*2?
+A: 2*2=4.
+
+Q: Is 32 even or odd?
+A: 32 is even.
+
+Q: What is 93 squared?
+A: 93 squared is 8649.
+
+Q: What is 26*26?
+A: 26*26=676.
+
+Q: Is 70 even or odd?
+A: 70 is even.
+
+Q: What is 30% of 100?
+A: 30% of 100 is 30.
+
+Q: What is 93*93?
+A: 93*93=8649.
+
+Q: What is 64*64?
+A: 64*64=4096.
+
+Q: What is 53*53?
+A: 53*53=2809.
+
+Q: Is 181 a prime number?
+A: Yes, 181 is a prime number.
+
+Q: Is 83 a prime number?
+A: Yes, 83 is a prime number.
+
+Q: What is 25% of 1000?
+A: 25% of 1000 is 250.
+
+Q: What is 59 squared?
+A: 59 squared is 3481.
+
+Q: What is 29*29?
+A: 29*29=841.
+
+Q: What is 90% of 200?
+A: 90% of 200 is 180.
+
+Q: What is the square root of 36?
+A: The square root of 36 is 6.
+
+Q: What is 67*67?
+A: 67*67=4489.
+
+Q: Is 2 a prime number?
+A: Yes, 2 is a prime number.
+
+Q: What is 46 squared?
+A: 46 squared is 2116.
+
+Q: Is 79 a prime number?
+A: Yes, 79 is a prime number.
+
+Q: What is the square root of 529?
+A: The square root of 529 is 23.
+
+Q: What is the square root of 8100?
+A: The square root of 8100 is 90.
+
+Q: What is 33 cubed?
+A: 33 cubed is 35937.
+
+Q: Is 18 a prime number?
+A: No, 18 is not a prime number.
+
+Q: Is 90 even or odd?
+A: 90 is even.
+
+Q: What is 61*61?
+A: 61*61=3721.
+
+Q: What is 20 cubed?
+A: 20 cubed is 8000.
+
+Q: What is the square root of 5476?
+A: The square root of 5476 is 74.
+
+Q: What is 25% of 500?
+A: 25% of 500 is 125.
+
+Q: What is 75 squared?
+A: 75 squared is 5625.
+
+Q: What is 65*65?
+A: 65*65=4225.
+
+Q: Is 26 even or odd?
+A: 26 is even.
+
+Q: What is 41 cubed?
+A: 41 cubed is 68921.
+
+Q: What is the square root of 4096?
+A: The square root of 4096 is 64.
+
+Q: What is 1!?
+A: 1!=1.
+
+Q: Is 11 even or odd?
+A: 11 is odd.
+
+Q: What is 92*92?
+A: 92*92=8464.
+
+Q: What is the 12th Fibonacci number?
+A: The 12th Fibonacci number is 89.
+
+Q: What is the square root of 7056?
+A: The square root of 7056 is 84.
+
+Q: What is 14 squared?
+A: 14 squared is 196.
+
+Q: What is 47 cubed?
+A: 47 cubed is 103823.
+
+Q: What is 75% of 50?
+A: 75% of 50 is 37.
+
+Q: What is 15 squared?
+A: 15 squared is 225.
+
+Q: What is 46*46?
+A: 46*46=2116.
+
+Q: Is 173 a prime number?
+A: Yes, 173 is a prime number.
+
+Q: What is 97 squared?
+A: 97 squared is 9409.
+
+Q: What is 2 to the power of 8?
+A: 2 to the power of 8 is 256.
+
+Q: What is 58 squared?
+A: 58 squared is 3364.
+
+Q: Is 23 a prime number?
+A: Yes, 23 is a prime number.
+
+Q: What is the square root of 1024?
+A: The square root of 1024 is 32.
+
+Q: What is 49*49?
+A: 49*49=2401.
+
+Q: What is 51*51?
+A: 51*51=2601.
+
+Q: Is 33 a prime number?
+A: No, 33 is not a prime number.
+
+Q: What is the square root of 9604?
+A: The square root of 9604 is 98.
+
+Q: What is 66*66?
+A: 66*66=4356.
+
+Q: What is 23*23?
+A: 23*23=529.
+
+Q: Is 72 even or odd?
+A: 72 is even.
+
+Q: Is 83 even or odd?
+A: 83 is odd.
+
+Q: Is 103 a prime number?
+A: Yes, 103 is a prime number.
+
+Q: Is 53 a prime number?
+A: Yes, 53 is a prime number.
+
+Q: What is 8 cubed?
+A: 8 cubed is 512.
+
+Q: Is 193 a prime number?
+A: Yes, 193 is a prime number.
+
+Q: What is 12!?
+A: 12!=479001600.
+
+Q: What is 64*64?
+A: 64*64=4096.
+
+Q: What is the square root of 144?
+A: The square root of 144 is 12.
+
+Q: What is the 16th Fibonacci number?
+A: The 16th Fibonacci number is 610.
+
+Q: What is the square root of 9604?
+A: The square root of 9604 is 98.
+
+Q: What is the 7th Fibonacci number?
+A: The 7th Fibonacci number is 8.
+
+Q: What is 46 cubed?
+A: 46 cubed is 97336.
+
+Q: What is 80% of 500?
+A: 80% of 500 is 400.
+
+Q: What is 2!?
+A: 2!=2.
+
+Q: What is 87 squared?
+A: 87 squared is 7569.
+
+Q: What is 11 squared?
+A: 11 squared is 121.
+
+Q: What is 67 squared?
+A: 67 squared is 4489.
+
+Q: Is 70 even or odd?
+A: 70 is even.
+
+Q: What is 51 squared?
+A: 51 squared is 2601.
+
+Q: What is 92 squared?
+A: 92 squared is 8464.
+
+Q: What is 77 squared?
+A: 77 squared is 5929.
+
+Q: Is 21 a prime number?
+A: No, 21 is not a prime number.
+
+Q: What is the square root of 1764?
+A: The square root of 1764 is 42.
+
+Q: What is 41 cubed?
+A: 41 cubed is 68921.
+
+Q: What is 87 squared?
+A: 87 squared is 7569.
+
+Q: What is 30 squared?
+A: 30 squared is 900.
+
+Q: What is 17*17?
+A: 17*17=289.
+
+Q: Is 68 even or odd?
+A: 68 is even.
+
+Q: Is 15 even or odd?
+A: 15 is odd.
+
+Q: What is 74*74?
+A: 74*74=5476.
+
+Q: What is the 15th Fibonacci number?
+A: The 15th Fibonacci number is 377.
+
+Q: What is the square root of 4489?
+A: The square root of 4489 is 67.
+
+Q: What is 60% of 500?
+A: 60% of 500 is 300.
+
+Q: What is 16*16?
+A: 16*16=256.
+
+Q: Is 17 even or odd?
+A: 17 is odd.
+
+Q: Is 10 a prime number?
+A: No, 10 is not a prime number.
+
+Q: What is 27*27?
+A: 27*27=729.
+
+Q: What is 35 cubed?
+A: 35 cubed is 42875.
+
+Q: What is 95*95?
+A: 95*95=9025.
+
+Q: What is 20% of 500?
+A: 20% of 500 is 100.
+
+Q: What is 38 squared?
+A: 38 squared is 1444.
+
+Q: What is the square root of 361?
+A: The square root of 361 is 19.
+
+Q: What is 10 to the power of 7?
+A: 10 to the power of 7 is 10000000.
+
+Q: What is the 4th Fibonacci number?
+A: The 4th Fibonacci number is 2.
+
+Q: What is the square root of 6400?
+A: The square root of 6400 is 80.
+
+Q: What is the 8th Fibonacci number?
+A: The 8th Fibonacci number is 13.
+
+Q: Is 13 even or odd?
+A: 13 is odd.
+
+Q: What is 98*98?
+A: 98*98=9604.
+
+Q: What is 99 squared?
+A: 99 squared is 9801.
+
+Q: What is 10 factorial?
+A: 10 factorial is 3628800.
+
+Q: What is 63 squared?
+A: 63 squared is 3969.
+
+Q: What is 76 squared?
+A: 76 squared is 5776.
+
+Q: What is the square root of 8836?
+A: The square root of 8836 is 94.
+
+Q: What is 83*83?
+A: 83*83=6889.
+
+Q: What is the square root of 9025?
+A: The square root of 9025 is 95.
+
+Q: Is 36 a prime number?
+A: No, 36 is not a prime number.
+
+Q: Is 28 even or odd?
+A: 28 is even.
+
+Q: Is 29 even or odd?
+A: 29 is odd.
+
+Q: Is 18 a prime number?
+A: No, 18 is not a prime number.
+
+Q: What is 66 squared?
+A: 66 squared is 4356.
+
+Q: Is 21 a prime number?
+A: No, 21 is not a prime number.
+
+Q: What is 14*14?
+A: 14*14=196.
+
+Q: What is 45 squared?
+A: 45 squared is 2025.
+
+Q: What is 80% of 1000?
+A: 80% of 1000 is 800.
+
+Q: What is the square root of 4356?
+A: The square root of 4356 is 66.
+
+Q: What is 71*71?
+A: 71*71=5041.
+
+Q: Is 43 even or odd?
+A: 43 is odd.
+
+Q: Is 73 even or odd?
+A: 73 is odd.
+
+Q: Is 20 a prime number?
+A: No, 20 is not a prime number.
+
+Q: What is the square root of 1?
+A: The square root of 1 is 1.
+
+Q: Is 30 a prime number?
+A: No, 30 is not a prime number.
+
+Q: Is 71 even or odd?
+A: 71 is odd.
+
+Q: What is 65 squared?
+A: 65 squared is 4225.
+
+Q: What is 1 cubed?
+A: 1 cubed is 1.
+
+Q: What is 2 cubed?
+A: 2 cubed is 8.
+
+Q: What is the square root of 441?
+A: The square root of 441 is 21.
+
+Q: What is 39 squared?
+A: 39 squared is 1521.
+
+Q: Is 88 even or odd?
+A: 88 is even.
+
+Q: Is 181 a prime number?
+A: Yes, 181 is a prime number.
+
+Q: Is 56 even or odd?
+A: 56 is even.
+
+Q: What is the 2th Fibonacci number?
+A: The 2th Fibonacci number is 1.
+
+Q: What is 30% of 500?
+A: 30% of 500 is 150.
+
+Q: What is 18*18?
+A: 18*18=324.
+
+Q: What is the square root of 8836?
+A: The square root of 8836 is 94.
+
+Q: What is 52 squared?
+A: 52 squared is 2704.
+
+Q: What is 23 cubed?
+A: 23 cubed is 12167.
+
+Q: What is 51*51?
+A: 51*51=2601.
+
+Q: Is 58 even or odd?
+A: 58 is even.
+
+Q: Is 7 even or odd?
+A: 7 is odd.
+
+Q: What is 75% of 50?
+A: 75% of 50 is 37.
+
+Q: What is 8*8?
+A: 8*8=64.
+
+Q: What is 6!?
+A: 6!=720.
+
+Q: Is 41 a prime number?
+A: Yes, 41 is a prime number.
+
+Q: What is the 21th Fibonacci number?
+A: The 21th Fibonacci number is 6765.
+
+Q: Is 71 a prime number?
+A: Yes, 71 is a prime number.
+
+Q: What is 54*54?
+A: 54*54=2916.
+
+Q: What is 51*51?
+A: 51*51=2601.
+
+Q: What is the square root of 2916?
+A: The square root of 2916 is 54.
+
+Q: What is the 15th Fibonacci number?
+A: The 15th Fibonacci number is 377.
+
+Q: What is 93*93?
+A: 93*93=8649.
+
+Q: What is 33 cubed?
+A: 33 cubed is 35937.
+
+Q: What is 7 cubed?
+A: 7 cubed is 343.
+
+Q: What is 87*87?
+A: 87*87=7569.
+
+Q: What is the square root of 784?
+A: The square root of 784 is 28.
+
+Q: Is 27 even or odd?
+A: 27 is odd.
+
+Q: Is 71 even or odd?
+A: 71 is odd.
+
+Q: What is 13*13?
+A: 13*13=169.
+
+Q: Is 1 even or odd?
+A: 1 is odd.
+
+Q: What is 25 squared?
+A: 25 squared is 625.
+
+Q: Is 25 a prime number?
+A: No, 25 is not a prime number.
+
+Q: Is 66 even or odd?
+A: 66 is even.
+
+Q: What is 98*98?
+A: 98*98=9604.
+
+Q: What is the square root of 3249?
+A: The square root of 3249 is 57.
+
+Q: What is 58*58?
+A: 58*58=3364.
+
+Q: What is 49 squared?
+A: 49 squared is 2401.
+
+Q: Is 191 a prime number?
+A: Yes, 191 is a prime number.
+
+Q: What is 11 cubed?
+A: 11 cubed is 1331.
+
+Q: What is the square root of 841?
+A: The square root of 841 is 29.
+
+Q: What is 50% of 1000?
+A: 50% of 1000 is 500.
+
+Q: What is 2 to the power of 14?
+A: 2 to the power of 14 is 16384.
+
+Q: Is 3 a prime number?
+A: Yes, 3 is a prime number.
+
+Q: What is 79 squared?
+A: 79 squared is 6241.
+
+Q: What is the 9th Fibonacci number?
+A: The 9th Fibonacci number is 21.
+
+Q: What is 37*37?
+A: 37*37=1369.
+
+Q: What is 78 squared?
+A: 78 squared is 6084.
+
+Q: What is 25% of 200?
+A: 25% of 200 is 50.
+
+Q: Is 19 a prime number?
+A: Yes, 19 is a prime number.
+
+Q: What is 79*79?
+A: 79*79=6241.
+
+Q: What is 52 squared?
+A: 52 squared is 2704.
+
+Q: Is 56 even or odd?
+A: 56 is even.
+
+Q: Is 13 even or odd?
+A: 13 is odd.
+
+Q: What is 2 to the power of 15?
+A: 2 to the power of 15 is 32768.
+
+Q: What is 50% of 100?
+A: 50% of 100 is 50.
+
+Q: Is 11 a prime number?
+A: Yes, 11 is a prime number.
+
+Q: What is 60 squared?
+A: 60 squared is 3600.
+
+Q: What is 3*3?
+A: 3*3=9.
+
+Q: What is 15 squared?
+A: 15 squared is 225.
+
+Q: What is 2 to the power of 12?
+A: 2 to the power of 12 is 4096.
+
+Q: What is 10% of 50?
+A: 10% of 50 is 5.
+
+Q: What is 85*85?
+A: 85*85=7225.
+
+Q: What is the square root of 5625?
+A: The square root of 5625 is 75.
+
+Q: What is 2 to the power of 6?
+A: 2 to the power of 6 is 64.
+
+Q: What is 32 squared?
+A: 32 squared is 1024.
+
+Q: What is 50% of 500?
+A: 50% of 500 is 250.
+
+Q: What is 80 squared?
+A: 80 squared is 6400.
+
+Q: What is the square root of 3025?
+A: The square root of 3025 is 55.
+
+Q: What is 59*59?
+A: 59*59=3481.
+
+Q: What is 80% of 200?
+A: 80% of 200 is 160.
+
+Q: What is 40% of 50?
+A: 40% of 50 is 20.
+
+Q: Is 17 a prime number?
+A: Yes, 17 is a prime number.
+
+Q: Is 2 a prime number?
+A: Yes, 2 is a prime number.
+
+Q: What is 58*58?
+A: 58*58=3364.
+
+Q: What is 60% of 200?
+A: 60% of 200 is 120.
+
+Q: Is 31 a prime number?
+A: Yes, 31 is a prime number.
+
+Q: What is 85*85?
+A: 85*85=7225.
+
+Q: What is 60% of 100?
+A: 60% of 100 is 60.
+
+Q: Is 22 even or odd?
+A: 22 is even.
+
+Q: Is 35 even or odd?
+A: 35 is odd.
+
+Q: What is 55*55?
+A: 55*55=3025.
+
+Q: What is 2 to the power of 15?
+A: 2 to the power of 15 is 32768.
+
+Q: Is 4 a prime number?
+A: No, 4 is not a prime number.
+
+Q: Is 47 a prime number?
+A: Yes, 47 is a prime number.
+
+Q: Is 80 even or odd?
+A: 80 is even.
+
+Q: What is 20*20?
+A: 20*20=400.
+
+Q: What is 83 squared?
+A: 83 squared is 6889.
+
+Q: What is the square root of 1521?
+A: The square root of 1521 is 39.
+
+Q: Is 83 a prime number?
+A: Yes, 83 is a prime number.
+
+Q: What is 34 squared?
+A: 34 squared is 1156.
+
+Q: What is 21*21?
+A: 21*21=441.
+
+Q: Is 79 even or odd?
+A: 79 is odd.
+
+Q: What is 10% of 500?
+A: 10% of 500 is 50.
+
+Q: What is the square root of 3481?
+A: The square root of 3481 is 59.
+
+Q: What is the square root of 2500?
+A: The square root of 2500 is 50.
+
+Q: What is 12!?
+A: 12!=479001600.
+
+Q: What is 76 squared?
+A: 76 squared is 5776.
+
+Q: What is 9 factorial?
+A: 9 factorial is 362880.
+
+Q: What is 2 to the power of 17?
+A: 2 to the power of 17 is 131072.
+
+Q: What is the 18th Fibonacci number?
+A: The 18th Fibonacci number is 1597.
+
+Q: Is 12 a prime number?
+A: No, 12 is not a prime number.
+
+Q: What is 30% of 1000?
+A: 30% of 1000 is 300.
+
+Q: What is the 9th Fibonacci number?
+A: The 9th Fibonacci number is 21.
+
+Q: What is 2 to the power of 7?
+A: 2 to the power of 7 is 128.
+
+Q: What is 60% of 100?
+A: 60% of 100 is 60.
+
+Q: Is 67 a prime number?
+A: Yes, 67 is a prime number.
+
+Q: What is the square root of 7056?
+A: The square root of 7056 is 84.
+
+Q: What is 42 cubed?
+A: 42 cubed is 74088.
+
+Q: What is 19 squared?
+A: 19 squared is 361.
+
+Q: Is 7 a prime number?
+A: Yes, 7 is a prime number.
+
+Q: What is the square root of 169?
+A: The square root of 169 is 13.
+
+Q: What is 29 squared?
+A: 29 squared is 841.
+
+Q: Is 46 even or odd?
+A: 46 is even.
+
+Q: Is 25 even or odd?
+A: 25 is odd.
+
+Q: What is the square root of 1296?
+A: The square root of 1296 is 36.
+
+Q: Is 96 even or odd?
+A: 96 is even.
+
+Q: What is 75% of 500?
+A: 75% of 500 is 375.
+
+Q: What is 10 cubed?
+A: 10 cubed is 1000.
+
+Q: What is 44 cubed?
+A: 44 cubed is 85184.
+
+Q: What is 54 squared?
+A: 54 squared is 2916.
+
+Q: What is 96 squared?
+A: 96 squared is 9216.
+
+Q: What is 20*20?
+A: 20*20=400.
+
+Q: What is the square root of 169?
+A: The square root of 169 is 13.
+
+Q: What is 30 squared?
+A: 30 squared is 900.
+
+Q: Is 9 a prime number?
+A: No, 9 is not a prime number.
+
+Q: What is 40% of 500?
+A: 40% of 500 is 200.
+
+Q: What is 29 cubed?
+A: 29 cubed is 24389.
+
+Q: What is the square root of 4225?
+A: The square root of 4225 is 65.
+
+Q: What is 20% of 500?
+A: 20% of 500 is 100.
+
+Q: What is 2 to the power of 6?
+A: 2 to the power of 6 is 64.
+
+Q: Is 38 even or odd?
+A: 38 is even.
+
+Q: Is 15 a prime number?
+A: No, 15 is not a prime number.
+
+Q: What is 32 squared?
+A: 32 squared is 1024.
+
+Q: Is 17 even or odd?
+A: 17 is odd.
+
+Q: Is 38 even or odd?
+A: 38 is even.
+
+Q: What is the 10th Fibonacci number?
+A: The 10th Fibonacci number is 34.
+
+Q: What is 49*49?
+A: 49*49=2401.
+
+Q: What is 28*28?
+A: 28*28=784.
+
+Q: What is 4*4?
+A: 4*4=16.
+
+Q: What is 10 to the power of 2?
+A: 10 to the power of 2 is 100.
+
+Q: What is the square root of 2704?
+A: The square root of 2704 is 52.
+
+Q: Is 36 a prime number?
+A: No, 36 is not a prime number.
+
+Q: What is 45*45?
+A: 45*45=2025.
+
+Q: What is 7 factorial?
+A: 7 factorial is 5040.
+
+Q: What is 24 cubed?
+A: 24 cubed is 13824.
+
+Q: Is 2 a prime number?
+A: Yes, 2 is a prime number.
+
+Q: What is the square root of 4761?
+A: The square root of 4761 is 69.
+
+Q: What is 38*38?
+A: 38*38=1444.
+
+Q: Is 14 a prime number?
+A: No, 14 is not a prime number.
+
+Q: What is 56 squared?
+A: 56 squared is 3136.
+
+Q: Is 73 even or odd?
+A: 73 is odd.
+
+Q: Is 35 a prime number?
+A: No, 35 is not a prime number.
+
+Q: Is 139 a prime number?
+A: Yes, 139 is a prime number.
+
+Q: What is 4*4?
+A: 4*4=16.
+
+Q: What is 10 to the power of 9?
+A: 10 to the power of 9 is 1000000000.
+
+Q: Is 93 even or odd?
+A: 93 is odd.
+
+Q: Is 103 a prime number?
+A: Yes, 103 is a prime number.
+
+Q: Is 33 a prime number?
+A: No, 33 is not a prime number.
+
+Q: What is 33 squared?
+A: 33 squared is 1089.
+
+Q: Is 54 even or odd?
+A: 54 is even.
+
+Q: Is 93 even or odd?
+A: 93 is odd.
+
+Q: Is 66 even or odd?
+A: 66 is even.
+
+Q: What is the 16th Fibonacci number?
+A: The 16th Fibonacci number is 610.
+
+Q: Is 17 even or odd?
+A: 17 is odd.
+
+Q: What is 55 squared?
+A: 55 squared is 3025.
+
+Q: What is 62 squared?
+A: 62 squared is 3844.
+
+Q: Is 6 even or odd?
+A: 6 is even.
+
+Q: What is 6 factorial?
+A: 6 factorial is 720.
+
+Q: What is 4 squared?
+A: 4 squared is 16.
+
+Q: What is 16*16?
+A: 16*16=256.
+
+Q: What is 19*19?
+A: 19*19=361.
+
+Q: What is 90% of 100?
+A: 90% of 100 is 90.
+
+Q: What is 31 squared?
+A: 31 squared is 961.
+
+Q: What is 88*88?
+A: 88*88=7744.
+
+Q: What is 43 squared?
+A: 43 squared is 1849.
+
+Q: What is 30% of 1000?
+A: 30% of 1000 is 300.
+
+Q: Is 19 even or odd?
+A: 19 is odd.
+
+Q: Is 103 a prime number?
+A: Yes, 103 is a prime number.
+
+Q: What is the square root of 3136?
+A: The square root of 3136 is 56.
+
+Q: What is the square root of 100?
+A: The square root of 100 is 10.
+
+Q: Is 89 a prime number?
+A: Yes, 89 is a prime number.
+
+Q: What is 8!?
+A: 8!=40320.
+
+Q: Is 80 even or odd?
+A: 80 is even.
+
+Q: What is 38 squared?
+A: 38 squared is 1444.
+
+Q: What is the 3th Fibonacci number?
+A: The 3th Fibonacci number is 1.
+
+Q: What is 38 cubed?
+A: 38 cubed is 54872.
+
+Q: What is the square root of 144?
+A: The square root of 144 is 12.
+
+Q: What is 94*94?
+A: 94*94=8836.
+
+Q: Is 12 even or odd?
+A: 12 is even.
+
+Q: What is 33*33?
+A: 33*33=1089.
+
+Q: Is 15 a prime number?
+A: No, 15 is not a prime number.
+
+Q: Is 92 even or odd?
+A: 92 is even.
+
+Q: What is the square root of 196?
+A: The square root of 196 is 14.
+
+Q: Is 76 even or odd?
+A: 76 is even.
+
+Q: What is 78 squared?
+A: 78 squared is 6084.
+
+Q: What is 29 squared?
+A: 29 squared is 841.
+
+Q: What is 31*31?
+A: 31*31=961.
+
+Q: What is 6*6?
+A: 6*6=36.
+
+Q: What is the square root of 7921?
+A: The square root of 7921 is 89.
+
+Q: What is the 20th Fibonacci number?
+A: The 20th Fibonacci number is 4181.
+
+Q: Is 6 even or odd?
+A: 6 is even.
+
+Q: What is the 4th Fibonacci number?
+A: The 4th Fibonacci number is 2.
+
+Q: What is 84*84?
+A: 84*84=7056.
+
+Q: Is 49 even or odd?
+A: 49 is odd.
+
+Q: What is 85 squared?
+A: 85 squared is 7225.
+
+Q: What is 44 cubed?
+A: 44 cubed is 85184.
+
+Q: What is 47 cubed?
+A: 47 cubed is 103823.
+
+Q: What is 100*100?
+A: 100*100=10000.
+
+Q: What is 10 to the power of 4?
+A: 10 to the power of 4 is 10000.
+
+Q: What is the 8th Fibonacci number?
+A: The 8th Fibonacci number is 13.
+
+Q: Is 93 even or odd?
+A: 93 is odd.
+
+Q: What is 50% of 50?
+A: 50% of 50 is 25.
+
+Q: What is 2 to the power of 5?
+A: 2 to the power of 5 is 32.
+
+Q: Is 27 even or odd?
+A: 27 is odd.
+
+Q: Is 33 even or odd?
+A: 33 is odd.
+
+Q: What is the square root of 196?
+A: The square root of 196 is 14.
+
+Q: Is 29 even or odd?
+A: 29 is odd.
+
+Q: What is 70 squared?
+A: 70 squared is 4900.
+
+Q: What is 28 squared?
+A: 28 squared is 784.
+
+Q: What is 36*36?
+A: 36*36=1296.
+
+Q: Is 28 even or odd?
+A: 28 is even.
+
+Q: Is 131 a prime number?
+A: Yes, 131 is a prime number.
+
+Q: What is the square root of 1936?
+A: The square root of 1936 is 44.
+
+Q: What is 10!?
+A: 10!=3628800.
+
+Q: Is 53 even or odd?
+A: 53 is odd.
+
+Q: Is 62 even or odd?
+A: 62 is even.
+
+Q: Is 89 even or odd?
+A: 89 is odd.
+
+Q: What is 49 cubed?
+A: 49 cubed is 117649.
+
+Q: What is 32*32?
+A: 32*32=1024.
+
+Q: What is 75% of 1000?
+A: 75% of 1000 is 750.
+
+Q: What is 80*80?
+A: 80*80=6400.
+
+Q: Is 34 even or odd?
+A: 34 is even.
+
+Q: What is 40 cubed?
+A: 40 cubed is 64000.
+
+Q: What is 10% of 200?
+A: 10% of 200 is 20.
+
+Q: Is 79 even or odd?
+A: 79 is odd.
+
+Q: What is 90% of 50?
+A: 90% of 50 is 45.
+
+Q: What is 11*11?
+A: 11*11=121.
+
+Q: What is 44 squared?
+A: 44 squared is 1936.
+
+Q: What is 25% of 50?
+A: 25% of 50 is 12.
+
+Q: What is the square root of 2601?
+A: The square root of 2601 is 51.
+
+Q: What is 6 squared?
+A: 6 squared is 36.
+
+Q: What is 23 cubed?
+A: 23 cubed is 12167.
+
+Q: What is 64 squared?
+A: 64 squared is 4096.
+
+Q: What is 20% of 1000?
+A: 20% of 1000 is 200.
+
+Q: What is the square root of 6084?
+A: The square root of 6084 is 78.
+
+Q: What is 2 to the power of 16?
+A: 2 to the power of 16 is 65536.
+
+Q: What is the square root of 225?
+A: The square root of 225 is 15.
+
+Q: What is 18 cubed?
+A: 18 cubed is 5832.
+
+Q: What is the square root of 64?
+A: The square root of 64 is 8.
+
+Q: What is 87*87?
+A: 87*87=7569.
+
+Q: What is 7 factorial?
+A: 7 factorial is 5040.
+
+Q: What is 75*75?
+A: 75*75=5625.
+
+Q: What is 79*79?
+A: 79*79=6241.
+
+Q: What is the square root of 4225?
+A: The square root of 4225 is 65.
+
+Q: What is the 3th Fibonacci number?
+A: The 3th Fibonacci number is 1.
+
+Q: What is the 17th Fibonacci number?
+A: The 17th Fibonacci number is 987.
+
+Q: Is 167 a prime number?
+A: Yes, 167 is a prime number.
+
+Q: What is 91*91?
+A: 91*91=8281.
+
+Q: Is 15 a prime number?
+A: No, 15 is not a prime number.
+
+Q: What is the square root of 9216?
+A: The square root of 9216 is 96.
+
+Q: What is 10 to the power of 6?
+A: 10 to the power of 6 is 1000000.
+
+Q: What is 10 to the power of 3?
+A: 10 to the power of 3 is 1000.
+
+Q: What is 57*57?
+A: 57*57=3249.
+
+Q: What is 23 squared?
+A: 23 squared is 529.
+
+Q: Is 11 even or odd?
+A: 11 is odd.
+
+Q: Is 22 even or odd?
+A: 22 is even.
+
+Q: What is 81*81?
+A: 81*81=6561.
+
+Q: What is 5*5?
+A: 5*5=25.
+
+Q: What is 20% of 100?
+A: 20% of 100 is 20.
+
+Q: What is 80% of 1000?
+A: 80% of 1000 is 800.
+
+Q: What is 2 to the power of 2?
+A: 2 to the power of 2 is 4.
+
+Q: What is 50% of 50?
+A: 50% of 50 is 25.
+
+Q: What is the square root of 9?
+A: The square root of 9 is 3.
+
+Q: What is 33*33?
+A: 33*33=1089.
+
+Q: Is 10 even or odd?
+A: 10 is even.
+
+Q: What is 4 cubed?
+A: 4 cubed is 64.
+
+Q: Is 27 even or odd?
+A: 27 is odd.
+
+Q: Is 95 even or odd?
+A: 95 is odd.
+
+Q: What is 21 squared?
+A: 21 squared is 441.
+
+Q: What is 42*42?
+A: 42*42=1764.
+
+Q: What is the square root of 1600?
+A: The square root of 1600 is 40.
+
+Q: What is the square root of 1936?
+A: The square root of 1936 is 44.
+
+Q: What is 48*48?
+A: 48*48=2304.
+
+Q: What is the square root of 1764?
+A: The square root of 1764 is 42.
+
+Q: Is 49 even or odd?
+A: 49 is odd.
+
+Q: What is 2 to the power of 9?
+A: 2 to the power of 9 is 512.
+
+Q: What is 5!?
+A: 5!=120.
+
+Q: What is 43 cubed?
+A: 43 cubed is 79507.
+
+Q: What is 53 squared?
+A: 53 squared is 2809.
+
+Q: What is 6 squared?
+A: 6 squared is 36.
+
+Q: Is 33 a prime number?
+A: No, 33 is not a prime number.
+
+Q: What is 52*52?
+A: 52*52=2704.
+
+Q: Is 71 even or odd?
+A: 71 is odd.
+
+Q: Is 131 a prime number?
+A: Yes, 131 is a prime number.
+
+Q: What is 48 cubed?
+A: 48 cubed is 110592.
+
+Q: What is 15 cubed?
+A: 15 cubed is 3375.
+
+Q: What is 5 factorial?
+A: 5 factorial is 120.
+
+Q: What is the square root of 64?
+A: The square root of 64 is 8.
+
+Q: What is the 1th Fibonacci number?
+A: The 1th Fibonacci number is 0.
+
+Q: What is the square root of 4356?
+A: The square root of 4356 is 66.
+
+Q: What is the square root of 6241?
+A: The square root of 6241 is 79.
+
+Q: Is 5 even or odd?
+A: 5 is odd.
+
+Q: What is 10*10?
+A: 10*10=100.
+
+Q: What is 70% of 200?
+A: 70% of 200 is 140.
+
+Q: What is 31*31?
+A: 31*31=961.
+
+Q: What is 90% of 200?
+A: 90% of 200 is 180.
+
+Q: What is the square root of 196?
+A: The square root of 196 is 14.
+
+Q: What is the 15th Fibonacci number?
+A: The 15th Fibonacci number is 377.
+
+Q: Is 84 even or odd?
+A: 84 is even.
+
+Q: What is 6!?
+A: 6!=720.
+
+Q: What is 39*39?
+A: 39*39=1521.
+
+Q: Is 68 even or odd?
+A: 68 is even.
+
+Q: Is 93 even or odd?
+A: 93 is odd.
+
+Q: What is 30 squared?
+A: 30 squared is 900.
+
+Q: What is 40% of 1000?
+A: 40% of 1000 is 400.
+
+Q: What is 53*53?
+A: 53*53=2809.
+
+Q: What is 4!?
+A: 4!=24.
+
+Q: Is 101 a prime number?
+A: Yes, 101 is a prime number.
+
+Q: What is the square root of 900?
+A: The square root of 900 is 30.
+
+Q: What is 53*53?
+A: 53*53=2809.
+
+Q: Is 43 even or odd?
+A: 43 is odd.
+
+Q: Is 48 even or odd?
+A: 48 is even.
+
+Q: Is 22 even or odd?
+A: 22 is even.
+
+Q: Is 86 even or odd?
+A: 86 is even.
+
+Q: What is 11!?
+A: 11!=39916800.
+
+Q: Is 41 even or odd?
+A: 41 is odd.
+
+Q: Is 7 a prime number?
+A: Yes, 7 is a prime number.
+
+Q: What is the square root of 2304?
+A: The square root of 2304 is 48.
+
+Q: What is 7*7?
+A: 7*7=49.
+
+Q: Is 71 even or odd?
+A: 71 is odd.
+
+Q: What is 60% of 1000?
+A: 60% of 1000 is 600.
+
+Q: What is 60% of 100?
+A: 60% of 100 is 60.
+
+Q: Is 32 even or odd?
+A: 32 is even.
+
+Q: What is 10!?
+A: 10!=3628800.
+
+Q: What is 66 squared?
+A: 66 squared is 4356.
+
+Q: What is 40 squared?
+A: 40 squared is 1600.
+
+Q: What is 11 squared?
+A: 11 squared is 121.
+
+Q: What is 63 squared?
+A: 63 squared is 3969.
+
+Q: Is 51 even or odd?
+A: 51 is odd.
+
+Q: What is 30% of 50?
+A: 30% of 50 is 15.
+
+Q: What is 56*56?
+A: 56*56=3136.
+
+Q: What is 78*78?
+A: 78*78=6084.
+
+Q: What is 75% of 50?
+A: 75% of 50 is 37.
+
+Q: What is the square root of 7569?
+A: The square root of 7569 is 87.
+
+Q: What is the square root of 1600?
+A: The square root of 1600 is 40.
+
+Q: What is 64*64?
+A: 64*64=4096.
+
+Q: What is 74 squared?
+A: 74 squared is 5476.
+
+Q: What is 78*78?
+A: 78*78=6084.
+
+Q: Is 56 even or odd?
+A: 56 is even.
+
+Q: What is the square root of 529?
+A: The square root of 529 is 23.
+
+Q: What is 55*55?
+A: 55*55=3025.
+
+Q: What is 58*58?
+A: 58*58=3364.
+
+Q: What is 81*81?
+A: 81*81=6561.
+
+Q: What is the square root of 7744?
+A: The square root of 7744 is 88.
+
+Q: Is 5 a prime number?
+A: Yes, 5 is a prime number.
+
+Q: Is 10 even or odd?
+A: 10 is even.
+
+Q: What is 3 factorial?
+A: 3 factorial is 6.
+
+Q: What is the square root of 625?
+A: The square root of 625 is 25.
+
+Q: What is 10% of 1000?
+A: 10% of 1000 is 100.
+
+Q: Is 3 even or odd?
+A: 3 is odd.
+
+Q: What is 3!?
+A: 3!=6.
+
+Q: Is 16 even or odd?
+A: 16 is even.
+
+Q: What is the 12th Fibonacci number?
+A: The 12th Fibonacci number is 89.
+
+Q: What is 49 cubed?
+A: 49 cubed is 117649.
+
+Q: What is 2 to the power of 3?
+A: 2 to the power of 3 is 8.
+
+Q: What is the square root of 8281?
+A: The square root of 8281 is 91.
+
+Q: Is 157 a prime number?
+A: Yes, 157 is a prime number.
+
+Q: What is 12 cubed?
+A: 12 cubed is 1728.
+
+Q: What is the 18th Fibonacci number?
+A: The 18th Fibonacci number is 1597.
+
+Q: What is 2 to the power of 10?
+A: 2 to the power of 10 is 1024.
+
+Q: Is 47 even or odd?
+A: 47 is odd.
+
+Q: What is 11*11?
+A: 11*11=121.
+
+Q: What is 50*50?
+A: 50*50=2500.
+
+Q: What is 60% of 500?
+A: 60% of 500 is 300.
+
+Q: What is the square root of 6084?
+A: The square root of 6084 is 78.
+
+Q: What is 5!?
+A: 5!=120.
+
+Q: What is 30% of 50?
+A: 30% of 50 is 15.
+
+Q: What is 36*36?
+A: 36*36=1296.
+
+Q: What is 2 to the power of 19?
+A: 2 to the power of 19 is 524288.
+
+Q: Is 73 a prime number?
+A: Yes, 73 is a prime number.
+
+Q: What is 2*2?
+A: 2*2=4.
+
+Q: What is 52 squared?
+A: 52 squared is 2704.
+
+Q: What is 50% of 200?
+A: 50% of 200 is 100.
+
+Q: What is 21*21?
+A: 21*21=441.
+
+Q: What is 11*11?
+A: 11*11=121.
+
+Q: Is 13 a prime number?
+A: Yes, 13 is a prime number.
+
+Q: What is the 14th Fibonacci number?
+A: The 14th Fibonacci number is 233.
+
+Q: Is 39 even or odd?
+A: 39 is odd.
+
+Q: What is 13*13?
+A: 13*13=169.
+
+Q: What is 5 squared?
+A: 5 squared is 25.
+
+Q: Is 59 even or odd?
+A: 59 is odd.
+
+Q: Is 90 even or odd?
+A: 90 is even.
+
+Q: What is the 6th Fibonacci number?
+A: The 6th Fibonacci number is 5.
+
+Q: Is 66 even or odd?
+A: 66 is even.
+
+Q: What is 2 factorial?
+A: 2 factorial is 2.
+
+Q: What is 60% of 500?
+A: 60% of 500 is 300.
+
+Q: What is 11 factorial?
+A: 11 factorial is 39916800.
+
+Q: Is 72 even or odd?
+A: 72 is even.
+
+Q: What is 17 squared?
+A: 17 squared is 289.
+
+Q: Is 3 a prime number?
+A: Yes, 3 is a prime number.
+
+Q: What is 25% of 200?
+A: 25% of 200 is 50.
+
+Q: What is 60% of 500?
+A: 60% of 500 is 300.
+
+Q: What is 3 cubed?
+A: 3 cubed is 27.
+
+Q: What is 50 squared?
+A: 50 squared is 2500.
+
+Q: What is 50% of 100?
+A: 50% of 100 is 50.
+
+Q: Is 11 a prime number?
+A: Yes, 11 is a prime number.
+
+Q: What is 47 squared?
+A: 47 squared is 2209.
+
+Q: What is 1*1?
+A: 1*1=1.
+
+Q: What is 87 squared?
+A: 87 squared is 7569.
+
+Q: What is 25*25?
+A: 25*25=625.
+
+Q: What is 1*1?
+A: 1*1=1.
+
+Q: What is 2 to the power of 20?
+A: 2 to the power of 20 is 1048576.
+
+Q: What is 9 squared?
+A: 9 squared is 81.
+
+Q: Is 18 even or odd?
+A: 18 is even.
+
+Q: What is 50% of 500?
+A: 50% of 500 is 250.
+
+Q: What is 85 squared?
+A: 85 squared is 7225.
+
+Q: What is 73 squared?
+A: 73 squared is 5329.
+
+Q: Is 77 even or odd?
+A: 77 is odd.
+
+Q: Is 3 a prime number?
+A: Yes, 3 is a prime number.
+
+Q: What is 8 factorial?
+A: 8 factorial is 40320.
+
+Q: Is 62 even or odd?
+A: 62 is even.
+
+Q: What is 16 cubed?
+A: 16 cubed is 4096.
+
+Q: Is 98 even or odd?
+A: 98 is even.
+
+Q: What is 72*72?
+A: 72*72=5184.
